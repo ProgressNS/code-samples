@@ -14,7 +14,7 @@ Please be aware of, and follow, our official [Code of Conduct](https://github.co
 
 ## <a name="cla"></a> Signing the CLA
 
-Please sign our [Contributor License Agreement][http://www.nativescript.org/cla] (CLA) before sending pull requests. For any code changes to be accepted, the CLA must be signed. It's easy, we promise! 😀
+Please sign our [Contributor License Agreement](http://www.nativescript.org/cla) (CLA) before sending pull requests. For any code changes to be accepted, the CLA must be signed. It's easy, we promise! 😀
 
 ## <a name="submit"></a> Submission Guidelines
 

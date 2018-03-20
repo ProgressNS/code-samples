@@ -36,7 +36,7 @@ Please be aware of, and follow, our official [Code of Conduct](https://github.co
 
 ## Have a Question or Problem?
 
-If you have questions about how to use the code samples in a NativeScript app, please direct these to the [NativeScript Forum](https://discourse.nativescript.org/).
+👉 If you have questions about how to use the code samples in a NativeScript app, please direct these to the [NativeScript Forum](https://discourse.nativescript.org/).
 
 ## Discover a Bug with a Code Sample?
 
