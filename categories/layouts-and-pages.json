@@ -1,0 +1,113 @@
+{
+  "samples": [
+    {
+      "name": "Creating a modal page",
+      "description": "Modal pages are perfect when you want the user to select something without leaving the current page. Or even show a small form.",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=iC2pnQ&v=3",
+        "core": "https://play.nativescript.org/?template=play-js&id=4Mbqoc&v=3",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=2xom49"
+      }
+    },
+
+    {
+      "name": "Building custom modal dialogs",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=BDujuH&v=3",
+        "core": "",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Creating circular progressbars",
+      "description": "Linear progress bars are boring... How about we use some circular ones?",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=3",
+        "core": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm"
+      }
+    },
+
+    {
+      "name": "Adding dialogs to your app",
+      "description": "Dialogs help you to give quick feedback to the user about something. Or prompt the user to enter something, or to choose between multiple options.",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=dWQhV7",
+        "core": "https://play.nativescript.org/?template=play-js&id=cOCTYi",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=fBWYsl"
+      }
+    },
+
+    {
+      "name": "Implementing phone- and tablet-specific styling",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=uJIT6r",
+        "core": "https://play.nativescript.org/?template=play-js&id=62IRSQ",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Creating card UIs",
+      "description": "Use cards in your app to build attractive UI. Keep it minimal and simple.",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=2",
+        "core": "https://play.nativescript.org/?template=play-js&id=K4plIu",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=zgFteS"
+      }
+    },
+
+    {
+      "name": "Building ListViews with avatars/thumbnails",
+      "description": "Often times you need the list UI in your app to have an image for each item in the list. Here's an easy way to do that.",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC",
+        "core": "https://play.nativescript.org/?template=play-js&id=9nQNyA",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K"
+      }
+    },
+
+    {
+      "name": "Building a good-looking login form",
+      "description": "A good looking login/registration experience is a must have for any app. Here is a simple yet elegant looking login form example.",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=29",
+        "core": "https://play.nativescript.org/?template=play-js&id=h9CNcL&v=2",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M"
+      }
+    },
+
+    {
+      "name": "Implementing split-view components",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=zaE2Hf&v=5",
+        "core": "https://play.nativescript.org/?template=play-js&id=HBRXbR",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Using multiple list view templates",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=L8tcfY"
+      }
+    }
+  ]
+}
