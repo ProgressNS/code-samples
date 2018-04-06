@@ -1,0 +1,47 @@
+{
+  "samples": [
+    {
+      "name": "Storing and retrieving local data",
+      "description": "You can store and retrieve data in your app using application-settings module of NativeScript. This demo shows you the various API available with application-settings module.",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=QkYzyJ&v=2",
+        "core": "https://play.nativescript.org/?template=play-js&id=EwK7IM&v=4",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=bsfxpM"
+      }
+    },
+
+    {
+      "name": "Detecting online/offline connectivity",
+      "description": "You can easily monitor network status of the device using NativeScript's connectivity module.",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v",
+        "core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=3",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh"
+      }
+    },
+
+    {
+      "name": "Displaying a basic chart with RadChart",
+      "description": "Use RadCharts to display data creatively in your apps. There are various chart types to choose from. This demo shows Bar Chart type.",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=8zpRGL",
+        "core": "https://play.nativescript.org/?template=play-js&id=EhWMgK",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=en7KJC"
+      }
+    },
+
+    {
+      "name": "Displaying a basic gauge with RadGauges",
+      "description": "Use RadGauges to show progress of some tasks or any circular UI/UX experience that you can think of that involves gauges.",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC",
+        "core": "https://play.nativescript.org/?template=play-js&id=avb6XO",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv"
+      }
+    }
+  ]
+}

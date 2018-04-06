@@ -1,0 +1,36 @@
+{
+  "samples": [
+    {
+      "name": "A functional login form backed by Kinvey",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Implementing enterprise single sign on in your forms",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Syncing offline data",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": ""
+      }
+    }
+  ]
+}

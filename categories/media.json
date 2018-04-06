@@ -1,0 +1,102 @@
+{
+  "samples": [
+    {
+      "name": "Local/cloud image management (select/upload/download/display)",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Resize an image",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Crop an image",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Using the camera to take pictures",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Adding video to your app",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm"
+      }
+    },
+
+    {
+      "name": "Working with audio files",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=83Hs3D"
+      }
+    },
+
+    {
+      "name": "Building an image carousel",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Sending SMS messages from your app",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "",
+        "vue": ""
+      }
+    },
+
+    {
+      "name": "Integrating email into your app",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=mYich7",
+        "vue": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "samples": [
+    {
+      "name": "Implementing a parallax scroll effect",
+      "description": "",
+      "screenshots": [""],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=DXJkOJ&v=9",
+        "core": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=NL0CUC&v=3"
+      }
+    },
+
+    {
+      "name": "Configuring transitions between pages",
+      "description": "Add sleek looking transition animations when navigating between pages. There are many predefined animations to choose from. You can even make a custom one.",
+      "screenshots": [""],
+      "links": {
+        "angular": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=wO3Ml5&v=2",
+        "vue": ""
+      }
+    }
+  ]
+}
