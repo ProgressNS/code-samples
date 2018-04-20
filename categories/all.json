@@ -1,0 +1,170 @@
+{
+	"samples": [
+		{
+			"name": "Storing and retrieving local data",
+			"description": "You can store and retrieve data in your app using the application-settings module. This demo shows you the various application-settings APIs.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/localdata-ios-1.png",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/localdata-android-1.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=QkYzyJ&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=bsfxpM",
+				"core": "https://play.nativescript.org/?template=play-js&id=EwK7IM&v=4"
+			},
+			"categories": [
+				"data"
+			],
+			"authors": [
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "angular"
+				},
+				{
+					"name": "Igor Randjelovic",
+					"npmuser": "rigor789",
+					"framework": "vue"
+				},
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"localstorage",
+				"data",
+				"application-settings",
+				"app settings"
+			]
+		},
+		{
+			"name": "Detecting online/offline connectivity",
+			"description": "You can easily monitor the network status of a device using NativeScript's connectivity module.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-ios-1.png",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-ios-2.png",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-android-1.png",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-android-2.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh",
+				"core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=3"
+			},
+			"categories": [
+				"data"
+			],
+			"authors": [
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "angular"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "vue"
+				},
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"online",
+				"offline",
+				"connection",
+				"connectivity",
+				"network"
+			]
+		},
+		{
+			"name": "Displaying a basic chart with RadChart",
+			"description": "Use NativeScript UI's RadChart component to display data creatively in your apps. There are various chart types to choose from. This demo shows a bar chart.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radchart-ios-1.png",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radchart-android-1.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=8zpRGL",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=en7KJC",
+				"core": "https://play.nativescript.org/?template=play-js&id=EhWMgK"
+			},
+			"categories": [
+				"data"
+			],
+			"authors": [
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "angular"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "vue"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"radchart",
+				"nativescript ui",
+				"chart",
+				"bar",
+				"spline",
+				"pie"
+			]
+		},
+		{
+			"name": "Displaying a basic gauge with RadGauges",
+			"description": "Use NativeScript UI's RadGauges to show progress of a task or any circular UI/UX experience that involves gauges.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-ios-1.png",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-android-1.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv",
+				"core": "https://play.nativescript.org/?template=play-js&id=avb6XO"
+			},
+			"categories": [
+				"data"
+			],
+			"authors": [
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "angular"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "vue"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"radgauge",
+				"nativescript ui",
+				"progress",
+				"radial",
+				"gauge"
+			]
+		}
+	]
+}
