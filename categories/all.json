@@ -9,7 +9,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=QkYzyJ&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=bsfxpM",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=bsfxpM&v=2",
 				"core": "https://play.nativescript.org/?template=play-js&id=EwK7IM&v=4"
 			},
 			"categories": [
@@ -50,8 +50,8 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-android-2.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v&v=6",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh&v=2",
 				"core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=3"
 			},
 			"categories": [
@@ -91,9 +91,9 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radchart-android-1.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=8zpRGL",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=en7KJC",
-				"core": "https://play.nativescript.org/?template=play-js&id=EhWMgK"
+				"angular": "https://play.nativescript.org/?template=play-ng&id=8zpRGL&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=en7KJC&v=2",
+				"core": "https://play.nativescript.org/?template=play-js&id=EhWMgK&v=2"
 			},
 			"categories": [
 				"data"
@@ -133,9 +133,9 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-android-1.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv",
-				"core": "https://play.nativescript.org/?template=play-js&id=avb6XO"
+				"angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=2",
+				"core": "https://play.nativescript.org/?template=play-js&id=avb6XO&v=3"
 			},
 			"categories": [
 				"data"
