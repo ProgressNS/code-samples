@@ -18,60 +18,56 @@ Please sign our [Contributor License Agreement](http://www.nativescript.org/cla)
 
 ## <a name="submit"></a> Submission Guidelines
 
-// TODO: append some Playground-specific guidelines in here!!!
+The entire data source for the code samples lives in a monolithic `all.json` file in this repository. Any PR you make must conform to the structure of the individual code samples provided in there. For example:
 
-Before you submit your pull request consider the following guidelines:
+	{
+		"name": "Building a Good-Looking Login Form",
+		"description": "A good looking login/registration experience is a must have for any app. Here is a simple yet elegant looking login form example.",
+		"screenshots": [
+			"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-1.png",
+			"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-android-1.png"
+		],
+		"links": {
+			"angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=29",
+			"vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=2",
+			"core": "https://play.nativescript.org/?template=play-js&id=h9CNcL&v=3"
+		},
+		"categories": [
+			"layouts and pages"
+		],
+		"authors": [
+			{
+				"name": "TJ VanToll",
+				"npmuser": "tjvantoll",
+				"framework": "angular"
+			},
+			{
+				"name": "Igor Randjelovic",
+				"npmuser": "rigor789",
+				"framework": "vue"
+			},
+			{
+				"name": "Shiva Prasad",
+				"npmuser": "multishiv19",
+				"framework": "core"
+			}
+		],
+		"readme": "",
+		"keywords": [
+			"login",
+			"form",
+			"sign up",
+			"password"
+		]
+	}
 
-* Please sign our [Contributor License Agreement (CLA)](http://www.nativescript.org/cla) before sending pull requests. We cannot accept code without this. 🙀 
-* Make your changes in a new git branch:
-
-     ```shell
-     git checkout -b my-fix-branch master
-     ```
-
-* Create your patch
-* Avoid checking in files that shouldn't be tracked (e.g `node_modules`, `platforms`, or compiled .ipa/.apk binaries). We recommend using a [gitignore](https://help.github.com/articles/ignoring-files/) for this.
-* Commit your changes using a descriptive commit message.
-
-     ```shell
-     git commit -a
-     ```
-  Note: the optional commit `-a` command line option will automatically "add" and "rm" edited files.
-
-* Push your branch to GitHub:
-
-    ```shell
-    git push origin my-fix-branch
-    ```
-
-* In GitHub, send a pull request to `code-samples:master`.
+- **Name:** A short name of the app.
+- **Description:** A longer description, no more than two concise sentences.
+- **Screenshots:** At least one screenshot (two screenshots if platform differences are significant). **Must have consistent height of 1080px!** Ideally your png or jpg screenshots will be compressed with a services like [TinyPNG](https://tinypng.com/).
+- **Links:** URL(s) to the NativeScript Playground instance(s). Leave an empty string for any missing frameworks. **URLs should end with `v=` which signifies that you have saved the Playground project at least once.**
+- **Categories:** Enter an array of one or more categories from the [README](readme.md) doc.
+- **Authors:** The authors of the associated Playground links.
+- **ReadMe:** Not currently used.
+- **Keywords:** Optional keywords to make your code sample more easily discoverable.
 
 That's it! Thank you for your contribution! 🤗
-
-### After Pull Request is Merged
-
-After your pull request is merged, you can safely delete your branch and pull the changes from the main (upstream) repository:
-
-* Delete the remote branch on GitHub either through the GitHub web UI or your local shell as follows:
-
-    ```shell
-    git push origin --delete my-fix-branch
-    ```
-
-* Check out the master branch:
-
-    ```shell
-    git checkout master -f
-    ```
-
-* Delete the local branch:
-
-    ```shell
-    git branch -D my-fix-branch
-    ```
-
-* Update your master with the latest upstream version:
-
-    ```shell
-    git pull --ff upstream master
-    ```

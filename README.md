@@ -2,33 +2,32 @@
 
 This repository contains a collection of code samples showcasing typical functions required of a cross-platform mobile app built with [NativeScript](https://www.nativescript.org/).
 
-These code samples will be made available on the [NativeScript Marketplace](https://market.nativescript.org/) 🏪 and many of them run as-is in the [NativeScript Playground](https://play.nativescript.org/) 🤸.
+These code samples will be made available on the [NativeScript Marketplace](https://market.nativescript.org/?tab=samples) 🏪 and will run as-is in the [NativeScript Playground](https://play.nativescript.org/) 🤸.
 
 ## Prerequisites
 
 If you are new to NativeScript, the best place to start is by following our getting started tutorials for either [JavaScript](http://docs.nativescript.org/tutorial/chapter-0) or [Angular](http://docs.nativescript.org/angular/tutorial/ng-chapter-0). If you're a Vue.js developer, you may want to look at the [NativeScript-Vue quick start](https://nativescript-vue.org/en/docs/introduction/).
 
+Alternatively, mini tutorials are also available in the [NativeScript Playground](https://play.nativescript.org/).
+
 
 ## Overview of Code Samples
 
-This repository contains a variety of categories of code samples:
+This repository contains a variety of code sample categories:
 
- 1. [Advanced Concepts](https://market.nativescript.org/)
- 2. [Animations](https://market.nativescript.org/)
- 3. [Data](https://market.nativescript.org/)
- 4. [Forms](https://market.nativescript.org/)
- 5. [Interactions](https://market.nativescript.org/)
- 6. [Kinvey](https://market.nativescript.org/)
- 5. [Layouts and Pages](https://market.nativescript.org/)
- 6. [Media](https://market.nativescript.org/)
-
-// TODO: add perma link to marketplace in above links
+1. Layouts and Pages
+2. Forms and Data
+3. Interaction
+4. Animations
+5. Media
+6. Kinvey
+7. Advanced
 
 ## Contributing
 
 Interested in contributing your own code sample? Great! 🎉
 
-Before submitting a pull request, please consult our [contributor guide](CONTRIBUTING.md).
+**Before submitting a pull request, please consult our [contributor guide](CONTRIBUTING.md).**
 
 ## Code of Conduct
 
