@@ -252,7 +252,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/card-ui-android-1.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=2",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=3",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=zgFteS&v=2",
 				"core": "https://play.nativescript.org/?template=play-js&id=K4plIu&v=2"
 			},
@@ -289,9 +289,9 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-avatar-ios-1.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K&v=2",
-				"core": "https://play.nativescript.org/?template=play-js&id=9nQNyA&v=2"
+				"angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=4",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K&v=3",
+				"core": "https://play.nativescript.org/?template=play-js&id=9nQNyA&v=3"
 			},
 			"categories": [
 				"layouts and pages"
@@ -643,6 +643,111 @@
 				"login",
 				"form",
 				"password"
+			]
+		},
+		{
+			"name": "Building Custom Modal Dialogs",
+			"description": "You can easily create modal dialogs that contain custom UI.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/custom-modal.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=BDujuH&v=12"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"modal",
+				"dialog"
+			]
+		},
+		{
+			"name": "Adding Dialogs to Your App",
+			"description": "Dialogs help you to give quick feedback to the user about something. Or prompt the user to enter something, or to choose between multiple options.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/dialogs-ios-1.png",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/dialogs-android-1.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=dWQhV7&v=5",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=fBWYsl&v=2",
+				"core": "https://play.nativescript.org/?template=play-js&id=cOCTYi&v=2"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "Igor Randjelovic",
+					"npmuser": "rigor789",
+					"framework": "vue"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"dialog",
+				"feedback",
+				"alert",
+				"confirm",
+				"options"
+			]
+		},
+		{
+			"name": "Implementing Phone- and Tablet-specific Styling",
+			"description": "Learn how to alter your user interface based on phone and tablet form factors.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/device-specific-ui.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=uJIT6r&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=AevVWK&v=2",
+				"core": "https://play.nativescript.org/?template=play-js&id=62IRSQ&v=2"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "vue"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"phone",
+				"ipad",
+				"tablet",
+				"device"
 			]
 		}
 	]

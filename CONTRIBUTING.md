@@ -18,7 +18,11 @@ Please sign our [Contributor License Agreement](http://www.nativescript.org/cla)
 
 ## <a name="submit"></a> Submission Guidelines
 
-The entire data source for the code samples lives in a monolithic `all.json` file in this repository. Any PR you make must conform to the structure of the individual code samples provided in there. For example:
+The entire data source for the code samples lives in a monolithic `data/all.json` file in this repository. Any PR you make must conform to the structure of the individual code samples provided in there.
+
+> When in doubt, just submit a PR with a link to your NativeScript Playground project. We can help you fill in the details! 😀
+
+For example:
 
 	{
 		"name": "Building a Good-Looking Login Form",
