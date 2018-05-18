@@ -330,7 +330,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=29",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=6",
 				"core": "https://play.nativescript.org/?template=play-js&id=h9CNcL&v=3"
 			},
 			"categories": [
@@ -748,6 +748,86 @@
 				"ipad",
 				"tablet",
 				"device"
+			]
+		},
+		{
+			"name": "Implementing Split-View Components",
+			"description": "For when you want a two-column layout on tablets, but a one-column layout on phones.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-tablet.png",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-phone.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=zaE2Hf&v=5",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=rxN9wH&v=3",
+				"core": "https://play.nativescript.org/?template=play-js&id=HBRXbR&v=2"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "vue"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"phone",
+				"ipad",
+				"tablet",
+				"split-view",
+				"split",
+				"column",
+				"layout"
+			]
+		},
+		{
+			"name": "Using Multiple ListView Templates",
+			"description": "Have a list of different types of items? You can easily define different templates based on conditions, and the ListView will choose the right one.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multiple-listview-templates.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=5QGgUF&v=4",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=L8tcfY&v=4",
+				"core": "https://play.nativescript.org/?template=play-js&id=yy73to&v=4"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "Igor Randjelovic",
+					"npmuser": "rigor789",
+					"framework": "vue"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"listview",
+				"template"
 			]
 		}
 	]

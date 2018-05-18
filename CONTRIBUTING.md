@@ -67,7 +67,7 @@ For example:
 
 - **Name:** A short name of the app.
 - **Description:** A longer description, no more than two concise sentences.
-- **Screenshots:** At least one screenshot (two screenshots if platform differences are significant). **Must have consistent height of 1080px!** Ideally your png or jpg screenshots will be compressed with a services like [TinyPNG](https://tinypng.com/).
+- **Screenshots:** At least one screenshot (two screenshots if platform differences are significant). **Must have consistent height of 1080px if png/jpg or 375px if gif!** Ideally your png or jpg screenshots will be compressed with a services like [TinyPNG](https://tinypng.com/).
 - **Links:** URL(s) to the NativeScript Playground instance(s). Leave an empty string for any missing frameworks. **URLs should end with `v=` which signifies that you have saved the Playground project at least once.**
 - **Categories:** Enter an array of one or more categories from the [README](readme.md) doc.
 - **Authors:** The authors of the associated Playground links.
