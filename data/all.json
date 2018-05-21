@@ -829,6 +829,38 @@
 				"listview",
 				"template"
 			]
+		},
+		{
+			"name": "Using RadAutoCompleteTextView",
+			"description": "Do you expect users to input things from a list? The RadAutoCompleteTextView is a UI element that makes this easy.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radautocomplete.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=G78alI&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=MDT4GO&v=4",
+				"core": ""
+			},
+			"categories": [
+				"forms and data"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "Igor Randjelovic",
+					"npmuser": "rigor789",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"input",
+				"autocomplete"
+			]
 		}
 	]
 }
