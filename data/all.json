@@ -839,7 +839,7 @@
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=G78alI&v=2",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=MDT4GO&v=4",
-				"core": ""
+				"core": "https://play.nativescript.org/?template=play-tsc&id=rQ2vVD&v=4"
 			},
 			"categories": [
 				"forms and data"
@@ -854,6 +854,11 @@
 					"name": "Igor Randjelovic",
 					"npmuser": "rigor789",
 					"framework": "vue"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "core"
 				}
 			],
 			"readme": "",
