@@ -671,6 +671,32 @@
 			]
 		},
 		{
+			"name": "ListView and Details Page with Animating Header",
+			"description": "You can easily create Master/Detail UI with nice animations and transitions.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-header-animation.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=iDY4kF&v=11"
+			},
+			"categories": [
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "Todor Petrov",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"animation",
+				"transition",
+				"master detail",
+				"listview"
+			]
+		},
+		{
 			"name": "Adding Dialogs to Your App",
 			"description": "Dialogs help you to give quick feedback to the user about something. Or prompt the user to enter something, or to choose between multiple options.",
 			"screenshots": [
