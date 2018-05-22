@@ -890,7 +890,117 @@
 			],
 			"readme": "",
 			"keywords": [
-				"page", "view", "transition", "animation"
+				"page",
+				"view",
+				"transition",
+				"animation"
+			]
+		},
+		{
+			"name": "Creating Float-Up Text Labels",
+			"description": "Provide simple but effective label animations for when users focus on individual form elements.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/float-up-label.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=WlzgRU&v=10",
+				"core": ""
+			},
+			"categories": [
+				"forms and data",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"input",
+				"label",
+				"animation"
+			]
+		},
+		{
+			"name": "Adding Basic Gestures to Your Apps",
+			"description": "A simple demonstration of how to bind to user interface components to common gestures in your NativeScript apps.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-gestures.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=Wh9rvG&v=7",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=C8QFJH&v=2",
+				"core": "https://play.nativescript.org/?template=play-tsc&id=s1GglM&v=2"
+			},
+			"categories": [
+				"interactions"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "vue"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"gestures",
+				"rotate",
+				"tap",
+				"swipe",
+				"pinch"
+			]
+		},
+		{
+			"name": "Implementing a Parallax Scroll Effect",
+			"description": "Provide an engaging parallax effect to your views with a simple animation.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/parallax.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=b9hyJh&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=NL0CUC&v=3",
+				"core": "https://play.nativescript.org/?template=play-tsc&id=u5u9H5&v=4"
+			},
+			"categories": [
+				"interactions"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "vue"
+				},
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"parallax",
+				"scroll",
+				"animation"
 			]
 		}
 	]
