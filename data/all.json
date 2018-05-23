@@ -222,8 +222,8 @@
 			],
 			"authors": [
 				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
+					"name": "Jeremiah Ogbomo",
+					"npmuser": "jogboms",
 					"framework": "angular"
 				},
 				{
@@ -659,8 +659,8 @@
 			],
 			"authors": [
 				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
+					"name": "Jeremiah Ogbomo",
+					"npmuser": "jogboms",
 					"framework": "angular"
 				}
 			],
@@ -930,7 +930,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/float-up-label.gif"
 			],
 			"links": {
-				"angular": "",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=9GOYmZ&v=5",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=WlzgRU&v=10",
 				"core": ""
 			},
@@ -942,6 +942,11 @@
 				{
 					"name": "TJ VanToll",
 					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "Josh Sommer",
+					"npmuser": "joshdsommer",
 					"framework": "vue"
 				}
 			],
@@ -968,8 +973,8 @@
 			],
 			"authors": [
 				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
+					"name": "Josh Sommer",
+					"npmuser": "joshdsommer",
 					"framework": "angular"
 				},
 				{
