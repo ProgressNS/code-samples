@@ -409,7 +409,8 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-android-1.png"
 			],
 			"links": {
-				"vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=2"
+				"vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=2",
+				"core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=3"
 			},
 			"categories": [
 				"media"
@@ -419,6 +420,11 @@
 					"name": "Shiva Prasad",
 					"npmuser": "multishiv19",
 					"framework": "vue"
+				},
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
 				}
 			],
 			"readme": "",
@@ -1123,6 +1129,40 @@
 				"email",
 				"message",
 				"compose"
+			]
+		},
+		{
+			"name": "Getting a User’s Current Location",
+			"description": "Need to get the geocoordinates or address of the user? NativeScript-Geolocation makes that a breeze.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/geolocation-ios.png"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=2",
+				"core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
+			},
+			"categories": [
+				"advanced"
+			],
+			"authors": [
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "vue"
+				},
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"latitude",
+				"longitude",
+				"location",
+				"address"
 			]
 		}
 	]
