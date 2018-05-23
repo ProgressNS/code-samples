@@ -754,8 +754,8 @@
 			"name": "Implementing Split-View Components",
 			"description": "For when you want a two-column layout on tablets, but a one-column layout on phones.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-tablet.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-phone.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-tablet.gif",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-phone.gif"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=zaE2Hf&v=5",
