@@ -1044,7 +1044,7 @@
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=QgoOAr&v=3",
 				"vue": "",
-				"core": ""
+				"core": "https://play.nativescript.org/?template=play-tsc&id=lUXwID&v=3"
 			},
 			"categories": [
 				"interaction"
@@ -1054,6 +1054,11 @@
 					"name": "TJ VanToll",
 					"npmuser": "tjvantoll",
 					"framework": "angular"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "core"
 				}
 			],
 			"readme": "",
