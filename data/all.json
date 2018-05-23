@@ -685,6 +685,7 @@
 			"authors": [
 				{
 					"name": "Todor Petrov",
+					"npmuser": "tgpetrov",
 					"framework": "angular"
 				}
 			],
