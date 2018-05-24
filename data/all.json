@@ -409,7 +409,8 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-android-1.png"
 			],
 			"links": {
-				"vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=2"
+				"vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=2",
+				"core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=3"
 			},
 			"categories": [
 				"media"
@@ -419,6 +420,11 @@
 					"name": "Shiva Prasad",
 					"npmuser": "multishiv19",
 					"framework": "vue"
+				},
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
 				}
 			],
 			"readme": "",
@@ -1033,6 +1039,130 @@
 				"parallax",
 				"scroll",
 				"animation"
+			]
+		},
+		{
+			"name": "Basic Usage of RadSideDrawer",
+			"description": "Do you have lots of menu items? Don't you worry, the RadSideDrawer has got your back. It's very simple to add a Drawer to your application.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radsidedrawer.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=QgoOAr&v=3",
+				"vue": "",
+				"core": "https://play.nativescript.org/?template=play-tsc&id=lUXwID&v=3"
+			},
+			"categories": [
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"drawer",
+				"menu",
+				"navigation"
+			]
+		},
+		{
+			"name": "Using the Camera to Take a Picture",
+			"description": "Need to take a picture and save it to the device? Look no further.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-camera-ios.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=A218zg&v=3",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"media"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"camera",
+				"picture",
+				"photo"
+			]
+		},
+		{
+			"name": "Composing an Email Message",
+			"description": "If you need the ability to automatically or manually compose an email from your app and let the user use their mail client of choice to send it, check out this sample.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-email-android-1.png",
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-email-ios-1.png"
+			],
+			"links": {
+				"angular": "",
+				"vue": "",
+				"core": "https://play.nativescript.org/?template=play-js&id=mYich7&v=2"
+			},
+			"categories": [
+				"media"
+			],
+			"authors": [
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"email",
+				"message",
+				"compose"
+			]
+		},
+		{
+			"name": "Getting a User’s Current Location",
+			"description": "Need to get the geocoordinates or address of the user? NativeScript-Geolocation makes that a breeze.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/geolocation-ios.png"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=2",
+				"core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
+			},
+			"categories": [
+				"advanced"
+			],
+			"authors": [
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "vue"
+				},
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"latitude",
+				"longitude",
+				"location",
+				"address"
 			]
 		}
 	]
