@@ -751,9 +751,9 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/device-specific-ui.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=uJIT6r&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=AevVWK&v=2",
-				"core": "https://play.nativescript.org/?template=play-js&id=62IRSQ&v=2"
+				"angular": "https://play.nativescript.org/?template=play-ng&id=uJIT6r&v=3",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=AevVWK&v=3",
+				"core": "https://play.nativescript.org/?template=play-js&id=62IRSQ&v=3"
 			},
 			"categories": [
 				"layouts and pages"
