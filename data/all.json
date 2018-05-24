@@ -208,8 +208,7 @@
 			"name": "Creating Circular Progress Bars",
 			"description": "Linear progress bars are boring! How about we use some circular ones?",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/circular-progress-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/circular-progress-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/circular-progress-ios.gif"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=3",
