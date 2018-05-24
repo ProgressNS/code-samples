@@ -126,16 +126,15 @@
 			]
 		},
 		{
-			"name": "Displaying a Basic Gauge with RadGauges",
-			"description": "Use NativeScript UI's RadGauges to show progress of a task or any circular UI/UX experience that involves gauges.",
+			"name": "Displaying a Basic Gauge with a RadGauge",
+			"description": "Use NativeScript UI's RadGauge to show progress of a task or any circular UI/UX experience that involves gauges.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-ios.gif"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=2",
-				"core": "https://play.nativescript.org/?template=play-js&id=avb6XO&v=3"
+				"angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC&v=4",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=3",
+				"core": "https://play.nativescript.org/?template=play-js&id=avb6XO&v=5"
 			},
 			"categories": [
 				"forms and data"
