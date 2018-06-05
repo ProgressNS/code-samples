@@ -4,8 +4,7 @@
 			"name": "Storing and Retrieving Local Data",
 			"description": "You can store and retrieve data in your app using the application-settings module. This demo shows you the various application-settings APIs.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/localdata-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/localdata-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/localdata-ios-1.png"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=QkYzyJ&v=2",
@@ -44,10 +43,7 @@
 			"name": "Detecting Online/Offline Connectivity",
 			"description": "You can easily monitor the network status of a device using NativeScript's connectivity module.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-ios-2.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-android-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-android-2.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-ios-1.png"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v&v=6",
@@ -168,8 +164,7 @@
 			"name": "Creating a Modal Page",
 			"description": "Modal pages are perfect when you want the user to select something without leaving the current page. Or even show a small form.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-android-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-ios-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-android-1.png"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=iC2pnQ&v=4",
@@ -245,8 +240,7 @@
 			"name": "Creating Card UIs",
 			"description": "Use cards in your app to build attractive UI. Keep it minimal and simple.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/card-ui-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/card-ui-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/card-ui-ios-1.png"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=3",
@@ -282,8 +276,7 @@
 			"name": "Building ListViews with Avatars/Thumbnails",
 			"description": "Often times you need the list UI in your app to have an image for each item. Here's an easy way to do that.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-avatar-android-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-avatar-ios-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-avatar-android-1.png"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=4",
@@ -322,8 +315,7 @@
 			"name": "Building a Good-Looking Login Form",
 			"description": "A good looking login/registration experience is a must have for any app. Here is a simple yet elegant looking login form example.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-2.gif",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-2.gif"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=320",
@@ -362,8 +354,7 @@
 			"name": "Basic Usage of RadCalendar",
 			"description": "RadCalendar from NativeScript UI has all the features you need to show calendar, range date picking, showing events, and more.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radcalendar-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radcalendar-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radcalendar-ios-1.png"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=DKSI1b&v=3",
@@ -402,8 +393,7 @@
 			"name": "Adding Video to Your App",
 			"description": "NativeScript-Video makes it easy, just drop a Video tag, with a src attribute and boom, you've got video!",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-ios-1.png"
 			],
 			"links": {
 				"vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=2",
@@ -435,8 +425,7 @@
 			"name": "Working with Audio Files",
 			"description": "Need to play an audio file (e.g. mp3) in your app? Look no further than this audio sample app.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/audio-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/audio-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/audio-ios-1.png"
 			],
 			"links": {
 				"vue": "https://play.nativescript.org/?template=play-vue&id=83Hs3D&v=2"
@@ -462,8 +451,7 @@
 			"name": "Filterable ListView with Images",
 			"description": "Actively filter a listview with text entered in a Search Bar.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-filter-image-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-filter-image-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-filter-image-ios-1.png"
 			],
 			"links": {
 				"core": "https://play.nativescript.org/?template=play-tsc&id=TcHeUQ&v=10"
@@ -490,8 +478,7 @@
 			"name": "Basic ListView with Images",
 			"description": "Multi-column listview with images and text overlay.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multi-col-listview-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multi-col-listview-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multi-col-listview-ios-1.png"
 			],
 			"links": {
 				"core": "https://play.nativescript.org/?template=play-tsc&id=VNkHaw&v=4"
@@ -517,8 +504,7 @@
 			"name": "Image ListView with Text Overlay",
 			"description": "Highly styled image-focused listview with text overlapping items.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-images-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-images-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-images-ios-1.png"
 			],
 			"links": {
 				"core": "https://play.nativescript.org/?template=play-tsc&id=phg6fV&v=4"
@@ -545,8 +531,7 @@
 			"name": "ListView with Card UI",
 			"description": "A listview with card-based UI items that are variable sizes.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-card-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-card-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-card-ios-1.png"
 			],
 			"links": {
 				"core": "https://play.nativescript.org/?template=play-tsc&id=Zwli5I&v=3"
@@ -625,8 +610,7 @@
 			"name": "Simple Styled Login Form",
 			"description": "A basic UI-only view to inspire styled login form ideas.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-simple-ios-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-simple-android-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-simple-ios-1.png"
 			],
 			"links": {
 				"core": "https://play.nativescript.org/?template=play-tsc&id=e8gUAq&v=8"
@@ -783,8 +767,7 @@
 			"name": "Implementing Split-View Components",
 			"description": "For when you want a two-column layout on tablets, but a one-column layout on phones.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-tablet.gif",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-phone.gif"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-tablet.gif"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=zaE2Hf&v=5",
@@ -1102,8 +1085,7 @@
 			"name": "Composing an Email Message",
 			"description": "If you need the ability to automatically or manually compose an email from your app and let the user use their mail client of choice to send it, check out this sample.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-email-android-1.png",
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-email-ios-1.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-email-android-1.png"
 			],
 			"links": {
 				"angular": "",
