@@ -28,8 +28,7 @@ For example:
 		"name": "Building a Good-Looking Login Form",
 		"description": "A good looking login/registration experience is a must have for any app. Here is a simple yet elegant looking login form example.",
 		"screenshots": [
-			"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-1.png",
-			"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-android-1.png"
+			"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-1.png"
 		],
 		"links": {
 			"angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=29",
@@ -67,7 +66,7 @@ For example:
 
 - **Name:** A short name of the app.
 - **Description:** A longer description, no more than two concise sentences.
-- **Screenshots:** At least one screenshot (two screenshots if platform differences are significant). **Must have consistent height of 1080px if png/jpg or 375px if gif!** Ideally your png or jpg screenshots will be compressed with a services like [TinyPNG](https://tinypng.com/).
+- **Screenshots:** Direct link to one screenshot. **Must have consistent height of 1080px if png/jpg or 375px if gif!** Ideally your png or jpg screenshots will be compressed with a services like [TinyPNG](https://tinypng.com/).
 - **Links:** URL(s) to the NativeScript Playground instance(s). Leave an empty string for any missing frameworks. **URLs should end with `v=` which signifies that you have saved the Playground project at least once.**
 - **Categories:** Enter an array of one or more categories from the [README](readme.md) doc.
 - **Authors:** The authors of the associated Playground links.
