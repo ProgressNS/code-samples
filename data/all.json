@@ -37,7 +37,8 @@
 				"data",
 				"application-settings",
 				"app settings"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Detecting Online/Offline Connectivity",
@@ -77,7 +78,8 @@
 				"connection",
 				"connectivity",
 				"network"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Displaying a Basic Chart with RadChart",
@@ -118,7 +120,8 @@
 				"bar",
 				"spline",
 				"pie"
-			]
+			],
+			"order": 100
 		},
 		{
 			"name": "Displaying a Basic Gauge with a RadGauge",
@@ -158,7 +161,8 @@
 				"progress",
 				"radial",
 				"gauge"
-			]
+			],
+			"order": 50
 		},
 		{
 			"name": "Creating a Modal Page",
@@ -196,7 +200,8 @@
 				"modal",
 				"view",
 				"page"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Creating Circular Progress Bars",
@@ -234,7 +239,8 @@
 				"progress",
 				"bar",
 				"circular"
-			]
+			],
+			"order": 50
 		},
 		{
 			"name": "Creating Card UIs",
@@ -270,7 +276,8 @@
 			"readme": "",
 			"keywords": [
 				"card"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Building ListViews with Avatars/Thumbnails",
@@ -309,7 +316,8 @@
 				"avatar",
 				"thumbnail",
 				"list"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Building a Good-Looking Login Form",
@@ -348,7 +356,8 @@
 				"form",
 				"sign up",
 				"password"
-			]
+			],
+			"order": 100
 		},
 		{
 			"name": "Basic Usage of RadCalendar",
@@ -387,7 +396,8 @@
 				"date",
 				"event",
 				"schedule"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Adding Video to Your App",
@@ -419,7 +429,8 @@
 				"video",
 				"player",
 				"nativescript-video"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Working with Audio Files",
@@ -445,7 +456,8 @@
 				"audio",
 				"player",
 				"mp3"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Filterable ListView with Images",
@@ -472,7 +484,8 @@
 				"filter",
 				"search",
 				"images"
-			]
+			],
+			"order": 100
 		},
 		{
 			"name": "Basic ListView with Images",
@@ -498,7 +511,8 @@
 				"listview",
 				"images",
 				"multi-column"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Image ListView with Text Overlay",
@@ -525,7 +539,8 @@
 				"images",
 				"text",
 				"overlay"
-			]
+			],
+			"order": 100
 		},
 		{
 			"name": "ListView with Card UI",
@@ -550,7 +565,8 @@
 			"keywords": [
 				"listview",
 				"card"
-			]
+			],
+			"order": 50
 		},
 		{
 			"name": "News Feed with Images and Text Items",
@@ -577,7 +593,8 @@
 				"news",
 				"filter",
 				"search"
-			]
+			],
+			"order": 100
 		},
 		{
 			"name": "Master/Detail with SideDrawer and Image Background",
@@ -604,7 +621,8 @@
 				"master detail",
 				"drawer",
 				"sidedrawer"
-			]
+			],
+			"order": 100
 		},
 		{
 			"name": "Simple Styled Login Form",
@@ -630,7 +648,8 @@
 				"login",
 				"form",
 				"password"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Building Custom Modal Dialogs",
@@ -655,7 +674,8 @@
 			"keywords": [
 				"modal",
 				"dialog"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "ListView and Details Page with Animating Header",
@@ -682,7 +702,8 @@
 				"transition",
 				"master detail",
 				"listview"
-			]
+			],
+			"order": 50
 		},
 		{
 			"name": "Adding Dialogs to Your App",
@@ -722,7 +743,8 @@
 				"alert",
 				"confirm",
 				"options"
-			]
+			],
+			"order": 50
 		},
 		{
 			"name": "Implementing Phone- and Tablet-specific Styling",
@@ -761,7 +783,8 @@
 				"ipad",
 				"tablet",
 				"device"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Implementing Split-View Components",
@@ -803,7 +826,8 @@
 				"split",
 				"column",
 				"layout"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Using Multiple ListView Templates",
@@ -840,7 +864,8 @@
 			"keywords": [
 				"listview",
 				"template"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Using RadAutoCompleteTextView",
@@ -877,7 +902,8 @@
 			"keywords": [
 				"input",
 				"autocomplete"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Configuring Page Transitions",
@@ -906,7 +932,8 @@
 				"view",
 				"transition",
 				"animation"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Creating Float-Up Text Labels",
@@ -940,7 +967,8 @@
 				"input",
 				"label",
 				"animation"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Adding Basic Gestures to Your Apps",
@@ -980,7 +1008,8 @@
 				"tap",
 				"swipe",
 				"pinch"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Implementing a Parallax Scroll Effect",
@@ -1018,7 +1047,8 @@
 				"parallax",
 				"scroll",
 				"animation"
-			]
+			],
+			"order": 50
 		},
 		{
 			"name": "Basic Usage of RadSideDrawer",
@@ -1051,7 +1081,8 @@
 				"drawer",
 				"menu",
 				"navigation"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Using the Camera to Take a Picture",
@@ -1079,7 +1110,8 @@
 				"camera",
 				"picture",
 				"photo"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Composing an Email Message",
@@ -1107,7 +1139,8 @@
 				"email",
 				"message",
 				"compose"
-			]
+			],
+			"order": 0
 		},
 		{
 			"name": "Getting a User’s Current Location",
@@ -1141,7 +1174,8 @@
 				"longitude",
 				"location",
 				"address"
-			]
+			],
+			"order": 0
 		}
 	]
 }
