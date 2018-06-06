@@ -61,7 +61,8 @@ For example:
 			"form",
 			"sign up",
 			"password"
-		]
+		],
+		"order": 0
 	}
 
 - **Name:** A short name of the app.
@@ -72,5 +73,6 @@ For example:
 - **Authors:** The authors of the associated Playground links.
 - **ReadMe:** Not currently used.
 - **Keywords:** Optional keywords to make your code sample more easily discoverable.
+- **Order:** Leave this as 0 (this is the sort order that we handle internally to feature certain code samples).
 
 That's it! Thank you for your contribution! 🤗
