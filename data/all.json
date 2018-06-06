@@ -171,7 +171,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-android-1.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=iC2pnQ&v=4",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=iC2pnQ&v=6",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=2xom49&v=2",
 				"core": "https://play.nativescript.org/?template=play-js&id=4Mbqoc&v=3"
 			},
@@ -210,7 +210,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/circular-progress-ios.gif"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=3",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=20",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm&v=2",
 				"core": "https://play.nativescript.org/?template=play-js&id=tiSGL2&v=2"
 			},
@@ -366,7 +366,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radcalendar-ios-1.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=DKSI1b&v=3",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=DKSI1b&v=10",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=wpy6CS&v=3",
 				"core": "https://play.nativescript.org/?template=play-js&id=Cfv3rB&v=3"
 			},
