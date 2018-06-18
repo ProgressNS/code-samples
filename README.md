@@ -2,7 +2,7 @@
 
 This repository contains a collection of code samples showcasing typical functions required of a cross-platform mobile app built with [NativeScript](https://www.nativescript.org/).
 
-These code samples are available on the [NativeScript Marketplace](https://market.nativescript.org/?tab=samples) 🏪 and run as-is in [NativeScript Playground](https://play.nativescript.org/) 🤸.
+These code samples are available on the [NativeScript Marketplace](https://market.nativescript.org/?tab=samples&framework=core&category=all_samples) 🏪 and run as-is in [NativeScript Playground](https://play.nativescript.org/) 🤸.
 
 ## Prerequisites
 
