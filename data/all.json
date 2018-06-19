@@ -631,7 +631,33 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-highlight.png"
 			],
 			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=aB4217&v=2"
+				"core": "https://play.nativescript.org/?template=play-tsc&id=aB4217&v=3"
+			},
+			"categories": [
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"drawer",
+				"sidedrawer"
+			],
+			"order": 50
+		},
+		{
+			"name": "Drawer with Avatar",
+			"description": "A basic styled drawer with an avatar image.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-avatar.png"
+			],
+			"links": {
+				"core": "https://play.nativescript.org/?template=play-tsc&id=xow7Aa&v=3"
 			},
 			"categories": [
 				"interaction"
