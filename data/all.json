@@ -625,6 +625,32 @@
 			"order": 100
 		},
 		{
+			"name": "Drawer with Item Highlight",
+			"description": "A basic styled drawer with a highlighted item and an image background in the header.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-highlight.png"
+			],
+			"links": {
+				"core": "https://play.nativescript.org/?template=play-tsc&id=aB4217&v=2"
+			},
+			"categories": [
+				"forms and data"
+			],
+			"authors": [
+				{
+					"name": "Rob Lauer",
+					"npmuser": "rdlauer",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"drawer",
+				"sidedrawer"
+			],
+			"order": 50
+		},
+		{
 			"name": "Simple Styled Login Form",
 			"description": "A basic UI-only view to inspire styled login form ideas.",
 			"screenshots": [
