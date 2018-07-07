@@ -1228,6 +1228,38 @@
 				"address"
 			],
 			"order": 0
-		}
+		},			
+		{
+			"name": "iOS NavigationBar with large title",
+			"description": "iOS has recently introduced the concept of a large navigation bar title when the user needs to provide extra emphasis on context. This is a simple workaround that emulates this behavior.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/large-title.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=99K1mo&v=3",
+				"core": ""
+			},
+			"categories": [
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Carlos Cabral",
+					"npmuser": "carloscabral",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"animation",
+				"actionbar",
+				"navbar",
+				"scroll",
+				"transition",
+				"ios"
+			],
+			"order": 0
+		}	
 	]
 }
