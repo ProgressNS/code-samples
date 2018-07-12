@@ -10,6 +10,7 @@ If you are new to NativeScript, the best place to start is by following our gett
 
 Alternatively, mini tutorials are also available in the [NativeScript Playground](https://play.nativescript.org/).
 
+
 ## Overview of Code Samples
 
 This repository contains a variety of code sample categories:
