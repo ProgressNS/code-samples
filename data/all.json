@@ -1228,9 +1228,9 @@
 				"address"
 			],
 			"order": 0
-		},			
+		},
 		{
-			"name": "iOS NavigationBar with large title",
+			"name": "iOS NavigationBar with Large Title",
 			"description": "iOS has recently introduced the concept of a large navigation bar title when the user needs to provide extra emphasis on context. This is a simple workaround that emulates this behavior.",
 			"screenshots": [
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/large-title.gif"
@@ -1260,6 +1260,6 @@
 				"ios"
 			],
 			"order": 0
-		}	
+		}
 	]
 }
