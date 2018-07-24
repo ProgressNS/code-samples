@@ -1269,7 +1269,7 @@
 			],
 			"links": {
 				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=QMshGl&v=14",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=QMshGl&v=16",
 				"core": ""
 			},
 			"categories": [
@@ -1292,6 +1292,6 @@
 				"android"
 			],
 			"order": 0
-		}		
+		}
 	]
 }
