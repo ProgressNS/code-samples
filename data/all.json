@@ -1260,6 +1260,38 @@
 				"ios"
 			],
 			"order": 0
-		}
+		},
+		{
+			"name": "A functional clock built with Absolute Layout",
+			"description": "This sample shows how easily we can build a clock with the power of Absolute Layout and just a few lines of code.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/absolute-clock.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=QMshGl&v=14",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "Carlos Cabral",
+					"npmuser": "carloscabral",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"animation",
+				"clock",
+				"gradient",
+				"ios",
+				"android"
+			],
+			"order": 0
+		}		
 	]
 }
