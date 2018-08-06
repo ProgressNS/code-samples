@@ -994,9 +994,9 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/float-up-label.gif"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=9GOYmZ&v=5",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=9GOYmZ&v=59",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=WlzgRU&v=10",
-				"core": ""
+				"core": "https://play.nativescript.org/?template=play-js&id=oSksgv"
 			},
 			"categories": [
 				"forms and data",
