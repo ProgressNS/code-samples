@@ -1009,6 +1009,11 @@
 					"framework": "angular"
 				},
 				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "core"
+				},
+				{
 					"name": "Josh Sommer",
 					"npmuser": "joshdsommer",
 					"framework": "vue"
