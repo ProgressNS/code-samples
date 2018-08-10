@@ -1292,6 +1292,37 @@
 				"android"
 			],
 			"order": 0
+		},
+		{
+			"name": "Internet connection status bar",
+			"description": "Want to notify user if the device is offline? Display Internet connection status bar",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/internet-connection-status-bar.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=1RycDo&v=10"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "Aleksander Rakutska",
+					"npmuser": "arakutska",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"layout",
+				"bar",
+				"online",
+				"offline",
+				"connection",
+				"connectivity",
+				"network"
+			],
+			"order": 0
 		}
 	]
 }
