@@ -1273,7 +1273,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/absolute-clock.gif"
 			],
 			"links": {
-				"angular": "",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=MWXdk5&v=1",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=QMshGl&v=16",
 				"core": ""
 			},
@@ -1286,6 +1286,11 @@
 					"name": "Carlos Cabral",
 					"npmuser": "carloscabral",
 					"framework": "vue"
+				},
+				{
+					"name": "Jakub Pawlak",
+					"npmuser": "pawlak",
+					"framework": "angular"
 				}
 			],
 			"readme": "",
