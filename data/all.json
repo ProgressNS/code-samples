@@ -1206,7 +1206,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/geolocation-ios.png"
 			],
 			"links": {
-				"angular": "",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=2",
 				"core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
 			},
@@ -1214,6 +1214,11 @@
 				"advanced"
 			],
 			"authors": [
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "angular"
+				},
 				{
 					"name": "Shiva Prasad",
 					"npmuser": "multishiv19",
