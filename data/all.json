@@ -1148,9 +1148,9 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-camera-ios.gif"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=A218zg&v=3",
-				"vue": "",
-				"core": ""
+				"angular": "https://play.nativescript.org/?template=play-ng&id=VD8YSd",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=1j8XNf",
+				"core": "https://play.nativescript.org/?template=play-js&id=XWQoR7"
 			},
 			"categories": [
 				"media"
@@ -1160,6 +1160,16 @@
 					"name": "TJ VanToll",
 					"npmuser": "tjvantoll",
 					"framework": "angular"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "vue"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "core"
 				}
 			],
 			"readme": "",
@@ -1206,7 +1216,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/geolocation-ios.png"
 			],
 			"links": {
-				"angular": "",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=2",
 				"core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
 			},
@@ -1214,6 +1224,11 @@
 				"advanced"
 			],
 			"authors": [
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "angular"
+				},
 				{
 					"name": "Shiva Prasad",
 					"npmuser": "multishiv19",
