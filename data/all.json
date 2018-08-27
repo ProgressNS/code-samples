@@ -1348,6 +1348,39 @@
 				"network"
 			],
 			"order": 0
-		}
+		},
+		{
+			"name": "A custom Floating Action Button with eye-candy transitions.",
+			"description": "This sample shows how to use the power of NS Layouts and CSS to build a material design based components for either iOS or Android.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/custom-fab.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=AIQOcR&v=5",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"animations",
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Carlos Cabral",
+					"npmuser": "carloscabral",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"animation",
+				"transition",
+				"ios",
+				"android",
+				"material design"
+			],
+			"order": 0
+		}		
 	]
 }
