@@ -1353,7 +1353,7 @@
 			"name": "A custom Floating Action Button with eye-candy transitions.",
 			"description": "This sample shows how to use the power of NS Layouts and CSS to build a material design based components for either iOS or Android.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/custom-fab.gif"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/material-custom-fab.gif"
 			],
 			"links": {
 				"angular": "",
@@ -1380,7 +1380,7 @@
 				"android",
 				"material design"
 			],
-			"order": 0
-		}		
+			"order": 50
+		}
 	]
 }
