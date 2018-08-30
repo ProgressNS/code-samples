@@ -1216,7 +1216,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/geolocation-ios.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a&v=2",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=2",
 				"core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
 			},
