@@ -121,7 +121,7 @@
 				"spline",
 				"pie"
 			],
-			"order": 100
+			"order": 98
 		},
 		{
 			"name": "Displaying a Basic Gauge with a RadGauge",
@@ -485,7 +485,7 @@
 				"search",
 				"images"
 			],
-			"order": 100
+			"order": 75
 		},
 		{
 			"name": "Basic ListView with Images",
@@ -540,7 +540,7 @@
 				"text",
 				"overlay"
 			],
-			"order": 100
+			"order": 75
 		},
 		{
 			"name": "ListView with Card UI",
@@ -594,7 +594,7 @@
 				"filter",
 				"search"
 			],
-			"order": 100
+			"order": 75
 		},
 		{
 			"name": "Master/Detail with SideDrawer and Image Background",
@@ -622,7 +622,7 @@
 				"drawer",
 				"sidedrawer"
 			],
-			"order": 100
+			"order": 99
 		},
 		{
 			"name": "Drawer with Item Highlight",
@@ -1221,7 +1221,7 @@
 				"core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
 			},
 			"categories": [
-				"advanced"
+				"interaction"
 			],
 			"authors": [
 				{
