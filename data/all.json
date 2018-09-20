@@ -327,7 +327,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=320",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=6",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=340",
 				"core": "https://play.nativescript.org/?template=play-js&id=h9CNcL&v=3"
 			},
 			"categories": [
@@ -1390,7 +1390,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=LfbvME&v=15",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=7YrUzj&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=7YrUzj&v=3",
 				"core": "https://play.nativescript.org/?template=play-tsc&id=ixN0xD&v=2"
 			},
 			"categories": [
