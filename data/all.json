@@ -1381,6 +1381,44 @@
 				"material design"
 			],
 			"order": 50
+		},
+		{
+			"name": "A simple and easy-to-use dialog",
+			"description": "This sample shows how to build a simple dialog that you can style and drop into any page.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/simple-dialog-ios.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=LfbvME&v=15",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=7YrUzj&v=2",
+				"core": "https://play.nativescript.org/?template=play-tsc&id=ixN0xD&v=2"
+			},
+			"categories": [
+				"layouts and pages",
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "angular"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "vue"
+				},
+				{
+					"name": "TJ VanToll",
+					"npmuser": "tjvantoll",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"dialog"
+			],
+			"order": 98
 		}
 	]
 }
