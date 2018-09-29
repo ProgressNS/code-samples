@@ -8,7 +8,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=QkYzyJ&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=bsfxpM&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=bsfxpM&v=28",
 				"core": "https://play.nativescript.org/?template=play-js&id=EwK7IM&v=4"
 			},
 			"categories": [
@@ -47,8 +47,8 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-ios-1.png"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v&v=6",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh&v=3",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v&v=24",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh&v=9",
 				"core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=3"
 			},
 			"categories": [
@@ -131,7 +131,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC&v=4",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=3",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=9",
 				"core": "https://play.nativescript.org/?template=play-js&id=avb6XO&v=5"
 			},
 			"categories": [
@@ -172,7 +172,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=iC2pnQ&v=6",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=2xom49&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=2xom49&v=12",
 				"core": "https://play.nativescript.org/?template=play-js&id=4Mbqoc&v=3"
 			},
 			"categories": [
@@ -211,7 +211,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=20",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm&v=14",
 				"core": "https://play.nativescript.org/?template=play-js&id=tiSGL2&v=2"
 			},
 			"categories": [
@@ -250,7 +250,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=3",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=zgFteS&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=zgFteS&v=40",
 				"core": "https://play.nativescript.org/?template=play-js&id=K4plIu&v=2"
 			},
 			"categories": [
@@ -287,7 +287,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=4",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K&v=3",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K&v=55",
 				"core": "https://play.nativescript.org/?template=play-js&id=9nQNyA&v=3"
 			},
 			"categories": [
@@ -367,7 +367,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=DKSI1b&v=10",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=wpy6CS&v=3",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=wpy6CS&v=21",
 				"core": "https://play.nativescript.org/?template=play-js&id=Cfv3rB&v=3"
 			},
 			"categories": [
@@ -406,13 +406,19 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-ios-1.png"
 			],
 			"links": {
-				"vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=2",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=lCu2B5&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=11",
 				"core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=3"
 			},
 			"categories": [
 				"media"
 			],
 			"authors": [
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "angular"
+				},
 				{
 					"name": "Shiva Prasad",
 					"npmuser": "multishiv19",
@@ -439,7 +445,9 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/audio-ios-1.png"
 			],
 			"links": {
-				"vue": "https://play.nativescript.org/?template=play-vue&id=83Hs3D&v=2"
+				"angular": "https://play.nativescript.org/?template=play-ng&id=WBxQsb&v=3",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=83Hs3D&v=18",
+				"core": "https://play.nativescript.org/?template=play-js&id=eXsCJm&v=2"
 			},
 			"categories": [
 				"media"
@@ -448,7 +456,17 @@
 				{
 					"name": "Shiva Prasad",
 					"npmuser": "multishiv19",
+					"framework": "angular"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
 					"framework": "vue"
+				},
+				{
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
+					"framework": "core"
 				}
 			],
 			"readme": "",
@@ -765,7 +783,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=dWQhV7&v=5",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=fBWYsl&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=fBWYsl&v=14",
 				"core": "https://play.nativescript.org/?template=play-js&id=cOCTYi&v=2"
 			},
 			"categories": [
@@ -806,7 +824,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=uJIT6r&v=3",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=AevVWK&v=3",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=AevVWK&v=5",
 				"core": "https://play.nativescript.org/?template=play-js&id=62IRSQ&v=3"
 			},
 			"categories": [
@@ -846,7 +864,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=zaE2Hf&v=5",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=rxN9wH&v=3",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=rxN9wH&v=117",
 				"core": "https://play.nativescript.org/?template=play-js&id=HBRXbR&v=2"
 			},
 			"categories": [
@@ -889,7 +907,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=5QGgUF&v=4",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=L8tcfY&v=4",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=L8tcfY&v=23",
 				"core": "https://play.nativescript.org/?template=play-js&id=yy73to&v=4"
 			},
 			"categories": [
@@ -907,8 +925,8 @@
 					"framework": "vue"
 				},
 				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
+					"name": "Shiva Prasad",
+					"npmuser": "multishiv19",
 					"framework": "core"
 				}
 			],
@@ -927,7 +945,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=G78alI&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=MDT4GO&v=4",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=MDT4GO&v=6",
 				"core": "https://play.nativescript.org/?template=play-tsc&id=rQ2vVD&v=4"
 			},
 			"categories": [
@@ -995,7 +1013,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=9GOYmZ&v=59",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=WlzgRU&v=10",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=WlzgRU&v=17",
 				"core": "https://play.nativescript.org/?template=play-js&id=oSksgv&v=2"
 			},
 			"categories": [
@@ -1035,7 +1053,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=Wh9rvG&v=7",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=C8QFJH&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=C8QFJH&v=58",
 				"core": "https://play.nativescript.org/?template=play-tsc&id=s1GglM&v=2"
 			},
 			"categories": [
@@ -1076,7 +1094,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=b9hyJh&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=NL0CUC&v=3",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=NL0CUC&v=60",
 				"core": "https://play.nativescript.org/?template=play-tsc&id=u5u9H5&v=4"
 			},
 			"categories": [
@@ -1148,9 +1166,9 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-camera-ios.gif"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=VD8YSd",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=1j8XNf",
-				"core": "https://play.nativescript.org/?template=play-js&id=XWQoR7"
+				"angular": "https://play.nativescript.org/?template=play-ng&id=VD8YSd&v=10",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=1j8XNf&v=17",
+				"core": "https://play.nativescript.org/?template=play-js&id=XWQoR7&v=23"
 			},
 			"categories": [
 				"media"
@@ -1217,7 +1235,7 @@
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=2",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=45",
 				"core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
 			},
 			"categories": [
@@ -1257,7 +1275,7 @@
 			],
 			"links": {
 				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=99K1mo&v=3",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=99K1mo&v=55",
 				"core": ""
 			},
 			"categories": [
@@ -1288,7 +1306,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/absolute-clock.gif"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=MWXdk5&v=1",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=MWXdk5&v=6",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=QMshGl&v=16",
 				"core": ""
 			},
