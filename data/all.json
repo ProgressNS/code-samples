@@ -1437,6 +1437,37 @@
 				"dialog"
 			],
 			"order": 50
+		},
+		{
+			"name": "Animated Bottom Bar",
+			"description": "This sample shows how easily we can build a bottom bar with sliding animations",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottombar-animation.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=WvQnzu&v=19",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "William TjondroSuharto",
+					"npmuser": "williamjuan027",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"animation",
+				"bottombar",
+				"ios",
+				"android"
+			],
+			"order": 0
 		}
 	]
 }
