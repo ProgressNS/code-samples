@@ -1234,6 +1234,29 @@
       "readme": "",
       "keywords": ["animation", "bottombar", "ios", "android"],
       "order": 97
+    },
+    {
+      "name": "Groceries app using SQLite",
+      "description": "This sample shows how to build a fully functional offline Groceries app using sqlite database.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/groceries-sqlite.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=AO3iYR",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["forms and data","layouts and Pages", "interaction"],
+      "authors": [
+        {
+          "name": "Kumaran",
+          "npmuser": "kumarandena",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["groceries", "sqlite", "offline", "crud operation", "email-validator", "ios", "android"],
+      "order": 0
     }
   ]
 }
