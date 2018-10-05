@@ -1500,7 +1500,7 @@
 				"crud operation",
 				"email-validator"
 			],
-			"order": 0
+			"order": 50
 		}
 	]
 }
