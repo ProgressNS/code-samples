@@ -1501,6 +1501,35 @@
 				"email-validator"
 			],
 			"order": 50
+		},
+		{
+			"name": "Bottom Navigation Bar for Android",
+			"description": "Create a fully functional bottom navigation bar for android using nativescript components.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottom-navigation-bar.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "",
+				"core": "https://play.nativescript.org/?template=play-tsc&id=R2y34S&v=7"
+			},
+			"categories": [
+				"layouts and Pages",
+				"navigation"
+			],
+			"authors": [
+				{
+					"name": "Sowren Sen",
+					"npmuser": "sowrensen",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"navigation",
+				"bottom navigation bar"
+			],
+			"order": 0
 		}
 	]
 }
