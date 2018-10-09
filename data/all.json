@@ -776,6 +776,39 @@
 			"order": 50
 		},
 		{
+			"name": "Stylized Master/Detail app using Kinvey, Offline support, Image picking and persisting",
+			"description": "Implement Construction Sites Inspection app with user-friendly UX when working offline using Kinvey",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/kinvey-offline-support.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=36AEWh&v=23"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "Teodor Bozhikov",
+					"npmuser": "tbozhikov",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"online",
+				"offline",
+				"connection",
+				"connectivity",
+				"network",
+				"master detail",
+				"listview",
+				"kinvey",
+				"image picker"
+			],
+			"order": 50
+		},
+		{
 			"name": "Adding Dialogs to Your App",
 			"description": "Dialogs help you to give quick feedback to the user about something. Or prompt the user to enter something, or to choose between multiple options.",
 			"screenshots": [
