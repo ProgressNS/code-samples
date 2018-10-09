@@ -776,8 +776,8 @@
 			"order": 50
 		},
 		{
-			"name": "Stylized Master/Detail app using Kinvey, Offline support, Image picking and persisting",
-			"description": "Implement Construction Sites Inspection app with user-friendly UX when working offline using Kinvey",
+			"name": "Master/Detail using Kinvey, Offline, and Image Picker",
+			"description": "Example construction site inspection app with friendly UX working offline using Kinvey.",
 			"screenshots": [
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/kinvey-offline-support.gif"
 			],
