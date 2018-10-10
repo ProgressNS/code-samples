@@ -1515,7 +1515,7 @@
 			},
 			"categories": [
 				"forms and data",
-				"layouts and Pages",
+				"layouts and pages",
 				"interaction"
 			],
 			"authors": [
@@ -1537,7 +1537,7 @@
 		},
 		{
 			"name": "Bottom Navigation Bar for Android",
-			"description": "Create a fully functional bottom navigation bar for android using nativescript components.",
+			"description": "A fully-functional bottom navigation bar for Android using NativeScript components.",
 			"screenshots": [
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottom-navigation-bar.gif"
 			],
@@ -1547,7 +1547,7 @@
 				"core": "https://play.nativescript.org/?template=play-tsc&id=R2y34S&v=11"
 			},
 			"categories": [
-				"layouts and Pages",
+				"layouts and pages",
 				"navigation"
 			],
 			"authors": [
@@ -1560,7 +1560,8 @@
 			"readme": "",
 			"keywords": [
 				"navigation",
-				"bottom navigation bar"
+				"tab",
+				"bottom"
 			],
 			"order": 0
 		}
