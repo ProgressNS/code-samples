@@ -809,6 +809,37 @@
 			"order": 50
 		},
 		{
+			"name": "Pick an image and upload it to a HTTP service while displaying progress information",
+			"description": "An sample utilizing nativescript-imagepicker and nativescript-background-http plugins",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/image-picker-upload.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=pmXu7c&v=14"
+			},
+			"categories": [
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Teodor Bozhikov",
+					"npmuser": "tbozhikov",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"http",
+				"upload",
+				"post",
+				"image",
+				"picker",
+				"rest",
+				"listview"
+			],
+			"order": 50
+		},
+		{
 			"name": "Adding Dialogs to Your App",
 			"description": "Dialogs help you to give quick feedback to the user about something. Or prompt the user to enter something, or to choose between multiple options.",
 			"screenshots": [
