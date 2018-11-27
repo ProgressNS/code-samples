@@ -809,8 +809,8 @@
 			"order": 50
 		},
 		{
-			"name": "Pick an image and upload it to a HTTP service while displaying progress information",
-			"description": "An sample utilizing nativescript-imagepicker and nativescript-background-http plugins",
+			"name": "Upload Image to HTTP Service with Progress Info",
+			"description": "A sample utilizing nativescript-imagepicker and nativescript-background-http plugins",
 			"screenshots": [
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/image-picker-upload.gif"
 			],
