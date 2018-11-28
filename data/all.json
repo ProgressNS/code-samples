@@ -815,7 +815,8 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/image-picker-upload.gif"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=pmXu7c&v=14"
+				"angular": "https://play.nativescript.org/?template=play-ng&id=pmXu7c&v=15",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=lIjN6u&v=9"
 			},
 			"categories": [
 				"forms and data"
@@ -825,6 +826,11 @@
 					"name": "Teodor Bozhikov",
 					"npmuser": "tbozhikov",
 					"framework": "angular"
+				},
+				{
+					"name": "Teodor Bozhikov",
+					"npmuser": "tbozhikov",
+					"framework": "vue"
 				}
 			],
 			"readme": "",
