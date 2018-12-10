@@ -1722,6 +1722,99 @@
 				"graphs"
 			],
 			"order": 100
+		},
+		{
+			"name": "Tinder-like Swipeable Cards",
+			"description": "Swipe through a series of cards with this UI sample.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/tinder-cards.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=vCppC6&v=4",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"interaction",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "JCD.PL",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"tinder",
+				"swipe",
+				"cards"
+			],
+			"order": 75
+		},
+		{
+			"name": "Movie Listings",
+			"description": "Browse movies and even reserve your seats with this sample app.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/movie-listings.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=2cXCDZ&v=5",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "Kumaran, Pavlo Figol, and William Juan",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"seat selection",
+				"tickets",
+				"movies"
+			],
+			"order": 75
+		},
+		{
+			"name": "Order Taker",
+			"description": "Create an order and split the cost with your friends.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/order-taker.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=xImwWt&v=17",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"forms and data",
+				"interaction",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "Lawrence Marcelino and Franco B. Andrade",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"order",
+				"split",
+				"divide",
+				"form"
+			],
+			"order": 75
 		}
 	]
 }
