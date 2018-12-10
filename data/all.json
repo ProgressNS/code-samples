@@ -1815,6 +1815,67 @@
 				"form"
 			],
 			"order": 75
+		},
+		{
+			"name": "Travel Booking",
+			"description": "Book your next travel destination with this sample app.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/travel-booking.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=tzxBlZ&v=28",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"forms and data"
+			],
+			"authors": [
+				{
+					"name": "Pierre-Louis Duhoux",
+					"npmuser": "",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"travel",
+				"charts",
+				"booking",
+				"search"
+			],
+			"order": 50
+		},
+		{
+			"name": "Simple Card UI with Modal Views",
+			"description": "Get a tarot card reading - emoji style - with this engaging sample app.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-card-ui.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=j8E1UW&v=55",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Jen Looper and Lester Gonzales",
+					"npmuser": "",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"cards",
+				"modal",
+				"window"
+			],
+			"order": 50
 		}
 	]
 }
