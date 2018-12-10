@@ -1630,6 +1630,98 @@
 				"login"
 			],
 			"order": 0
+		},
+		{
+			"name": "Animated Search",
+			"description": "Rich animations power this city guide sample app, including a card-based UI.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/animated-search.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=uZMYoe&v=42",
+				"core": ""
+			},
+			"categories": [
+				"animations",
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Clément Roche",
+					"npmuser": "",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"guide",
+				"animations",
+				"cards",
+				"search"
+			],
+			"order": 100
+		},
+		{
+			"name": "Music Player UI",
+			"description": "An app design for an engaging music player app.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-player-ui.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=15",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"media"
+			],
+			"authors": [
+				{
+					"name": "Samat Odedara",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"music",
+				"player",
+				"cards"
+			],
+			"order": 25
+		},
+		{
+			"name": "Rich UI - Social Fitness Tracker",
+			"description": "A gorgeous app design for creating a social fitness tracker app (with charts!).",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-fit.png"
+			],
+			"links": {
+				"angular": "",
+				"vue": "",
+				"core": "https://play.nativescript.org/?template=play-js&id=7wQ8EL&v=5"
+			},
+			"categories": [
+				"layouts and pages",
+				"interaction",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "Mr. Blade",
+					"npmuser": "",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"social",
+				"charts",
+				"graphs"
+			],
+			"order": 100
 		}
 	]
 }
