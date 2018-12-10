@@ -1603,19 +1603,17 @@
 			"order": 0
 		},
 		{
-			"name": "Vod Application",
-			"description": "VOD (Video On Demand) Application, built with NativeScript",
+			"name": "VOD Application",
+			"description": "VOD (Video On Demand) app, with nice animations and a login screen.",
 			"screenshots": [
-				"https://github.com/vahidvdn/code-samples/blob/master/screens/vod-application.gif"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/vod-application.gif"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=UK71Zy&v=645",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=UK71Zy&v=646",
 				"vue": "",
 				"core": ""
 			},
 			"categories": [
-				"layouts and pages",
-				"navigation",
 				"animations"
 			],
 			"authors": [
@@ -1627,7 +1625,9 @@
 			],
 			"readme": "",
 			"keywords": [
-				"navigation"
+				"navigation",
+				"animations",
+				"login"
 			],
 			"order": 0
 		}
