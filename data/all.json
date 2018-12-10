@@ -1601,6 +1601,35 @@
 				"bottom"
 			],
 			"order": 0
+		},
+		{
+			"name": "Vod Application",
+			"description": "VOD (Video On Demand) Application, built with NativeScript",
+			"screenshots": [
+				"https://github.com/vahidvdn/code-samples/blob/master/screens/vod-application.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=UK71Zy&v=645",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"navigation",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "Vahid Najafi",
+					"npmuser": "vahid.vdn",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"navigation"
+			],
+			"order": 0
 		}
 	]
 }
