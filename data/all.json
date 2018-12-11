@@ -1,17 +1,18 @@
 {
 	"samples": [
 		{
-			"name": "Sample Carousel Implementation in NativeScript",
-			"description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations. ",
+			"name": "Carousel Sample Implementation",
+			"description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations.",
 			"screenshots": [
-				"https://github.com/sajjaphani/nativescript-carousel-ng/blob/master/screens/carousel-ns.gif"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/carousel-ns.gif"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=2VwwRE&v=19",
 				"core": "https://play.nativescript.org/?template=play-js&id=sRSad7&v=6"
 			},
 			"categories": [
-				"layouts and pages"
+				"layouts and pages",
+				"animations"
 			],
 			"authors": [
 				{
@@ -20,8 +21,8 @@
 					"framework": "angular"
 				},
 				{
-			"name": "Sajja Phani",
-			"npmuser": "sajjaphani",
+					"name": "Sajja Phani",
+					"npmuser": "sajjaphani",
 					"framework": "core"
 				}
 			],
@@ -31,7 +32,7 @@
 				"ui builder",
 				"animation"
 			],
-			"order": 0
+			"order": 50
 		},
 		{
 			"name": "Storing and Retrieving Local Data",
