@@ -1713,7 +1713,7 @@
 			],
 			"authors": [
 				{
-					"name": "Samat Odedara",
+					"name": "Samat Odedara and Tyler Blake",
 					"npmuser": "",
 					"framework": "angular"
 				}
@@ -1910,6 +1910,99 @@
 				"window"
 			],
 			"order": 50
+		},
+		{
+			"name": "Personal Finance Tracker",
+			"description": "A sample app containing some starter screens for building a personal finance tracking app.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/personal-finance.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=4XX1Ox&v=74",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"forms and data"
+			],
+			"authors": [
+				{
+					"name": "Bazzite",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"money",
+				"finance",
+				"charts",
+				"graphs"
+			],
+			"order": 75
+		},
+		{
+			"name": "Flight Booking UI",
+			"description": "A step-by-step interface for booking a flight.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/book-a-flight.png"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=10",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"forms and data"
+			],
+			"authors": [
+				{
+					"name": "Salvador Coronel Flores",
+					"npmuser": "",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"travel",
+				"flights",
+				"forms"
+			],
+			"order": 25
+		},
+		{
+			"name": "Swipeable Cards with Animations",
+			"description": "Build an engaging UI with this SpaceX spacecraft info starter app.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/spacex.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=27",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"animations",
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Enkot",
+					"npmuser": "",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"spacex",
+				"animations",
+				"swipeable",
+				"card"
+			],
+			"order": 75
 		}
 	]
 }
