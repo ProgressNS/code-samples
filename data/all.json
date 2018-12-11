@@ -2002,7 +2002,122 @@
 				"swipeable",
 				"card"
 			],
-			"order": 75
+			"order": 100
+		},
+		{
+			"name": "Personal Finance",
+			"description": "A personal finance sample app with a calendar component.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/personal-finance-cal.png"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=4JhSZz&v=49",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "Jamal A Mohammed",
+					"npmuser": "",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"finance",
+				"calendar"
+			],
+			"order": 25
+		},
+		{
+			"name": "Sports Score Viewer",
+			"description": "A UEFA Champions League sample app that can be customized for any league.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/champions-league.png"
+			],
+			"links": {
+				"angular": "",
+				"vue": "",
+				"core": "https://play.nativescript.org/?template=play-js&id=FL9JTe&v=44"
+			},
+			"categories": [
+				"layouts and pages",
+				"forms and data"
+			],
+			"authors": [
+				{
+					"name": "Sergii Kadubovskyi",
+					"npmuser": "",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"soccer",
+				"sports",
+				"scores",
+				"football"
+			],
+			"order": 0
+		},
+		{
+			"name": "Movie Watch List",
+			"description": "Allows you to page through the entire Marvel movie timeline, with the ability to mark movies as watched.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/marvel-movies.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=b7Pk1Z&v=10",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "Nicky McAllister and Aurore",
+					"npmuser": "",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"paging",
+				"movies",
+				"browse"
+			],
+			"order": 0
+		},
+		{
+			"name": "Hotel Booking",
+			"description": "Browse available hotel rooms with this sample app.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/hotel-booking.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=1pMYf3&v=61",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "Chukwuka Ezeoke",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [],
+			"order": 0
 		}
 	]
 }
