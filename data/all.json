@@ -1,7 +1,7 @@
 {
 	"samples": [
 		{
-			"name": "Carousel Implementation",
+			"name": "Sample Carousel Implementation in NativeScript",
 			"description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations. ",
 			"screenshots": [
 				"https://github.com/sajjaphani/nativescript-carousel-ng/blob/master/screens/carousel-ns.gif"
