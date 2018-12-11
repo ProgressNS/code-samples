@@ -2116,7 +2116,67 @@
 				}
 			],
 			"readme": "",
-			"keywords": [],
+			"keywords": [
+				"hotel room",
+				"booking"
+			],
+			"order": 0
+		},
+		{
+			"name": "Investment Tracker",
+			"description": "Start building an app to track investments with this sample.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/investment-tracker.png"
+			],
+			"links": {
+				"angular": "",
+				"vue": "",
+				"core": "https://play.nativescript.org/?template=play-js&id=9mMRsc&v=808"
+			},
+			"categories": [
+				"forms and data"
+			],
+			"authors": [
+				{
+					"name": "Andres Lopez",
+					"npmuser": "",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"finance",
+				"stocks",
+				"charts"
+			],
+			"order": 0
+		},
+		{
+			"name": "Color Picker",
+			"description": "Need a color picker for your app? Take a look at this implementation.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/color-picker.png"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=ARBnh6&v=12",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Martin Hettiger",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"color",
+				"pick"
+			],
 			"order": 0
 		}
 	]
