@@ -1,6 +1,39 @@
 {
 	"samples": [
 		{
+			"name": "Carousel Implementation",
+			"description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations. ",
+			"screenshots": [
+				"https://github.com/sajjaphani/nativescript-carousel-ng/blob/master/screens/carousel-ns.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=2VwwRE&v=19",
+				"core": "https://play.nativescript.org/?template=play-js&id=sRSad7&v=6"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "Sajja Phani",
+					"npmuser": "sajjaphani",
+					"framework": "angular"
+				},
+				{
+			"name": "Sajja Phani",
+			"npmuser": "sajjaphani",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"carousel",
+				"ui builder",
+				"animation"
+			],
+			"order": 0
+		},
+		{
 			"name": "Storing and Retrieving Local Data",
 			"description": "You can store and retrieve data in your app using the application-settings module. This demo shows you the various application-settings APIs.",
 			"screenshots": [
