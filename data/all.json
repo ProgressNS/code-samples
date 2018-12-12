@@ -1730,7 +1730,7 @@
 			"name": "Rich UI - Social Fitness Tracker",
 			"description": "A gorgeous app design for creating a social fitness tracker app (with charts!).",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-fit.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-fit.gif"
 			],
 			"links": {
 				"angular": "",
