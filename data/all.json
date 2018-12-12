@@ -1946,16 +1946,17 @@
 			"name": "Flight Booking UI",
 			"description": "A step-by-step interface for booking a flight.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/book-a-flight.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/book-a-flight.gif"
 			],
 			"links": {
 				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=10",
+				"vue": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=11",
 				"core": ""
 			},
 			"categories": [
 				"layouts and pages",
-				"forms and data"
+				"forms and data",
+				"animations"
 			],
 			"authors": [
 				{
@@ -1968,9 +1969,11 @@
 			"keywords": [
 				"travel",
 				"flights",
-				"forms"
+				"forms",
+				"date",
+				"animations"
 			],
-			"order": 25
+			"order": 75
 		},
 		{
 			"name": "Swipeable Cards with Animations",
@@ -2178,6 +2181,66 @@
 				"pick"
 			],
 			"order": 0
+		},
+		{
+			"name": "Music Streaming App",
+			"description": "This sample app contains an amazing design for to help boostrap the next great music streaming app.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-streaming.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=ERHBrE&v=11",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"interaction",
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "Yassine Zanina",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"music",
+				"stream",
+				"player"
+			],
+			"order": 100
+		},
+		{
+			"name": "Split it Up",
+			"description": "This app contains a design for splitting up a bill amongst friends.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-it-up.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "",
+				"core": "https://play.nativescript.org/?template=play-js&id=oZGfgU&v=63"
+			},
+			"categories": [
+				"layouts and pages",
+				"forms and data"
+			],
+			"authors": [
+				{
+					"name": "Sam",
+					"npmuser": "",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"finance",
+				"money",
+				"listview"
+			],
+			"order": 75
 		}
 	]
 }
