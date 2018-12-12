@@ -1949,8 +1949,8 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/book-a-flight.gif"
 			],
 			"links": {
-				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=11",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=11",
+				"vue": "",
 				"core": ""
 			},
 			"categories": [
@@ -1962,7 +1962,7 @@
 				{
 					"name": "Salvador Coronel Flores",
 					"npmuser": "",
-					"framework": "vue"
+					"framework": "angular"
 				}
 			],
 			"readme": "",
