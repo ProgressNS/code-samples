@@ -1761,7 +1761,7 @@
 			"name": "Tinder-like Swipeable Cards",
 			"description": "Swipe through a series of cards with this UI sample.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/tinder-cards.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/tinder.gif"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=vCppC6&v=4",
