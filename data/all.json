@@ -2241,6 +2241,68 @@
 				"listview"
 			],
 			"order": 75
+		},
+		{
+			"name": "Social Network",
+			"description": "Get a head start on building a new social networking with this sample app design.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-networking.png"
+			],
+			"links": {
+				"angular": "",
+				"vue": "",
+				"core": "https://play.nativescript.org/?template=play-js&id=O581mC&v=38"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "George Abashidze",
+					"npmuser": "",
+					"framework": "core"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"social",
+				"chat",
+				"listview"
+			],
+			"order": 25
+		},
+		{
+			"name": "Restaurant Menu App",
+			"description": "Browse a restaurant menu with this engaging app UI.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/restaurant-menu.gif"
+			],
+			"links": {
+				"angular": "",
+				"vue": "https://play.nativescript.org/?template=play-vue&id=sPOHNo&v=30",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"animations",
+				"interaction",
+				"navigation"
+			],
+			"authors": [
+				{
+					"name": "John Andrew Asaria",
+					"npmuser": "",
+					"framework": "vue"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"restaurant",
+				"menu",
+				"listview",
+				"animations"
+			],
+			"order": 99
 		}
 	]
 }
