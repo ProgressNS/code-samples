@@ -1700,7 +1700,7 @@
 			"name": "Music Player UI",
 			"description": "An app design for an engaging music player app.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-player-ui.png"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-player-ui.gif"
 			],
 			"links": {
 				"angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=15",
