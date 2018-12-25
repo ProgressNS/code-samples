@@ -1,2313 +1,1910 @@
 {
-	"samples": [
-		{
-			"name": "Carousel Sample Implementation",
-			"description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/carousel-ns.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=2VwwRE&v=19",
-				"core": "https://play.nativescript.org/?template=play-js&id=sRSad7&v=6"
-			},
-			"categories": [
-				"layouts and pages",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Sajja Phani",
-					"npmuser": "sajjaphani",
-					"framework": "angular"
-				},
-				{
-					"name": "Sajja Phani",
-					"npmuser": "sajjaphani",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"carousel",
-				"ui builder",
-				"animation"
-			],
-			"order": 50
-		},
-		{
-			"name": "Storing and Retrieving Local Data",
-			"description": "You can store and retrieve data in your app using the application-settings module. This demo shows you the various application-settings APIs.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/localdata-ios-1.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=QkYzyJ&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=bsfxpM&v=29",
-				"core": "https://play.nativescript.org/?template=play-js&id=EwK7IM&v=4"
-			},
-			"categories": [
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "angular"
-				},
-				{
-					"name": "Igor Randjelovic",
-					"npmuser": "rigor789",
-					"framework": "vue"
-				},
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"localstorage",
-				"data",
-				"application-settings",
-				"app settings"
-			],
-			"order": 0
-		},
-		{
-			"name": "Detecting Online/Offline Connectivity",
-			"description": "You can easily monitor the network status of a device using NativeScript's connectivity module.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-ios-1.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v&v=24",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh&v=12",
-				"core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=3"
-			},
-			"categories": [
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "vue"
-				},
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"online",
-				"offline",
-				"connection",
-				"connectivity",
-				"network"
-			],
-			"order": 0
-		},
-		{
-			"name": "Displaying a Basic Chart with RadChart",
-			"description": "Use NativeScript UI's RadChart component to display data creatively in your apps. There are various chart types to choose from. This demo shows a bar chart.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radchart-ios.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=8zpRGL&v=4",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=en7KJC&v=44",
-				"core": "https://play.nativescript.org/?template=play-js&id=EhWMgK&v=4"
-			},
-			"categories": [
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"radchart",
-				"nativescript ui",
-				"chart",
-				"bar",
-				"spline",
-				"pie"
-			],
-			"order": 98
-		},
-		{
-			"name": "Displaying a Basic Gauge with a RadGauge",
-			"description": "Use NativeScript UI's RadGauge to show progress of a task or any circular UI/UX experience that involves gauges.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-ios.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC&v=4",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=10",
-				"core": "https://play.nativescript.org/?template=play-js&id=avb6XO&v=5"
-			},
-			"categories": [
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"radgauge",
-				"nativescript ui",
-				"progress",
-				"radial",
-				"gauge"
-			],
-			"order": 50
-		},
-		{
-			"name": "Creating a Modal Page",
-			"description": "Modal pages are perfect when you want the user to select something without leaving the current page. Or even show a small form.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-android-1.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=iC2pnQ&v=6",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=2xom49&v=15",
-				"core": "https://play.nativescript.org/?template=play-js&id=4Mbqoc&v=3"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Igor Randjelovic",
-					"npmuser": "rigor789",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"modal",
-				"view",
-				"page"
-			],
-			"order": 0
-		},
-		{
-			"name": "Creating Circular Progress Bars",
-			"description": "Linear progress bars are boring! How about we use some circular ones?",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/circular-progress-ios.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=20",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm&v=16",
-				"core": "https://play.nativescript.org/?template=play-js&id=tiSGL2&v=2"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Jeremiah Ogbomo",
-					"npmuser": "jogboms",
-					"framework": "angular"
-				},
-				{
-					"name": "Igor Randjelovic",
-					"npmuser": "rigor789",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"progress",
-				"bar",
-				"circular"
-			],
-			"order": 50
-		},
-		{
-			"name": "Creating Card UIs",
-			"description": "Use cards in your app to build attractive UI. Keep it minimal and simple.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/card-ui-ios-1.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=3",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=zgFteS&v=41",
-				"core": "https://play.nativescript.org/?template=play-js&id=K4plIu&v=2"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Igor Randjelovic",
-					"npmuser": "rigor789",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"card"
-			],
-			"order": 0
-		},
-		{
-			"name": "Building ListViews with Avatars/Thumbnails",
-			"description": "Often times you need the list UI in your app to have an image for each item. Here's an easy way to do that.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-avatar-android-1.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=4",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K&v=56",
-				"core": "https://play.nativescript.org/?template=play-js&id=9nQNyA&v=3"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Igor Randjelovic",
-					"npmuser": "rigor789",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"listview",
-				"avatar",
-				"thumbnail",
-				"list"
-			],
-			"order": 0
-		},
-		{
-			"name": "Building a Good-Looking Login Form",
-			"description": "A good looking login/registration experience is a must have for any app. Here is a simple yet elegant looking login form example.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-2.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=3073",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=786",
-				"core": "https://play.nativescript.org/?template=play-js&id=h9CNcL&v=3"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Igor Randjelovic",
-					"npmuser": "rigor789",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"login",
-				"form",
-				"sign up",
-				"password"
-			],
-			"order": 100
-		},
-		{
-			"name": "Basic Usage of RadCalendar",
-			"description": "RadCalendar from NativeScript UI has all the features you need to show calendar, range date picking, showing events, and more.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radcalendar-ios-1.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=DKSI1b&v=10",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=wpy6CS&v=22",
-				"core": "https://play.nativescript.org/?template=play-js&id=Cfv3rB&v=3"
-			},
-			"categories": [
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"calendar",
-				"date",
-				"event",
-				"schedule"
-			],
-			"order": 0
-		},
-		{
-			"name": "Adding Video to Your App",
-			"description": "NativeScript-Video makes it easy, just drop a Video tag, with a src attribute and boom, you've got video!",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-ios-1.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=lCu2B5&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=12",
-				"core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=3"
-			},
-			"categories": [
-				"media"
-			],
-			"authors": [
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "vue"
-				},
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"video",
-				"player",
-				"nativescript-video"
-			],
-			"order": 0
-		},
-		{
-			"name": "Working with Audio Files",
-			"description": "Need to play an audio file (e.g. mp3) in your app? Look no further than this audio sample app.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/audio-ios-1.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=WBxQsb&v=3",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=83Hs3D&v=19",
-				"core": "https://play.nativescript.org/?template=play-js&id=eXsCJm&v=2"
-			},
-			"categories": [
-				"media"
-			],
-			"authors": [
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"audio",
-				"player",
-				"mp3"
-			],
-			"order": 0
-		},
-		{
-			"name": "Filterable ListView with Images",
-			"description": "Actively filter a listview with text entered in a Search Bar.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-filter-image-ios-1.png"
-			],
-			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=TcHeUQ&v=10"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"listview",
-				"filter",
-				"search",
-				"images"
-			],
-			"order": 75
-		},
-		{
-			"name": "Basic ListView with Images",
-			"description": "Multi-column listview with images and text overlay.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multi-col-listview-ios-1.png"
-			],
-			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=VNkHaw&v=4"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"listview",
-				"images",
-				"multi-column"
-			],
-			"order": 0
-		},
-		{
-			"name": "Image ListView with Text Overlay",
-			"description": "Highly styled image-focused listview with text overlapping items.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-images-ios-1.png"
-			],
-			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=phg6fV&v=4"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"listview",
-				"images",
-				"text",
-				"overlay"
-			],
-			"order": 75
-		},
-		{
-			"name": "ListView with Card UI",
-			"description": "A listview with card-based UI items that are variable sizes.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-card-ios-1.png"
-			],
-			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=Zwli5I&v=3"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"listview",
-				"card"
-			],
-			"order": 50
-		},
-		{
-			"name": "News Feed with Images and Text Items",
-			"description": "An easy way to display a news feed with an option to filter stories as well.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-newsfeed.gif"
-			],
-			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=drbfxY&v=6"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"listview",
-				"news",
-				"filter",
-				"search"
-			],
-			"order": 75
-		},
-		{
-			"name": "Master/Detail with SideDrawer and Image Background",
-			"description": "A master/detail UI that uses a SideDrawer as the master list with a styled view (with image background) as the child item.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-master-detail-drawer.gif"
-			],
-			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=Y4fVGt&v=16"
-			},
-			"categories": [
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"listview",
-				"master detail",
-				"drawer",
-				"sidedrawer"
-			],
-			"order": 99
-		},
-		{
-			"name": "Drawer with Item Highlight",
-			"description": "A basic styled drawer with a highlighted item and an image background in the header.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-highlight.png"
-			],
-			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=aB4217&v=3"
-			},
-			"categories": [
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"drawer",
-				"sidedrawer"
-			],
-			"order": 50
-		},
-		{
-			"name": "Drawer with Avatar",
-			"description": "A basic styled drawer with an avatar image.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-avatar.png"
-			],
-			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=xow7Aa&v=3"
-			},
-			"categories": [
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"drawer",
-				"sidedrawer"
-			],
-			"order": 50
-		},
-		{
-			"name": "Simple Styled Login Form",
-			"description": "A basic UI-only view to inspire styled login form ideas.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-simple-ios-1.png"
-			],
-			"links": {
-				"core": "https://play.nativescript.org/?template=play-tsc&id=e8gUAq&v=8"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"login",
-				"form",
-				"password"
-			],
-			"order": 0
-		},
-		{
-			"name": "Building Custom Modal Dialogs",
-			"description": "You can easily create modal dialogs that contain custom UI.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/custom-modal.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=BDujuH&v=12"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Jeremiah Ogbomo",
-					"npmuser": "jogboms",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"modal",
-				"dialog"
-			],
-			"order": 0
-		},
-		{
-			"name": "ListView and Details Page with Animating Header",
-			"description": "You can easily create Master/Detail UI with nice animations and transitions.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-header-animation.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=iDY4kF&v=11"
-			},
-			"categories": [
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Todor Petrov",
-					"npmuser": "tgpetrov",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"animation",
-				"transition",
-				"master detail",
-				"listview"
-			],
-			"order": 50
-		},
-		{
-			"name": "Master/Detail using Kinvey, Offline, and Image Picker",
-			"description": "Example construction site inspection app with friendly UX working offline using Kinvey.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/kinvey-offline-support.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=36AEWh&v=23"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Teodor Bozhikov",
-					"npmuser": "tbozhikov",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"online",
-				"offline",
-				"connection",
-				"connectivity",
-				"network",
-				"master detail",
-				"listview",
-				"kinvey",
-				"image picker"
-			],
-			"order": 50
-		},
-		{
-			"name": "Upload Image to HTTP Service with Progress Info",
-			"description": "A sample utilizing nativescript-imagepicker and nativescript-background-http plugins",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/image-picker-upload.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=pmXu7c&v=15",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=lIjN6u&v=10"
-			},
-			"categories": [
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Teodor Bozhikov",
-					"npmuser": "tbozhikov",
-					"framework": "angular"
-				},
-				{
-					"name": "Teodor Bozhikov",
-					"npmuser": "tbozhikov",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"http",
-				"upload",
-				"post",
-				"image",
-				"picker",
-				"rest",
-				"listview"
-			],
-			"order": 50
-		},
-		{
-			"name": "Adding Dialogs to Your App",
-			"description": "Dialogs help you to give quick feedback to the user about something. Or prompt the user to enter something, or to choose between multiple options.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/dialogs-ios.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=dWQhV7&v=5",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=fBWYsl&v=15",
-				"core": "https://play.nativescript.org/?template=play-js&id=cOCTYi&v=2"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Igor Randjelovic",
-					"npmuser": "rigor789",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"dialog",
-				"feedback",
-				"alert",
-				"confirm",
-				"options"
-			],
-			"order": 50
-		},
-		{
-			"name": "Implementing Phone- and Tablet-specific Styling",
-			"description": "Learn how to alter your user interface based on phone and tablet form factors.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/device-specific-ui.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=uJIT6r&v=3",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=AevVWK&v=6",
-				"core": "https://play.nativescript.org/?template=play-js&id=62IRSQ&v=3"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"phone",
-				"ipad",
-				"tablet",
-				"device"
-			],
-			"order": 0
-		},
-		{
-			"name": "Implementing Split-View Components",
-			"description": "For when you want a two-column layout on tablets, but a one-column layout on phones.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-tablet.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=zaE2Hf&v=5",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=rxN9wH&v=119",
-				"core": "https://play.nativescript.org/?template=play-js&id=HBRXbR&v=2"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"phone",
-				"ipad",
-				"tablet",
-				"split-view",
-				"split",
-				"column",
-				"layout"
-			],
-			"order": 0
-		},
-		{
-			"name": "Using Multiple ListView Templates",
-			"description": "Have a list of different types of items? You can easily define different templates based on conditions, and the ListView will choose the right one.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multiple-listview-templates.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=5QGgUF&v=4",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=L8tcfY&v=24",
-				"core": "https://play.nativescript.org/?template=play-js&id=yy73to&v=4"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Igor Randjelovic",
-					"npmuser": "rigor789",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"listview",
-				"template"
-			],
-			"order": 0
-		},
-		{
-			"name": "Using RadAutoCompleteTextView",
-			"description": "Do you expect users to input things from a list? The RadAutoCompleteTextView is a UI element that makes this easy.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radautocomplete.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=G78alI&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=MDT4GO&v=19",
-				"core": "https://play.nativescript.org/?template=play-tsc&id=rQ2vVD&v=4"
-			},
-			"categories": [
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Igor Randjelovic",
-					"npmuser": "rigor789",
-					"framework": "vue"
-				},
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"input",
-				"autocomplete"
-			],
-			"order": 0
-		},
-		{
-			"name": "Configuring Page Transitions",
-			"description": "Add sleek-looking transition animations when navigating between pages. There are many predefined animations to choose from.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/page-transitions.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "",
-				"core": "https://play.nativescript.org/?template=play-js&id=wO3Ml5&v=4"
-			},
-			"categories": [
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"page",
-				"view",
-				"transition",
-				"animation"
-			],
-			"order": 0
-		},
-		{
-			"name": "Creating Float-Up Text Labels",
-			"description": "Provide simple but effective label animations for when users focus on individual form elements.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/float-up-label.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=9GOYmZ&v=59",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=WlzgRU&v=32",
-				"core": "https://play.nativescript.org/?template=play-js&id=oSksgv&v=2"
-			},
-			"categories": [
-				"forms and data",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				},
-				{
-					"name": "Josh Sommer",
-					"npmuser": "joshdsommer",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"input",
-				"label",
-				"animation"
-			],
-			"order": 0
-		},
-		{
-			"name": "Adding Basic Gestures to Your Apps",
-			"description": "A simple demonstration of how to bind to user interface components to common gestures in your NativeScript apps.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-gestures.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=Wh9rvG&v=7",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=C8QFJH&v=59",
-				"core": "https://play.nativescript.org/?template=play-tsc&id=s1GglM&v=2"
-			},
-			"categories": [
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Josh Sommer",
-					"npmuser": "joshdsommer",
-					"framework": "angular"
-				},
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "vue"
-				},
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"gestures",
-				"rotate",
-				"tap",
-				"swipe",
-				"pinch"
-			],
-			"order": 0
-		},
-		{
-			"name": "Implementing a Parallax Scroll Effect",
-			"description": "Provide an engaging parallax effect to your views with a simple animation.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/parallax.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=b9hyJh&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=NL0CUC&v=64",
-				"core": "https://play.nativescript.org/?template=play-tsc&id=u5u9H5&v=4"
-			},
-			"categories": [
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "vue"
-				},
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"parallax",
-				"scroll",
-				"animation"
-			],
-			"order": 50
-		},
-		{
-			"name": "Basic Usage of RadSideDrawer",
-			"description": "Do you have lots of menu items? Don't you worry, the RadSideDrawer has got your back. It's very simple to add a Drawer to your application.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radsidedrawer.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=QgoOAr&v=3",
-				"vue": "",
-				"core": "https://play.nativescript.org/?template=play-tsc&id=lUXwID&v=3"
-			},
-			"categories": [
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"drawer",
-				"menu",
-				"navigation"
-			],
-			"order": 0
-		},
-		{
-			"name": "Using the Camera to Take a Picture",
-			"description": "Need to take a picture and save it to the device? Look no further.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-camera-ios.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=VD8YSd&v=10",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=1j8XNf&v=24",
-				"core": "https://play.nativescript.org/?template=play-js&id=XWQoR7&v=23"
-			},
-			"categories": [
-				"media"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "vue"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"camera",
-				"picture",
-				"photo"
-			],
-			"order": 0
-		},
-		{
-			"name": "Composing an Email Message",
-			"description": "If you need the ability to automatically or manually compose an email from your app and let the user use their mail client of choice to send it, check out this sample.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-email-android-1.png"
-			],
-			"links": {
-				"angular": "",
-				"vue": "",
-				"core": "https://play.nativescript.org/?template=play-js&id=mYich7&v=2"
-			},
-			"categories": [
-				"media"
-			],
-			"authors": [
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"email",
-				"message",
-				"compose"
-			],
-			"order": 0
-		},
-		{
-			"name": "Getting a User’s Current Location",
-			"description": "Need to get the geocoordinates or address of the user? NativeScript-Geolocation makes that a breeze.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/geolocation-ios.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a&v=2",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=46",
-				"core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
-			},
-			"categories": [
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "angular"
-				},
-				{
-					"name": "Shiva Prasad",
-					"npmuser": "multishiv19",
-					"framework": "vue"
-				},
-				{
-					"name": "Rob Lauer",
-					"npmuser": "rdlauer",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"latitude",
-				"longitude",
-				"location",
-				"address"
-			],
-			"order": 0
-		},
-		{
-			"name": "iOS NavigationBar with Large Title",
-			"description": "iOS has recently introduced the concept of a large navigation bar title when the user needs to provide extra emphasis on context. This is a simple workaround that emulates this behavior.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/large-title.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=99K1mo&v=56",
-				"core": ""
-			},
-			"categories": [
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Carlos Cabral",
-					"npmuser": "carloscabral",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"animation",
-				"actionbar",
-				"navbar",
-				"scroll",
-				"transition",
-				"ios"
-			],
-			"order": 0
-		},
-		{
-			"name": "A functional clock built with Absolute Layout",
-			"description": "This sample shows how easily we can build a clock with the power of Absolute Layout and just a few lines of code.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/absolute-clock.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=MWXdk5&v=6",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=QMshGl&v=36",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Carlos Cabral",
-					"npmuser": "carloscabral",
-					"framework": "vue"
-				},
-				{
-					"name": "Jakub Pawlak",
-					"npmuser": "pawlak",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"animation",
-				"clock",
-				"gradient",
-				"ios",
-				"android"
-			],
-			"order": 0
-		},
-		{
-			"name": "Internet connection status bar",
-			"description": "Want to notify user if the device is offline? Display Internet connection status bar",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/internet-connection-status-bar.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=1RycDo&v=10"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Aleksander Rakutska",
-					"npmuser": "arakutska",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"layout",
-				"bar",
-				"online",
-				"offline",
-				"connection",
-				"connectivity",
-				"network"
-			],
-			"order": 0
-		},
-		{
-			"name": "A custom Floating Action Button with eye-candy transitions.",
-			"description": "This sample shows how to use the power of NS Layouts and CSS to build a material design based components for either iOS or Android.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/material-custom-fab.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=AIQOcR&v=22",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"animations",
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Carlos Cabral",
-					"npmuser": "carloscabral",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"animation",
-				"transition",
-				"ios",
-				"android",
-				"material design"
-			],
-			"order": 50
-		},
-		{
-			"name": "A simple and easy-to-use dialog",
-			"description": "This sample shows how to build a simple dialog that you can style and drop into any page.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/simple-dialog-ios.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=LfbvME&v=15",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=7YrUzj&v=7",
-				"core": "https://play.nativescript.org/?template=play-tsc&id=ixN0xD&v=2"
-			},
-			"categories": [
-				"layouts and pages",
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "angular"
-				},
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "vue"
-				},
-				{
-					"name": "TJ VanToll",
-					"npmuser": "tjvantoll",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"dialog"
-			],
-			"order": 50
-		},
-		{
-			"name": "Animated Tab Bar",
-			"description": "This sample shows how easily we can build a tab bar with sliding animations",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottombar-animation.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=WvQnzu&v=19",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "William TjondroSuharto",
-					"npmuser": "williamjuan027",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"animation",
-				"bottombar",
-				"ios",
-				"android"
-			],
-			"order": 97
-		},
-		{
-			"name": "Groceries app using SQLite",
-			"description": "This sample shows how to build a fully functional offline task-tracking app (groceries) using a sqlite database.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/groceries-sqlite.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=AO3iYR&v=2",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"forms and data",
-				"layouts and pages",
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Kumaran",
-					"npmuser": "kumarandena",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"groceries",
-				"sqlite",
-				"offline",
-				"crud operation",
-				"email-validator"
-			],
-			"order": 50
-		},
-		{
-			"name": "Bottom Navigation Bar for Android",
-			"description": "A fully-functional bottom navigation bar for Android using NativeScript components.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottom-navigation-bar.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "",
-				"core": "https://play.nativescript.org/?template=play-tsc&id=R2y34S&v=11"
-			},
-			"categories": [
-				"layouts and pages",
-				"navigation"
-			],
-			"authors": [
-				{
-					"name": "Sowren Sen",
-					"npmuser": "sowrensen",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"navigation",
-				"tab",
-				"bottom"
-			],
-			"order": 0
-		},
-		{
-			"name": "VOD Application",
-			"description": "VOD (Video On Demand) app, with nice animations and a login screen.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/vod-application.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=UK71Zy&v=646",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Vahid Najafi",
-					"npmuser": "vahid.vdn",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"navigation",
-				"animations",
-				"login"
-			],
-			"order": 0
-		},
-		{
-			"name": "Animated Search",
-			"description": "Rich animations power this city guide sample app, including a card-based UI.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/animated-search.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=uZMYoe&v=42",
-				"core": ""
-			},
-			"categories": [
-				"animations",
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Clément Roche",
-					"npmuser": "",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"guide",
-				"animations",
-				"cards",
-				"search"
-			],
-			"order": 100
-		},
-		{
-			"name": "Music Player UI",
-			"description": "An app design for an engaging music player app.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-player-ui.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=15",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"media"
-			],
-			"authors": [
-				{
-					"name": "Samat Odedara and Tyler Blake",
-					"npmuser": "",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"music",
-				"player",
-				"cards"
-			],
-			"order": 25
-		},
-		{
-			"name": "Rich UI - Social Fitness Tracker",
-			"description": "A gorgeous app design for creating a social fitness tracker app (with charts!).",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-fit.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "",
-				"core": "https://play.nativescript.org/?template=play-js&id=7wQ8EL&v=5"
-			},
-			"categories": [
-				"layouts and pages",
-				"interaction",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Mr. Blade",
-					"npmuser": "",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"social",
-				"charts",
-				"graphs"
-			],
-			"order": 100
-		},
-		{
-			"name": "Tinder-like Swipeable Cards",
-			"description": "Swipe through a series of cards with this UI sample.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/tinder.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=vCppC6&v=4",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"interaction",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "JCD.PL",
-					"npmuser": "",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"tinder",
-				"swipe",
-				"cards"
-			],
-			"order": 75
-		},
-		{
-			"name": "Movie Listings",
-			"description": "Browse movies and even reserve your seats with this sample app.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/movie-listings.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=2cXCDZ&v=5",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Kumaran, Pavlo Figol, and William Juan",
-					"npmuser": "",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"seat selection",
-				"tickets",
-				"movies"
-			],
-			"order": 75
-		},
-		{
-			"name": "Order Taker",
-			"description": "Create an order and split the cost with your friends.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/order-taker.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=xImwWt&v=17",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"forms and data",
-				"interaction",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Lawrence Marcelino and Franco B. Andrade",
-					"npmuser": "",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"order",
-				"split",
-				"divide",
-				"form"
-			],
-			"order": 75
-		},
-		{
-			"name": "Travel Booking",
-			"description": "Book your next travel destination with this sample app.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/travel-booking.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=tzxBlZ&v=28",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Pierre-Louis Duhoux",
-					"npmuser": "",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"travel",
-				"charts",
-				"booking",
-				"search"
-			],
-			"order": 50
-		},
-		{
-			"name": "Simple Card UI with Modal Views",
-			"description": "Get a tarot card reading - emoji style - with this engaging sample app.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-card-ui.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=j8E1UW&v=55",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Jen Looper and Lester Gonzales",
-					"npmuser": "",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"cards",
-				"modal",
-				"window"
-			],
-			"order": 50
-		},
-		{
-			"name": "Personal Finance Tracker",
-			"description": "A sample app containing some starter screens for building a personal finance tracking app.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/personal-finance.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=4XX1Ox&v=74",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Bazzite",
-					"npmuser": "",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"money",
-				"finance",
-				"charts",
-				"graphs"
-			],
-			"order": 75
-		},
-		{
-			"name": "Flight Booking UI",
-			"description": "A step-by-step interface for booking a flight.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/book-a-flight.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=11",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"forms and data",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Salvador Coronel Flores",
-					"npmuser": "",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"travel",
-				"flights",
-				"forms",
-				"date",
-				"animations"
-			],
-			"order": 75
-		},
-		{
-			"name": "Swipeable Cards with Animations",
-			"description": "Build an engaging UI with this SpaceX spacecraft info starter app.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/spacex.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=27",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"animations",
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Enkot",
-					"npmuser": "",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"spacex",
-				"animations",
-				"swipeable",
-				"card"
-			],
-			"order": 100
-		},
-		{
-			"name": "Personal Finance",
-			"description": "A personal finance sample app with a calendar component.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/personal-finance-cal.png"
-			],
-			"links": {
-				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=4JhSZz&v=49",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Jamal A Mohammed",
-					"npmuser": "",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"finance",
-				"calendar"
-			],
-			"order": 25
-		},
-		{
-			"name": "Sports Score Viewer",
-			"description": "A UEFA Champions League sample app that can be customized for any league.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/champions-league.png"
-			],
-			"links": {
-				"angular": "",
-				"vue": "",
-				"core": "https://play.nativescript.org/?template=play-js&id=FL9JTe&v=44"
-			},
-			"categories": [
-				"layouts and pages",
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Sergii Kadubovskyi",
-					"npmuser": "",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"soccer",
-				"sports",
-				"scores",
-				"football"
-			],
-			"order": 0
-		},
-		{
-			"name": "Movie Watch List",
-			"description": "Allows you to page through the entire Marvel movie timeline, with the ability to mark movies as watched.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/marvel-movies.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=b7Pk1Z&v=10",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Nicky McAllister and Aurore",
-					"npmuser": "",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"paging",
-				"movies",
-				"browse"
-			],
-			"order": 0
-		},
-		{
-			"name": "Hotel Booking",
-			"description": "Browse available hotel rooms with this sample app.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/hotel-booking.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=1pMYf3&v=61",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"animations"
-			],
-			"authors": [
-				{
-					"name": "Chukwuka Ezeoke",
-					"npmuser": "",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"hotel room",
-				"booking"
-			],
-			"order": 0
-		},
-		{
-			"name": "Investment Tracker",
-			"description": "Start building an app to track investments with this sample.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/investment-tracker.png"
-			],
-			"links": {
-				"angular": "",
-				"vue": "",
-				"core": "https://play.nativescript.org/?template=play-js&id=9mMRsc&v=808"
-			},
-			"categories": [
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Andres Lopez",
-					"npmuser": "",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"finance",
-				"stocks",
-				"charts"
-			],
-			"order": 0
-		},
-		{
-			"name": "Color Picker",
-			"description": "Need a color picker for your app? Take a look at this implementation.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/color-picker.png"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=ARBnh6&v=12",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"interaction"
-			],
-			"authors": [
-				{
-					"name": "Martin Hettiger",
-					"npmuser": "",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"color",
-				"pick"
-			],
-			"order": 0
-		},
-		{
-			"name": "Music Streaming App",
-			"description": "This sample app contains an amazing design for to help boostrap the next great music streaming app.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-streaming.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=ERHBrE&v=11",
-				"vue": "",
-				"core": ""
-			},
-			"categories": [
-				"interaction",
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "Yassine Zanina",
-					"npmuser": "",
-					"framework": "angular"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"music",
-				"stream",
-				"player"
-			],
-			"order": 100
-		},
-		{
-			"name": "Split it Up",
-			"description": "This app contains a design for splitting up a bill amongst friends.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-it-up.gif"
-			],
-			"links": {
-				"angular": "",
-				"vue": "",
-				"core": "https://play.nativescript.org/?template=play-js&id=oZGfgU&v=63"
-			},
-			"categories": [
-				"layouts and pages",
-				"forms and data"
-			],
-			"authors": [
-				{
-					"name": "Sam",
-					"npmuser": "",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"finance",
-				"money",
-				"listview"
-			],
-			"order": 75
-		},
-		{
-			"name": "Social Network",
-			"description": "Get a head start on building a new social networking with this sample app design.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-networking.png"
-			],
-			"links": {
-				"angular": "",
-				"vue": "",
-				"core": "https://play.nativescript.org/?template=play-js&id=O581mC&v=38"
-			},
-			"categories": [
-				"layouts and pages"
-			],
-			"authors": [
-				{
-					"name": "George Abashidze",
-					"npmuser": "",
-					"framework": "core"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"social",
-				"chat",
-				"listview"
-			],
-			"order": 25
-		},
-		{
-			"name": "Restaurant Menu App",
-			"description": "Browse a restaurant menu with this engaging app UI.",
-			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/restaurant-menu.gif"
-			],
-			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=DVxbTC&v=12",
-				"vue": "https://play.nativescript.org/?template=play-vue&id=sPOHNo&v=70",
-				"core": ""
-			},
-			"categories": [
-				"layouts and pages",
-				"animations",
-				"interaction",
-				"navigation"
-			],
-			"authors": [
-				{
-					"name": "Tyler Blake",
-					"npmuser": "",
-					"framework": "angular"
-				},
-				{
-					"name": "John Andrew Asaria",
-					"npmuser": "",
-					"framework": "vue"
-				}
-			],
-			"readme": "",
-			"keywords": [
-				"restaurant",
-				"menu",
-				"listview",
-				"animations"
-			],
-			"order": 99
-		}
-	]
+  "samples": [
+    {
+      "name": "Carousel Sample Implementation",
+      "description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/carousel-ns.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=2VwwRE&v=19",
+        "core": "https://play.nativescript.org/?template=play-js&id=sRSad7&v=6"
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "Sajja Phani",
+          "npmuser": "sajjaphani",
+          "framework": "angular"
+        },
+        {
+          "name": "Sajja Phani",
+          "npmuser": "sajjaphani",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["carousel", "ui builder", "animation"],
+      "order": 50
+    },
+    {
+      "name": "Storing and Retrieving Local Data",
+      "description": "You can store and retrieve data in your app using the application-settings module. This demo shows you the various application-settings APIs.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/localdata-ios-1.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=QkYzyJ&v=2",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=bsfxpM&v=29",
+        "core": "https://play.nativescript.org/?template=play-js&id=EwK7IM&v=4"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "angular"
+        },
+        {
+          "name": "Igor Randjelovic",
+          "npmuser": "rigor789",
+          "framework": "vue"
+        },
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "localstorage",
+        "data",
+        "application-settings",
+        "app settings"
+      ],
+      "order": 0
+    },
+    {
+      "name": "Detecting Online/Offline Connectivity",
+      "description": "You can easily monitor the network status of a device using NativeScript's connectivity module.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-ios-1.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v&v=24",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh&v=12",
+        "core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=3"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "vue"
+        },
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "online",
+        "offline",
+        "connection",
+        "connectivity",
+        "network"
+      ],
+      "order": 0
+    },
+    {
+      "name": "Displaying a Basic Chart with RadChart",
+      "description": "Use NativeScript UI's RadChart component to display data creatively in your apps. There are various chart types to choose from. This demo shows a bar chart.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radchart-ios.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=8zpRGL&v=4",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=en7KJC&v=44",
+        "core": "https://play.nativescript.org/?template=play-js&id=EhWMgK&v=4"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "radchart",
+        "nativescript ui",
+        "chart",
+        "bar",
+        "spline",
+        "pie"
+      ],
+      "order": 98
+    },
+    {
+      "name": "Displaying a Basic Gauge with a RadGauge",
+      "description": "Use NativeScript UI's RadGauge to show progress of a task or any circular UI/UX experience that involves gauges.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-ios.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC&v=4",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=10",
+        "core": "https://play.nativescript.org/?template=play-js&id=avb6XO&v=5"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "radgauge",
+        "nativescript ui",
+        "progress",
+        "radial",
+        "gauge"
+      ],
+      "order": 50
+    },
+    {
+      "name": "Creating a Modal Page",
+      "description": "Modal pages are perfect when you want the user to select something without leaving the current page. Or even show a small form.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-android-1.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=iC2pnQ&v=6",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=2xom49&v=15",
+        "core": "https://play.nativescript.org/?template=play-js&id=4Mbqoc&v=3"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Igor Randjelovic",
+          "npmuser": "rigor789",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["modal", "view", "page"],
+      "order": 0
+    },
+    {
+      "name": "Creating Circular Progress Bars",
+      "description": "Linear progress bars are boring! How about we use some circular ones?",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/circular-progress-ios.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=20",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm&v=16",
+        "core": "https://play.nativescript.org/?template=play-js&id=tiSGL2&v=2"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Jeremiah Ogbomo",
+          "npmuser": "jogboms",
+          "framework": "angular"
+        },
+        {
+          "name": "Igor Randjelovic",
+          "npmuser": "rigor789",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["progress", "bar", "circular"],
+      "order": 50
+    },
+    {
+      "name": "Creating Card UIs",
+      "description": "Use cards in your app to build attractive UI. Keep it minimal and simple.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/card-ui-ios-1.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=3",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=zgFteS&v=41",
+        "core": "https://play.nativescript.org/?template=play-js&id=K4plIu&v=2"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Igor Randjelovic",
+          "npmuser": "rigor789",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["card"],
+      "order": 0
+    },
+    {
+      "name": "Building ListViews with Avatars/Thumbnails",
+      "description": "Often times you need the list UI in your app to have an image for each item. Here's an easy way to do that.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-avatar-android-1.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=4",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K&v=56",
+        "core": "https://play.nativescript.org/?template=play-js&id=9nQNyA&v=3"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Igor Randjelovic",
+          "npmuser": "rigor789",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["listview", "avatar", "thumbnail", "list"],
+      "order": 0
+    },
+    {
+      "name": "Building a Good-Looking Login Form",
+      "description": "A good looking login/registration experience is a must have for any app. Here is a simple yet elegant looking login form example.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-2.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=3073",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=786",
+        "core": "https://play.nativescript.org/?template=play-js&id=h9CNcL&v=3"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Igor Randjelovic",
+          "npmuser": "rigor789",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["login", "form", "sign up", "password"],
+      "order": 100
+    },
+    {
+      "name": "Basic Usage of RadCalendar",
+      "description": "RadCalendar from NativeScript UI has all the features you need to show calendar, range date picking, showing events, and more.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radcalendar-ios-1.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=DKSI1b&v=10",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=wpy6CS&v=22",
+        "core": "https://play.nativescript.org/?template=play-js&id=Cfv3rB&v=3"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["calendar", "date", "event", "schedule"],
+      "order": 0
+    },
+    {
+      "name": "Adding Video to Your App",
+      "description": "NativeScript-Video makes it easy, just drop a Video tag, with a src attribute and boom, you've got video!",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-ios-1.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=lCu2B5&v=2",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=12",
+        "core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=3"
+      },
+      "categories": ["media"],
+      "authors": [
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "vue"
+        },
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["video", "player", "nativescript-video"],
+      "order": 0
+    },
+    {
+      "name": "Working with Audio Files",
+      "description": "Need to play an audio file (e.g. mp3) in your app? Look no further than this audio sample app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/audio-ios-1.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=WBxQsb&v=3",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=83Hs3D&v=19",
+        "core": "https://play.nativescript.org/?template=play-js&id=eXsCJm&v=2"
+      },
+      "categories": ["media"],
+      "authors": [
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["audio", "player", "mp3"],
+      "order": 0
+    },
+    {
+      "name": "Filterable ListView with Images",
+      "description": "Actively filter a listview with text entered in a Search Bar.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-filter-image-ios-1.png"
+      ],
+      "links": {
+        "core": "https://play.nativescript.org/?template=play-tsc&id=TcHeUQ&v=10"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["listview", "filter", "search", "images"],
+      "order": 75
+    },
+    {
+      "name": "Basic ListView with Images",
+      "description": "Multi-column listview with images and text overlay.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multi-col-listview-ios-1.png"
+      ],
+      "links": {
+        "core": "https://play.nativescript.org/?template=play-tsc&id=VNkHaw&v=4"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["listview", "images", "multi-column"],
+      "order": 0
+    },
+    {
+      "name": "Image ListView with Text Overlay",
+      "description": "Highly styled image-focused listview with text overlapping items.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-images-ios-1.png"
+      ],
+      "links": {
+        "core": "https://play.nativescript.org/?template=play-tsc&id=phg6fV&v=4"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["listview", "images", "text", "overlay"],
+      "order": 75
+    },
+    {
+      "name": "ListView with Card UI",
+      "description": "A listview with card-based UI items that are variable sizes.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-card-ios-1.png"
+      ],
+      "links": {
+        "core": "https://play.nativescript.org/?template=play-tsc&id=Zwli5I&v=3"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["listview", "card"],
+      "order": 50
+    },
+    {
+      "name": "News Feed with Images and Text Items",
+      "description": "An easy way to display a news feed with an option to filter stories as well.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-newsfeed.gif"
+      ],
+      "links": {
+        "core": "https://play.nativescript.org/?template=play-tsc&id=drbfxY&v=6"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["listview", "news", "filter", "search"],
+      "order": 75
+    },
+    {
+      "name": "Master/Detail with SideDrawer and Image Background",
+      "description": "A master/detail UI that uses a SideDrawer as the master list with a styled view (with image background) as the child item.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-master-detail-drawer.gif"
+      ],
+      "links": {
+        "core": "https://play.nativescript.org/?template=play-tsc&id=Y4fVGt&v=16"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["listview", "master detail", "drawer", "sidedrawer"],
+      "order": 99
+    },
+    {
+      "name": "Drawer with Item Highlight",
+      "description": "A basic styled drawer with a highlighted item and an image background in the header.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-highlight.png"
+      ],
+      "links": {
+        "core": "https://play.nativescript.org/?template=play-tsc&id=aB4217&v=3"
+      },
+      "categories": ["interaction"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["drawer", "sidedrawer"],
+      "order": 50
+    },
+    {
+      "name": "Drawer with Avatar",
+      "description": "A basic styled drawer with an avatar image.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-avatar.png"
+      ],
+      "links": {
+        "core": "https://play.nativescript.org/?template=play-tsc&id=xow7Aa&v=3"
+      },
+      "categories": ["interaction"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["drawer", "sidedrawer"],
+      "order": 50
+    },
+    {
+      "name": "Simple Styled Login Form",
+      "description": "A basic UI-only view to inspire styled login form ideas.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-simple-ios-1.png"
+      ],
+      "links": {
+        "core": "https://play.nativescript.org/?template=play-tsc&id=e8gUAq&v=8"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["login", "form", "password"],
+      "order": 0
+    },
+    {
+      "name": "Building Custom Modal Dialogs",
+      "description": "You can easily create modal dialogs that contain custom UI.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/custom-modal.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=BDujuH&v=12"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Jeremiah Ogbomo",
+          "npmuser": "jogboms",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["modal", "dialog"],
+      "order": 0
+    },
+    {
+      "name": "ListView and Details Page with Animating Header",
+      "description": "You can easily create Master/Detail UI with nice animations and transitions.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-header-animation.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=iDY4kF&v=11"
+      },
+      "categories": ["animations"],
+      "authors": [
+        {
+          "name": "Todor Petrov",
+          "npmuser": "tgpetrov",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["animation", "transition", "master detail", "listview"],
+      "order": 50
+    },
+    {
+      "name": "Master/Detail using Kinvey, Offline, and Image Picker",
+      "description": "Example construction site inspection app with friendly UX working offline using Kinvey.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/kinvey-offline-support.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=36AEWh&v=23"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Teodor Bozhikov",
+          "npmuser": "tbozhikov",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "online",
+        "offline",
+        "connection",
+        "connectivity",
+        "network",
+        "master detail",
+        "listview",
+        "kinvey",
+        "image picker"
+      ],
+      "order": 50
+    },
+    {
+      "name": "Upload Image to HTTP Service with Progress Info",
+      "description": "A sample utilizing nativescript-imagepicker and nativescript-background-http plugins",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/image-picker-upload.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=pmXu7c&v=15",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=lIjN6u&v=10"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Teodor Bozhikov",
+          "npmuser": "tbozhikov",
+          "framework": "angular"
+        },
+        {
+          "name": "Teodor Bozhikov",
+          "npmuser": "tbozhikov",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "http",
+        "upload",
+        "post",
+        "image",
+        "picker",
+        "rest",
+        "listview"
+      ],
+      "order": 50
+    },
+    {
+      "name": "Adding Dialogs to Your App",
+      "description": "Dialogs help you to give quick feedback to the user about something. Or prompt the user to enter something, or to choose between multiple options.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/dialogs-ios.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=dWQhV7&v=5",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=fBWYsl&v=15",
+        "core": "https://play.nativescript.org/?template=play-js&id=cOCTYi&v=2"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Igor Randjelovic",
+          "npmuser": "rigor789",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["dialog", "feedback", "alert", "confirm", "options"],
+      "order": 50
+    },
+    {
+      "name": "Implementing Phone- and Tablet-specific Styling",
+      "description": "Learn how to alter your user interface based on phone and tablet form factors.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/device-specific-ui.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=uJIT6r&v=3",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=AevVWK&v=6",
+        "core": "https://play.nativescript.org/?template=play-js&id=62IRSQ&v=3"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["phone", "ipad", "tablet", "device"],
+      "order": 0
+    },
+    {
+      "name": "Implementing Split-View Components",
+      "description": "For when you want a two-column layout on tablets, but a one-column layout on phones.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-tablet.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=zaE2Hf&v=5",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=rxN9wH&v=119",
+        "core": "https://play.nativescript.org/?template=play-js&id=HBRXbR&v=2"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "phone",
+        "ipad",
+        "tablet",
+        "split-view",
+        "split",
+        "column",
+        "layout"
+      ],
+      "order": 0
+    },
+    {
+      "name": "Using Multiple ListView Templates",
+      "description": "Have a list of different types of items? You can easily define different templates based on conditions, and the ListView will choose the right one.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multiple-listview-templates.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=5QGgUF&v=4",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=L8tcfY&v=24",
+        "core": "https://play.nativescript.org/?template=play-js&id=yy73to&v=4"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Igor Randjelovic",
+          "npmuser": "rigor789",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["listview", "template"],
+      "order": 0
+    },
+    {
+      "name": "Using RadAutoCompleteTextView",
+      "description": "Do you expect users to input things from a list? The RadAutoCompleteTextView is a UI element that makes this easy.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radautocomplete.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=G78alI&v=2",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=MDT4GO&v=19",
+        "core": "https://play.nativescript.org/?template=play-tsc&id=rQ2vVD&v=4"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Igor Randjelovic",
+          "npmuser": "rigor789",
+          "framework": "vue"
+        },
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["input", "autocomplete"],
+      "order": 0
+    },
+    {
+      "name": "Configuring Page Transitions",
+      "description": "Add sleek-looking transition animations when navigating between pages. There are many predefined animations to choose from.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/page-transitions.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=wO3Ml5&v=4"
+      },
+      "categories": ["animations"],
+      "authors": [
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["page", "view", "transition", "animation"],
+      "order": 0
+    },
+    {
+      "name": "Creating Float-Up Text Labels",
+      "description": "Provide simple but effective label animations for when users focus on individual form elements.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/float-up-label.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=9GOYmZ&v=59",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=WlzgRU&v=32",
+        "core": "https://play.nativescript.org/?template=play-js&id=oSksgv&v=2"
+      },
+      "categories": ["forms and data", "animations"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        },
+        {
+          "name": "Josh Sommer",
+          "npmuser": "joshdsommer",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["input", "label", "animation"],
+      "order": 0
+    },
+    {
+      "name": "Adding Basic Gestures to Your Apps",
+      "description": "A simple demonstration of how to bind to user interface components to common gestures in your NativeScript apps.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-gestures.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=Wh9rvG&v=7",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=C8QFJH&v=59",
+        "core": "https://play.nativescript.org/?template=play-tsc&id=s1GglM&v=2"
+      },
+      "categories": ["interaction"],
+      "authors": [
+        {
+          "name": "Josh Sommer",
+          "npmuser": "joshdsommer",
+          "framework": "angular"
+        },
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "vue"
+        },
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["gestures", "rotate", "tap", "swipe", "pinch"],
+      "order": 0
+    },
+    {
+      "name": "Implementing a Parallax Scroll Effect",
+      "description": "Provide an engaging parallax effect to your views with a simple animation.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/parallax.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=b9hyJh&v=2",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=NL0CUC&v=64",
+        "core": "https://play.nativescript.org/?template=play-tsc&id=u5u9H5&v=4"
+      },
+      "categories": ["interaction"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "vue"
+        },
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["parallax", "scroll", "animation"],
+      "order": 50
+    },
+    {
+      "name": "Basic Usage of RadSideDrawer",
+      "description": "Do you have lots of menu items? Don't you worry, the RadSideDrawer has got your back. It's very simple to add a Drawer to your application.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radsidedrawer.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=QgoOAr&v=3",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-tsc&id=lUXwID&v=3"
+      },
+      "categories": ["interaction"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["drawer", "menu", "navigation"],
+      "order": 0
+    },
+    {
+      "name": "Using the Camera to Take a Picture",
+      "description": "Need to take a picture and save it to the device? Look no further.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-camera-ios.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=VD8YSd&v=10",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=1j8XNf&v=24",
+        "core": "https://play.nativescript.org/?template=play-js&id=XWQoR7&v=23"
+      },
+      "categories": ["media"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "vue"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["camera", "picture", "photo"],
+      "order": 0
+    },
+    {
+      "name": "Composing an Email Message",
+      "description": "If you need the ability to automatically or manually compose an email from your app and let the user use their mail client of choice to send it, check out this sample.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-email-android-1.png"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=mYich7&v=2"
+      },
+      "categories": ["media"],
+      "authors": [
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["email", "message", "compose"],
+      "order": 0
+    },
+    {
+      "name": "Getting a User’s Current Location",
+      "description": "Need to get the geocoordinates or address of the user? NativeScript-Geolocation makes that a breeze.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/geolocation-ios.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a&v=2",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=46",
+        "core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
+      },
+      "categories": ["interaction"],
+      "authors": [
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "angular"
+        },
+        {
+          "name": "Shiva Prasad",
+          "npmuser": "multishiv19",
+          "framework": "vue"
+        },
+        {
+          "name": "Rob Lauer",
+          "npmuser": "rdlauer",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["latitude", "longitude", "location", "address"],
+      "order": 0
+    },
+    {
+      "name": "iOS NavigationBar with Large Title",
+      "description": "iOS has recently introduced the concept of a large navigation bar title when the user needs to provide extra emphasis on context. This is a simple workaround that emulates this behavior.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/large-title.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=99K1mo&v=56",
+        "core": ""
+      },
+      "categories": ["interaction"],
+      "authors": [
+        {
+          "name": "Carlos Cabral",
+          "npmuser": "carloscabral",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "animation",
+        "actionbar",
+        "navbar",
+        "scroll",
+        "transition",
+        "ios"
+      ],
+      "order": 0
+    },
+    {
+      "name": "A functional clock built with Absolute Layout",
+      "description": "This sample shows how easily we can build a clock with the power of Absolute Layout and just a few lines of code.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/absolute-clock.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=MWXdk5&v=6",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=QMshGl&v=36",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "Carlos Cabral",
+          "npmuser": "carloscabral",
+          "framework": "vue"
+        },
+        {
+          "name": "Jakub Pawlak",
+          "npmuser": "pawlak",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["animation", "clock", "gradient", "ios", "android"],
+      "order": 0
+    },
+    {
+      "name": "Internet connection status bar",
+      "description": "Want to notify user if the device is offline? Display Internet connection status bar",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/internet-connection-status-bar.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=1RycDo&v=10"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Aleksander Rakutska",
+          "npmuser": "arakutska",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "layout",
+        "bar",
+        "online",
+        "offline",
+        "connection",
+        "connectivity",
+        "network"
+      ],
+      "order": 0
+    },
+    {
+      "name": "A custom Floating Action Button with eye-candy transitions.",
+      "description": "This sample shows how to use the power of NS Layouts and CSS to build a material design based components for either iOS or Android.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/material-custom-fab.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=AIQOcR&v=22",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations", "interaction"],
+      "authors": [
+        {
+          "name": "Carlos Cabral",
+          "npmuser": "carloscabral",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "animation",
+        "transition",
+        "ios",
+        "android",
+        "material design"
+      ],
+      "order": 50
+    },
+    {
+      "name": "A simple and easy-to-use dialog",
+      "description": "This sample shows how to build a simple dialog that you can style and drop into any page.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/simple-dialog-ios.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=LfbvME&v=15",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=7YrUzj&v=7",
+        "core": "https://play.nativescript.org/?template=play-tsc&id=ixN0xD&v=2"
+      },
+      "categories": ["layouts and pages", "interaction"],
+      "authors": [
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "angular"
+        },
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "vue"
+        },
+        {
+          "name": "TJ VanToll",
+          "npmuser": "tjvantoll",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["dialog"],
+      "order": 50
+    },
+    {
+      "name": "Animated Tab Bar",
+      "description": "This sample shows how easily we can build a tab bar with sliding animations",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottombar-animation.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=WvQnzu&v=19",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "William TjondroSuharto",
+          "npmuser": "williamjuan027",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["animation", "bottombar", "ios", "android"],
+      "order": 97
+    },
+    {
+      "name": "Groceries app using SQLite",
+      "description": "This sample shows how to build a fully functional offline task-tracking app (groceries) using a sqlite database.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/groceries-sqlite.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=AO3iYR&v=2",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["forms and data", "layouts and pages", "interaction"],
+      "authors": [
+        {
+          "name": "Kumaran",
+          "npmuser": "kumarandena",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "groceries",
+        "sqlite",
+        "offline",
+        "crud operation",
+        "email-validator"
+      ],
+      "order": 50
+    },
+    {
+      "name": "Bottom Navigation Bar for Android",
+      "description": "A fully-functional bottom navigation bar for Android using NativeScript components.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottom-navigation-bar.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-tsc&id=R2y34S&v=11"
+      },
+      "categories": ["layouts and pages", "navigation"],
+      "authors": [
+        {
+          "name": "Sowren Sen",
+          "npmuser": "sowrensen",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["navigation", "tab", "bottom"],
+      "order": 0
+    },
+    {
+      "name": "VOD Application",
+      "description": "VOD (Video On Demand) app, with nice animations and a login screen.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/vod-application.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=UK71Zy&v=646",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["animations"],
+      "authors": [
+        {
+          "name": "Vahid Najafi",
+          "npmuser": "vahid.vdn",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["navigation", "animations", "login"],
+      "order": 0
+    },
+    {
+      "name": "Animated Search",
+      "description": "Rich animations power this city guide sample app, including a card-based UI.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/animated-search.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=uZMYoe&v=42",
+        "core": ""
+      },
+      "categories": ["animations", "interaction"],
+      "authors": [
+        {
+          "name": "Clément Roche",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["guide", "animations", "cards", "search"],
+      "order": 100
+    },
+    {
+      "name": "Music Player UI",
+      "description": "An app design for an engaging music player app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-player-ui.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=15",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "media"],
+      "authors": [
+        {
+          "name": "Samat Odedara and Tyler Blake",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["music", "player", "cards"],
+      "order": 25
+    },
+    {
+      "name": "Rich UI - Social Fitness Tracker",
+      "description": "A gorgeous app design for creating a social fitness tracker app (with charts!).",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-fit.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=7wQ8EL&v=5"
+      },
+      "categories": ["layouts and pages", "interaction", "animations"],
+      "authors": [
+        {
+          "name": "Mr. Blade",
+          "npmuser": "",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["social", "charts", "graphs"],
+      "order": 100
+    },
+    {
+      "name": "Tinder-like Swipeable Cards",
+      "description": "Swipe through a series of cards with this UI sample.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/tinder.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=vCppC6&v=4",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["interaction", "animations"],
+      "authors": [
+        {
+          "name": "JCD.PL",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["tinder", "swipe", "cards"],
+      "order": 75
+    },
+    {
+      "name": "Movie Listings",
+      "description": "Browse movies and even reserve your seats with this sample app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/movie-listings.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=2cXCDZ&v=5",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "Kumaran, Pavlo Figol, and William Juan",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["seat selection", "tickets", "movies"],
+      "order": 75
+    },
+    {
+      "name": "Order Taker",
+      "description": "Create an order and split the cost with your friends.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/order-taker.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=xImwWt&v=17",
+        "vue": "",
+        "core": ""
+      },
+      "categories": [
+        "layouts and pages",
+        "forms and data",
+        "interaction",
+        "animations"
+      ],
+      "authors": [
+        {
+          "name": "Lawrence Marcelino and Franco B. Andrade",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["order", "split", "divide", "form"],
+      "order": 75
+    },
+    {
+      "name": "Travel Booking",
+      "description": "Book your next travel destination with this sample app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/travel-booking.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=tzxBlZ&v=28",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "forms and data"],
+      "authors": [
+        {
+          "name": "Pierre-Louis Duhoux",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["travel", "charts", "booking", "search"],
+      "order": 50
+    },
+    {
+      "name": "Simple Card UI with Modal Views",
+      "description": "Get a tarot card reading - emoji style - with this engaging sample app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-card-ui.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=j8E1UW&v=55",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "interaction"],
+      "authors": [
+        {
+          "name": "Jen Looper and Lester Gonzales",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["cards", "modal", "window"],
+      "order": 50
+    },
+    {
+      "name": "Personal Finance Tracker",
+      "description": "A sample app containing some starter screens for building a personal finance tracking app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/personal-finance.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=4XX1Ox&v=74",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "forms and data"],
+      "authors": [
+        {
+          "name": "Bazzite",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["money", "finance", "charts", "graphs"],
+      "order": 75
+    },
+    {
+      "name": "Flight Booking UI",
+      "description": "A step-by-step interface for booking a flight.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/book-a-flight.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=11",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "forms and data", "animations"],
+      "authors": [
+        {
+          "name": "Salvador Coronel Flores",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["travel", "flights", "forms", "date", "animations"],
+      "order": 75
+    },
+    {
+      "name": "Swipeable Cards with Animations",
+      "description": "Build an engaging UI with this SpaceX spacecraft info starter app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/spacex.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=27",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations", "interaction"],
+      "authors": [
+        {
+          "name": "Enkot",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["spacex", "animations", "swipeable", "card"],
+      "order": 100
+    },
+    {
+      "name": "Personal Finance",
+      "description": "A personal finance sample app with a calendar component.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/personal-finance-cal.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=zYpU71&v=9",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=4JhSZz&v=49",
+        "core": ""
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Tyler Blake and Jamal A Mohammed",
+          "npmuser": "",
+          "framework": "angular"
+        },
+        {
+          "name": "Jamal A Mohammed",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["finance", "calendar"],
+      "order": 25
+    },
+    {
+      "name": "Sports Score Viewer",
+      "description": "A UEFA Champions League sample app that can be customized for any league.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/champions-league.png"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=FL9JTe&v=44"
+      },
+      "categories": ["layouts and pages", "forms and data"],
+      "authors": [
+        {
+          "name": "Sergii Kadubovskyi",
+          "npmuser": "",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["soccer", "sports", "scores", "football"],
+      "order": 0
+    },
+    {
+      "name": "Movie Watch List",
+      "description": "Allows you to page through the entire Marvel movie timeline, with the ability to mark movies as watched.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/marvel-movies.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=b7Pk1Z&v=10",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "Nicky McAllister and Aurore",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["paging", "movies", "browse"],
+      "order": 0
+    },
+    {
+      "name": "Hotel Booking",
+      "description": "Browse available hotel rooms with this sample app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/hotel-booking.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=1pMYf3&v=61",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "Chukwuka Ezeoke",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["hotel room", "booking"],
+      "order": 0
+    },
+    {
+      "name": "Investment Tracker",
+      "description": "Start building an app to track investments with this sample.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/investment-tracker.png"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=9mMRsc&v=808"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Andres Lopez",
+          "npmuser": "",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["finance", "stocks", "charts"],
+      "order": 0
+    },
+    {
+      "name": "Color Picker",
+      "description": "Need a color picker for your app? Take a look at this implementation.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/color-picker.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=ARBnh6&v=12",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["interaction"],
+      "authors": [
+        {
+          "name": "Martin Hettiger",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["color", "pick"],
+      "order": 0
+    },
+    {
+      "name": "Music Streaming App",
+      "description": "This sample app contains an amazing design for to help boostrap the next great music streaming app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-streaming.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=ERHBrE&v=11",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["interaction", "layouts and pages"],
+      "authors": [
+        {
+          "name": "Yassine Zanina",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["music", "stream", "player"],
+      "order": 100
+    },
+    {
+      "name": "Split it Up",
+      "description": "This app contains a design for splitting up a bill amongst friends.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-it-up.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=oZGfgU&v=63"
+      },
+      "categories": ["layouts and pages", "forms and data"],
+      "authors": [
+        {
+          "name": "Sam",
+          "npmuser": "",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["finance", "money", "listview"],
+      "order": 75
+    },
+    {
+      "name": "Social Network",
+      "description": "Get a head start on building a new social networking with this sample app design.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-networking.png"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=O581mC&v=38"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "George Abashidze",
+          "npmuser": "",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["social", "chat", "listview"],
+      "order": 25
+    },
+    {
+      "name": "Restaurant Menu App",
+      "description": "Browse a restaurant menu with this engaging app UI.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/restaurant-menu.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=DVxbTC&v=12",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=sPOHNo&v=70",
+        "core": ""
+      },
+      "categories": [
+        "layouts and pages",
+        "animations",
+        "interaction",
+        "navigation"
+      ],
+      "authors": [
+        {
+          "name": "Tyler Blake and John Andrew Asaria",
+          "npmuser": "",
+          "framework": "angular"
+        },
+        {
+          "name": "John Andrew Asaria",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["restaurant", "menu", "listview", "animations"],
+      "order": 99
+    }
+  ]
 }
