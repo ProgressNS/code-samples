@@ -1434,7 +1434,7 @@
       ],
       "links": {
         "angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=15",
-        "vue": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=kiAVxk&v=9",
         "core": ""
       },
       "categories": ["layouts and pages", "media"],
@@ -1443,6 +1443,11 @@
           "name": "Samat Odedara and Tyler Blake",
           "npmuser": "",
           "framework": "angular"
+        },
+        {
+          "name": "John Andrew Asaria, Samat Odedara, and Tyler Blake",
+          "npmuser": "",
+          "framework": "vue"
         }
       ],
       "readme": "",
