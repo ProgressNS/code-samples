@@ -1748,7 +1748,7 @@
       ],
       "links": {
         "angular": "https://play.nativescript.org/?template=play-ng&id=1pMYf3&v=61",
-        "vue": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=P13Eg4&v=3",
         "core": ""
       },
       "categories": ["layouts and pages", "animations"],
@@ -1757,6 +1757,11 @@
           "name": "Chukwuka Ezeoke",
           "npmuser": "",
           "framework": "angular"
+        },
+        {
+          "name": "John Andrew Asaria and Chukwuka Ezeoke",
+          "npmuser": "",
+          "framework": "vue"
         }
       ],
       "readme": "",
