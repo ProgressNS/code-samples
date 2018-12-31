@@ -1,6 +1,34 @@
 {
 	"samples": [
 		{
+			"name": "Login Form backed by Kinvey",
+			"description": "This sample login functionality is backed by Kinvey. Follows some of the best practices including: field labels, show password, inline errors, etc. This implementation is also tablet friendly.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-kinvey.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=uQ7n0t&v=5"
+			},
+			"categories": [
+				"layouts and pages"
+			],
+			"authors": [
+				{
+					"name": "Sajja Phani",
+					"npmuser": "sajjaphani",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"login",
+				"Kinvey",
+				"mobile form",
+				"best practices"
+			],
+			"order": 0
+		},
+		{
 			"name": "Sample Carousel Implementation in NativeScript",
 			"description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations. ",
 			"screenshots": [
@@ -20,8 +48,8 @@
 					"framework": "angular"
 				},
 				{
-			"name": "Sajja Phani",
-			"npmuser": "sajjaphani",
+					"name": "Sajja Phani",
+					"npmuser": "sajjaphani",
 					"framework": "core"
 				}
 			],
