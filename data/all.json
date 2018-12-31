@@ -1868,7 +1868,7 @@
       ],
       "links": {
         "angular": "",
-        "vue": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=ZiXWFo&v=5",
         "core": "https://play.nativescript.org/?template=play-js&id=O581mC&v=38"
       },
       "categories": ["layouts and pages"],
@@ -1877,6 +1877,11 @@
           "name": "George Abashidze",
           "npmuser": "",
           "framework": "core"
+        },
+        {
+          "name": "John Andrew Asaria and George Abashidze",
+          "npmuser": "",
+          "framework": "vue"
         }
       ],
       "readme": "",
