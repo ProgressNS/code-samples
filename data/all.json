@@ -1,6 +1,27 @@
 {
   "samples": [
     {
+      "name": "Login Form backed by Kinvey",
+      "description": "This sample login functionality is backed by Kinvey. Follows some of the best practices including: field labels, show password, inline errors, etc. This implementation is also tablet friendly.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-kinvey.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=uQ7n0t&v=7"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Sajja Phani",
+          "npmuser": "sajjaphani",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["login", "Kinvey", "form", "password"],
+      "order": 75
+    },
+    {
       "name": "Carousel Sample Implementation",
       "description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations.",
       "screenshots": [
@@ -1581,7 +1602,7 @@
         "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-card-ui.gif"
       ],
       "links": {
-        "angular": "",
+        "angular": "https://play.nativescript.org/?template=play-ng&id=sbwKKg&v=9",
         "vue": "https://play.nativescript.org/?template=play-vue&id=j8E1UW&v=55",
         "core": ""
       },
@@ -1591,6 +1612,11 @@
           "name": "Jen Looper and Lester Gonzales",
           "npmuser": "",
           "framework": "vue"
+        },
+        {
+          "name": "Tyler Blake, Jen Looper, and Lester Gonzales",
+          "npmuser": "",
+          "framework": "angular"
         }
       ],
       "readme": "",
