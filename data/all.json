@@ -1848,7 +1848,7 @@
       ],
       "links": {
         "angular": "https://play.nativescript.org/?template=play-ng&id=ERHBrE&v=11",
-        "vue": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=z14Fnj&v=3",
         "core": ""
       },
       "categories": ["interaction", "layouts and pages"],
@@ -1857,6 +1857,11 @@
           "name": "Yassine Zanina",
           "npmuser": "",
           "framework": "angular"
+        },
+        {
+          "name": "John Andrew Asaria and Yassine Zanina",
+          "npmuser": "",
+          "framework": "vue"
         }
       ],
       "readme": "",
