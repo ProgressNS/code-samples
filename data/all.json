@@ -1,6 +1,54 @@
 {
   "samples": [
     {
+      "name": "Login Form backed by Kinvey",
+      "description": "This sample login functionality is backed by Kinvey. Follows some of the best practices including: field labels, show password, inline errors, etc. This implementation is also tablet friendly.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-kinvey.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=uQ7n0t&v=7"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Sajja Phani",
+          "npmuser": "sajjaphani",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["login", "Kinvey", "form", "password"],
+      "order": 75
+    },
+    {
+      "name": "Carousel Sample Implementation",
+      "description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/carousel-ns.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=2VwwRE&v=19",
+        "core": "https://play.nativescript.org/?template=play-js&id=sRSad7&v=6"
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "Sajja Phani",
+          "npmuser": "sajjaphani",
+          "framework": "angular"
+        },
+        {
+          "name": "Sajja Phani",
+          "npmuser": "sajjaphani",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["carousel", "ui builder", "animation"],
+      "order": 50
+    },
+    {
       "name": "Storing and Retrieving Local Data",
       "description": "You can store and retrieve data in your app using the application-settings module. This demo shows you the various application-settings APIs.",
       "screenshots": [
@@ -295,8 +343,8 @@
         "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-2.gif"
       ],
       "links": {
-        "angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=320",
-        "vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=400",
+        "angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=3073",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=786",
         "core": "https://play.nativescript.org/?template=play-js&id=h9CNcL&v=3"
       },
       "categories": ["layouts and pages"],
@@ -649,6 +697,72 @@
       ],
       "readme": "",
       "keywords": ["animation", "transition", "master detail", "listview"],
+      "order": 50
+    },
+    {
+      "name": "Master/Detail using Kinvey, Offline, and Image Picker",
+      "description": "Example construction site inspection app with friendly UX working offline using Kinvey.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/kinvey-offline-support.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=36AEWh&v=23"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Teodor Bozhikov",
+          "npmuser": "tbozhikov",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "online",
+        "offline",
+        "connection",
+        "connectivity",
+        "network",
+        "master detail",
+        "listview",
+        "kinvey",
+        "image picker"
+      ],
+      "order": 50
+    },
+    {
+      "name": "Upload Image to HTTP Service with Progress Info",
+      "description": "A sample utilizing nativescript-imagepicker and nativescript-background-http plugins",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/image-picker-upload.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=pmXu7c&v=15",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=lIjN6u&v=10"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Teodor Bozhikov",
+          "npmuser": "tbozhikov",
+          "framework": "angular"
+        },
+        {
+          "name": "Teodor Bozhikov",
+          "npmuser": "tbozhikov",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "http",
+        "upload",
+        "post",
+        "image",
+        "picker",
+        "rest",
+        "listview"
+      ],
       "order": 50
     },
     {
@@ -1234,6 +1348,609 @@
       "readme": "",
       "keywords": ["animation", "bottombar", "ios", "android"],
       "order": 97
+    },
+    {
+      "name": "Groceries app using SQLite",
+      "description": "This sample shows how to build a fully functional offline task-tracking app (groceries) using a sqlite database.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/groceries-sqlite.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=AO3iYR&v=2",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["forms and data", "layouts and pages", "interaction"],
+      "authors": [
+        {
+          "name": "Kumaran",
+          "npmuser": "kumarandena",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": [
+        "groceries",
+        "sqlite",
+        "offline",
+        "crud operation",
+        "email-validator"
+      ],
+      "order": 50
+    },
+    {
+      "name": "Bottom Navigation Bar for Android",
+      "description": "A fully-functional bottom navigation bar for Android using NativeScript components.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottom-navigation-bar.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-tsc&id=R2y34S&v=11"
+      },
+      "categories": ["layouts and pages", "navigation"],
+      "authors": [
+        {
+          "name": "Sowren Sen",
+          "npmuser": "sowrensen",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["navigation", "tab", "bottom"],
+      "order": 0
+    },
+    {
+      "name": "VOD Application",
+      "description": "VOD (Video On Demand) app, with nice animations and a login screen.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/vod-application.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=UK71Zy&v=646",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["animations"],
+      "authors": [
+        {
+          "name": "Vahid Najafi",
+          "npmuser": "vahid.vdn",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["navigation", "animations", "login"],
+      "order": 0
+    },
+    {
+      "name": "Animated Search",
+      "description": "Rich animations power this city guide sample app, including a card-based UI.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/animated-search.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=uZMYoe&v=42",
+        "core": ""
+      },
+      "categories": ["animations", "interaction"],
+      "authors": [
+        {
+          "name": "Clément Roche",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["guide", "animations", "cards", "search"],
+      "order": 100
+    },
+    {
+      "name": "Music Player UI",
+      "description": "An app design for an engaging music player app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-player-ui.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=15",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=kiAVxk&v=9",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "media"],
+      "authors": [
+        {
+          "name": "Samat Odedara and Tyler Blake",
+          "npmuser": "",
+          "framework": "angular"
+        },
+        {
+          "name": "John Andrew Asaria, Samat Odedara, and Tyler Blake",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["music", "player", "cards"],
+      "order": 25
+    },
+    {
+      "name": "Rich UI - Social Fitness Tracker",
+      "description": "A gorgeous app design for creating a social fitness tracker app (with charts!).",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-fit.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=7wQ8EL&v=5"
+      },
+      "categories": ["layouts and pages", "interaction", "animations"],
+      "authors": [
+        {
+          "name": "Mr. Blade",
+          "npmuser": "",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["social", "charts", "graphs"],
+      "order": 100
+    },
+    {
+      "name": "Tinder-like Swipeable Cards",
+      "description": "Swipe through a series of cards with this UI sample.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/tinder.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=vCppC6&v=4",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["interaction", "animations"],
+      "authors": [
+        {
+          "name": "JCD.PL",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["tinder", "swipe", "cards"],
+      "order": 75
+    },
+    {
+      "name": "Movie Listings",
+      "description": "Browse movies and even reserve your seats with this sample app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/movie-listings.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=2cXCDZ&v=5",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "Kumaran, Pavlo Figol, and William Juan",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["seat selection", "tickets", "movies"],
+      "order": 75
+    },
+    {
+      "name": "Order Taker",
+      "description": "Create an order and split the cost with your friends.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/order-taker.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=xImwWt&v=17",
+        "vue": "",
+        "core": ""
+      },
+      "categories": [
+        "layouts and pages",
+        "forms and data",
+        "interaction",
+        "animations"
+      ],
+      "authors": [
+        {
+          "name": "Lawrence Marcelino and Franco B. Andrade",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["order", "split", "divide", "form"],
+      "order": 75
+    },
+    {
+      "name": "Travel Booking",
+      "description": "Book your next travel destination with this sample app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/travel-booking.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=tzxBlZ&v=28",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "forms and data"],
+      "authors": [
+        {
+          "name": "Pierre-Louis Duhoux",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["travel", "charts", "booking", "search"],
+      "order": 50
+    },
+    {
+      "name": "Simple Card UI with Modal Views",
+      "description": "Get a tarot card reading - emoji style - with this engaging sample app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-card-ui.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=sbwKKg&v=9",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=j8E1UW&v=55",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "interaction"],
+      "authors": [
+        {
+          "name": "Jen Looper and Lester Gonzales",
+          "npmuser": "",
+          "framework": "vue"
+        },
+        {
+          "name": "Tyler Blake, Jen Looper, and Lester Gonzales",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["cards", "modal", "window"],
+      "order": 50
+    },
+    {
+      "name": "Personal Finance Tracker",
+      "description": "A sample app containing some starter screens for building a personal finance tracking app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/personal-finance.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=4XX1Ox&v=74",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "forms and data"],
+      "authors": [
+        {
+          "name": "Bazzite",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["money", "finance", "charts", "graphs"],
+      "order": 75
+    },
+    {
+      "name": "Flight Booking UI",
+      "description": "A step-by-step interface for booking a flight.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/book-a-flight.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=11",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "forms and data", "animations"],
+      "authors": [
+        {
+          "name": "Salvador Coronel Flores",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["travel", "flights", "forms", "date", "animations"],
+      "order": 75
+    },
+    {
+      "name": "Swipeable Cards with Animations",
+      "description": "Build an engaging UI with this SpaceX spacecraft info starter app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/spacex.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=27",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations", "interaction"],
+      "authors": [
+        {
+          "name": "Enkot",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["spacex", "animations", "swipeable", "card"],
+      "order": 100
+    },
+    {
+      "name": "Personal Finance",
+      "description": "A personal finance sample app with a calendar component.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/personal-finance-cal.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=zYpU71&v=10",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=4JhSZz&v=49",
+        "core": ""
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "Tyler Blake and Jamal A Mohammed",
+          "npmuser": "",
+          "framework": "angular"
+        },
+        {
+          "name": "Jamal A Mohammed",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["finance", "calendar"],
+      "order": 25
+    },
+    {
+      "name": "Sports Score Viewer",
+      "description": "A UEFA Champions League sample app that can be customized for any league.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/champions-league.png"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=FL9JTe&v=44"
+      },
+      "categories": ["layouts and pages", "forms and data"],
+      "authors": [
+        {
+          "name": "Sergii Kadubovskyi",
+          "npmuser": "",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["soccer", "sports", "scores", "football"],
+      "order": 0
+    },
+    {
+      "name": "Movie Watch List",
+      "description": "Allows you to page through the entire Marvel movie timeline, with the ability to mark movies as watched.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/marvel-movies.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=b7Pk1Z&v=10",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "Nicky McAllister and Aurore",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["paging", "movies", "browse"],
+      "order": 0
+    },
+    {
+      "name": "Hotel Booking",
+      "description": "Browse available hotel rooms with this sample app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/hotel-booking.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=1pMYf3&v=61",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=P13Eg4&v=3",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "animations"],
+      "authors": [
+        {
+          "name": "Chukwuka Ezeoke",
+          "npmuser": "",
+          "framework": "angular"
+        },
+        {
+          "name": "John Andrew Asaria and Chukwuka Ezeoke",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["hotel room", "booking"],
+      "order": 0
+    },
+    {
+      "name": "Investment Tracker",
+      "description": "Start building an app to track investments with this sample.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/investment-tracker.png"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=9mMRsc&v=808"
+      },
+      "categories": ["forms and data"],
+      "authors": [
+        {
+          "name": "Andres Lopez",
+          "npmuser": "",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["finance", "stocks", "charts"],
+      "order": 0
+    },
+    {
+      "name": "Color Picker",
+      "description": "Need a color picker for your app? Take a look at this implementation.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/color-picker.png"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=ARBnh6&v=12",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["interaction"],
+      "authors": [
+        {
+          "name": "Martin Hettiger",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["color", "pick"],
+      "order": 0
+    },
+    {
+      "name": "Music Streaming App",
+      "description": "This sample app contains an amazing design for to help boostrap the next great music streaming app.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-streaming.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=ERHBrE&v=11",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=z14Fnj&v=3",
+        "core": ""
+      },
+      "categories": ["interaction", "layouts and pages"],
+      "authors": [
+        {
+          "name": "Yassine Zanina",
+          "npmuser": "",
+          "framework": "angular"
+        },
+        {
+          "name": "John Andrew Asaria and Yassine Zanina",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["music", "stream", "player"],
+      "order": 100
+    },
+    {
+      "name": "Split it Up",
+      "description": "This app contains a design for splitting up a bill amongst friends.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-it-up.gif"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "",
+        "core": "https://play.nativescript.org/?template=play-js&id=oZGfgU&v=63"
+      },
+      "categories": ["layouts and pages", "forms and data"],
+      "authors": [
+        {
+          "name": "Sam",
+          "npmuser": "",
+          "framework": "core"
+        }
+      ],
+      "readme": "",
+      "keywords": ["finance", "money", "listview"],
+      "order": 75
+    },
+    {
+      "name": "Social Network",
+      "description": "Get a head start on building a new social networking with this sample app design.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-networking.png"
+      ],
+      "links": {
+        "angular": "",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=ZiXWFo&v=5",
+        "core": "https://play.nativescript.org/?template=play-js&id=O581mC&v=38"
+      },
+      "categories": ["layouts and pages"],
+      "authors": [
+        {
+          "name": "George Abashidze",
+          "npmuser": "",
+          "framework": "core"
+        },
+        {
+          "name": "John Andrew Asaria and George Abashidze",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["social", "chat", "listview"],
+      "order": 25
+    },
+    {
+      "name": "Restaurant Menu App",
+      "description": "Browse a restaurant menu with this engaging app UI.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/restaurant-menu.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=DVxbTC&v=12",
+        "vue": "https://play.nativescript.org/?template=play-vue&id=sPOHNo&v=70",
+        "core": ""
+      },
+      "categories": [
+        "layouts and pages",
+        "animations",
+        "interaction",
+        "navigation"
+      ],
+      "authors": [
+        {
+          "name": "Tyler Blake and John Andrew Asaria",
+          "npmuser": "",
+          "framework": "angular"
+        },
+        {
+          "name": "John Andrew Asaria",
+          "npmuser": "",
+          "framework": "vue"
+        }
+      ],
+      "readme": "",
+      "keywords": ["restaurant", "menu", "listview", "animations"],
+      "order": 99
     }
   ]
 }
