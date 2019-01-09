@@ -1951,6 +1951,29 @@
       "readme": "",
       "keywords": ["restaurant", "menu", "listview", "animations"],
       "order": 99
+    },
+    {
+      "name": "NativeScript Quiz App",
+      "description": "Play the quiz with list of categories & questions and even get last quiz score and last quiz date.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/ns-quiz.gif"
+      ],
+      "links": {
+        "angular": "https://play.nativescript.org/?template=play-ng&id=LhwHnA",
+        "vue": "",
+        "core": ""
+      },
+      "categories": ["layouts and pages", "interaction", "navigation", "animations"],
+      "authors": [
+        {
+          "name": "William Juan, Pavlo Figol, and Kumaran",
+          "npmuser": "",
+          "framework": "angular"
+        }
+      ],
+      "readme": "",
+      "keywords": ["quiz", "ns-quiz-demo", "score", "questions", "programming", "network", "security"],
+      "order": 0
     }
   ]
 }
