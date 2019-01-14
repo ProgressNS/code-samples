@@ -2399,27 +2399,33 @@
 			"order": 25
 		},
 		{
-			"name": "RGB Experiment App",
-			"description": "Play and do experiment by mixing the RGB values with nice animations",
+			"name": "RGB Color Picker",
+			"description": "Experiment with color selections by mixing RGB values with nice animations.",
 			"screenshots": [
-			  "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rgb-experiment.gif"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rgb-color-picker.gif"
 			],
 			"links": {
-			  "angular": "https://play.nativescript.org/?template=play-ng&id=m9TO3j",
-			  "vue": "",
-			  "core": ""
+				"angular": "https://play.nativescript.org/?template=play-ng&id=m9TO3j&v=2",
+				"vue": "",
+				"core": ""
 			},
-			"categories": ["layouts and pages", "interaction", "navigation", "animations"],
+			"categories": [
+				"interaction",
+				"animations"
+			],
 			"authors": [
-			  {
-				"name": "Pavlo Figol, William Juan, and Kumaran",
-				"npmuser": "",
-				"framework": "angular"
-			  }
+				{
+					"name": "Pavlo Figol, William Juan, and Kumaran",
+					"npmuser": "",
+					"framework": "angular"
+				}
 			],
 			"readme": "",
-			"keywords": ["rgb", "experiment", "colors", "red", "green", "blue"],
+			"keywords": [
+				"color picker",
+				"rgb"
+			],
 			"order": 0
-		  }
+		}
 	]
 }
