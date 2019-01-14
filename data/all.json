@@ -2397,6 +2397,29 @@
 				"questions"
 			],
 			"order": 25
-		}
+		},
+		{
+			"name": "RGB Experiment App",
+			"description": "Play and do experiment by mixing the RGB values with nice animations",
+			"screenshots": [
+			  "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rgb-experiment.gif"
+			],
+			"links": {
+			  "angular": "https://play.nativescript.org/?template=play-ng&id=m9TO3j",
+			  "vue": "",
+			  "core": ""
+			},
+			"categories": ["layouts and pages", "interaction", "navigation", "animations"],
+			"authors": [
+			  {
+				"name": "Pavlo Figol, William Juan, and Kumaran",
+				"npmuser": "",
+				"framework": "angular"
+			  }
+			],
+			"readme": "",
+			"keywords": ["rgb", "experiment", "colors", "red", "green", "blue"],
+			"order": 0
+		  }
 	]
 }
