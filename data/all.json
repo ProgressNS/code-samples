@@ -2302,7 +2302,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-networking.png"
 			],
 			"links": {
-				"angular": "",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=kfKgN2&v=2",
 				"vue": "https://play.nativescript.org/?template=play-vue&id=ZiXWFo&v=5",
 				"core": "https://play.nativescript.org/?template=play-js&id=O581mC&v=38"
 			},
@@ -2319,6 +2319,11 @@
 					"name": "John Andrew Asaria and George Abashidze",
 					"npmuser": "",
 					"framework": "vue"
+				},
+				{
+					"name": "Salvador Flores and George Abashidze",
+					"npmuser": "",
+					"framework": "angular"
 				}
 			],
 			"readme": "",
@@ -2327,7 +2332,7 @@
 				"chat",
 				"listview"
 			],
-			"order": 25
+			"order": 0
 		},
 		{
 			"name": "Restaurant Menu App",
