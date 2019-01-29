@@ -2180,7 +2180,7 @@
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/investment-tracker.png"
 			],
 			"links": {
-				"angular": "",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=SYxb58&v=9",
 				"vue": "",
 				"core": "https://play.nativescript.org/?template=play-js&id=9mMRsc&v=808"
 			},
@@ -2192,6 +2192,11 @@
 					"name": "Andres Lopez",
 					"npmuser": "",
 					"framework": "core"
+				},
+				{
+					"name": "Tyler Blake and Andres Lopez",
+					"npmuser": "",
+					"framework": "angular"
 				}
 			],
 			"readme": "",
