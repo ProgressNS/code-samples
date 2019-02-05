@@ -2438,36 +2438,33 @@
 			"order": 0
 		},
 		{
-			"name": "Instagram Clone",
-			"description": "NativeScript Instagram clone with camera module and image filters.",
+			"name": "Animated Rotating Menu",
+			"description": "This sample shows how easily we can build a menu with rotating animations.",
 			"screenshots": [
-				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/instaclone.gif"
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rotate-menu-animation.gif"
 			],
 			"links": {
-				"angular": "https://play.nativescript.org/?template=play-ng&id=QMY4lW&v=2",
+				"angular": "https://play.nativescript.org/?template=play-ng&id=B8bnYx&v=36",
 				"vue": "",
 				"core": ""
 			},
 			"categories": [
 				"layouts and pages",
-				"interaction"
+				"animations"
 			],
 			"authors": [
 				{
-					"name": "William Juan, Pavlo Figol, and Kumaran",
-					"npmuser": "",
+					"name": "William Juan",
+					"npmuser": "williamjuan027",
 					"framework": "angular"
 				}
 			],
 			"readme": "",
 			"keywords": [
-				"instagram",
-				"instaclone",
-				"camera",
-				"imagefilters",
-				"layouts"
+				"animation",
+				"menu"
 			],
-			"order": 0
+			"order": 50
 		}
 	]
 }
