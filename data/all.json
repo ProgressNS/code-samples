@@ -2439,7 +2439,7 @@
 		},
 		{
 			"name": "Animated Rotating Menu",
-			"description": "This sample shows how easily we can build a menu with rotating animations",
+			"description": "This sample shows how easily we can build a menu with rotating animations.",
 			"screenshots": [
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rotate-menu-animation.gif"
 			],
@@ -2462,11 +2462,9 @@
 			"readme": "",
 			"keywords": [
 				"animation",
-				"menu",
-				"ios",
-				"android"
+				"menu"
 			],
-			"order": 0
+			"order": 50
 		}
 	]
 }
