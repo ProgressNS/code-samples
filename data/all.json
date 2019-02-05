@@ -2465,6 +2465,38 @@
 				"menu"
 			],
 			"order": 50
+		},
+		{
+			"name": "Instagram Clone",
+			"description": "NativeScript Instagram clone with camera module and image filters.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/instaclone.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=QMY4lW&v=2",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "William Juan, Pavlo Figol, and Kumaran",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"instagram",
+				"instaclone",
+				"camera",
+				"imagefilters",
+				"layouts"
+			],
+			"order": 0
 		}
 	]
 }
