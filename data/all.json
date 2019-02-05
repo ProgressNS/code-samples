@@ -2436,6 +2436,37 @@
 				"rgb"
 			],
 			"order": 0
+		},
+		{
+			"name": "Animated Rotating Menu",
+			"description": "This sample shows how easily we can build a menu with rotating animations",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rotate-menu-animation.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=B8bnYx&v=36",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"animations"
+			],
+			"authors": [
+				{
+					"name": "William Juan",
+					"npmuser": "williamjuan027",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"animation",
+				"menu",
+				"ios",
+				"android"
+			],
+			"order": 0
 		}
 	]
 }
