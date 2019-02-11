@@ -2467,8 +2467,8 @@
 			"order": 50
 		},
 		{
-			"name": "Instagram Clone",
-			"description": "NativeScript Instagram clone with camera module and image filters.",
+			"name": "Instagram Clone with Image Filters",
+			"description": "A limited clone of Instagram with a camera module and image filters.",
 			"screenshots": [
 				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/instaclone.gif"
 			],
@@ -2491,12 +2491,11 @@
 			"readme": "",
 			"keywords": [
 				"instagram",
-				"instaclone",
 				"camera",
-				"imagefilters",
-				"layouts"
+				"image",
+				"filters"
 			],
-			"order": 0
+			"order": 50
 		}
 	]
 }
