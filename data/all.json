@@ -2501,6 +2501,38 @@
 				"filters"
 			],
 			"order": 50
+		},
+		{
+			"name": "PDF generation using JavaScript libraries",
+			"description": "PDF generation in NativeScript using pdfMake, and jsPDF JavaScript libraries.",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/nspdf.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=tZ5F9Y",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and pages",
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Kumaran",
+					"npmuser": "kumarandena",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"pdf",
+				"reports",
+				"certificates",
+				"pdfmake",
+				"jspdf"
+			],
+			"order": 0
 		}
 	]
 }
