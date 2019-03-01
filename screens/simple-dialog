@@ -1,0 +1,28 @@
+{
+			"name": "Simple dialog screen",
+			"description": "Simple dialog screen using gridlayout",
+			"screenshots": [
+				"https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/simple-dialog.gif"
+			],
+			"links": {
+				"angular": "https://play.nativescript.org/?template=play-ng&id=GCnfXK&v=5",
+				"vue": "",
+				"core": ""
+			},
+			"categories": [
+				"layouts and page",
+				"interaction"
+			],
+			"authors": [
+				{
+					"name": "Paulson Ps",
+					"npmuser": "",
+					"framework": "angular"
+				}
+			],
+			"readme": "",
+			"keywords": [
+				"Dialog Screen"
+			],
+			"order": 51
+		}
