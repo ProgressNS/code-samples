@@ -440,7 +440,8 @@
             "description": "Multi-column listview with images and text overlay.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multi-col-listview-ios-1.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=VNkHaw&v=4"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=VNkHaw&v=4",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=2OkUP6"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -448,6 +449,11 @@
                     "name": "Rob Lauer",
                     "npmuser": "rdlauer",
                     "framework": "core"
+                },
+                {
+                    "name": "Kumaran and Rob Lauer",
+                    "npmuser": "kumarandena",
+                    "framework": "angular"
                 }
             ],
             "readme": "",
@@ -484,7 +490,8 @@
             "description": "A listview with card-based UI items that are variable sizes.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-card-ios-1.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=Zwli5I&v=3"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=Zwli5I&v=3",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=BEW9aV"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -492,6 +499,11 @@
                     "name": "Rob Lauer",
                     "npmuser": "rdlauer",
                     "framework": "core"
+                },
+                {
+                    "name": "Kumaran and Rob Lauer",
+                    "npmuser": "kumarandena",
+                    "framework": "angular"
                 }
             ],
             "readme": "",
@@ -547,7 +559,8 @@
             "description": "A basic styled drawer with a highlighted item and an image background in the header.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-highlight.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=aB4217&v=3"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=aB4217&v=3",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=nNRsUE&v=2"
             },
             "categories": ["interaction"],
             "authors": [
@@ -555,6 +568,11 @@
                     "name": "Rob Lauer",
                     "npmuser": "rdlauer",
                     "framework": "core"
+                },
+                {
+                    "name": "Kumaran and Rob Lauer",
+                    "npmuser": "kumarandena",
+                    "framework": "angular"
                 }
             ],
             "readme": "",
@@ -566,7 +584,8 @@
             "description": "A basic styled drawer with an avatar image.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-avatar.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=xow7Aa&v=3"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=xow7Aa&v=3",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=Twb3zm&v=3"
             },
             "categories": ["interaction"],
             "authors": [
@@ -574,6 +593,11 @@
                     "name": "Rob Lauer",
                     "npmuser": "rdlauer",
                     "framework": "core"
+                },
+                {
+                    "name": "Kumaran and Rob Lauer",
+                    "npmuser": "kumarandena",
+                    "framework": "angular"
                 }
             ],
             "readme": "",
