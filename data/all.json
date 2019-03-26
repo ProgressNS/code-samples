@@ -2501,6 +2501,27 @@
 				"filters"
 			],
 			"order": 50
-		}
+		},
+        {
+            "name": "Cricket Score",
+            "description": "A live cricket score and a simple description",
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/cricket_app.gif"],
+            "links": {
+                "angular": "https://play.nativescript.org/?template=play-ng&id=R9GFpP&v=3",
+                "vue": "",
+                "core": ""
+            },
+            "categories": ["layouts and pages"],
+            "authors": [
+                {
+                    "name": "Paulson Ps",
+                    "npmuser": "",
+                    "framework": "angular"
+                }
+            ],
+            "readme": "",
+            "keywords": ["Landing Page", "Scrollview", "Image", "Dialoge", "Json"],
+            "order": 55
+        }
 	]
 }
