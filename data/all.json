@@ -1859,6 +1859,31 @@
             "readme": "",
             "keywords": ["instagram", "camera", "image", "filters"],
             "order": 50
+        },
+        {
+            "name": "Ripple Effect",
+            "description": "A simple animation to create ripple effect without using any plugin using core animation techniques.",
+            "screenshots": [
+                "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/ripple-effetc.gif"
+            ],
+            "links": {
+                "core": "https://play.nativescript.org/?template=play-tsc&id=RCdjkD&v=3"
+            },
+            "categories": [
+                "animations"
+            ],
+            "authors": [
+                {
+                    "name": "Alex Ziskind",
+                    "framework": "core"
+                }
+            ],
+            "readme": "",
+            "keywords": [
+                "animation",
+                "ripple"
+            ],
+            "order": 0
         }
     ]
 }
