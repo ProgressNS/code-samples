@@ -515,7 +515,8 @@
             "description": "An easy way to display a news feed with an option to filter stories as well.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-newsfeed.gif"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=drbfxY&v=6"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=drbfxY&v=6",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=IwTaEy&v=2"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -523,6 +524,11 @@
                     "name": "Rob Lauer",
                     "npmuser": "rdlauer",
                     "framework": "core"
+                },
+                {
+                    "name": "Kumaran and Rob Lauer",
+                    "npmuser": "kumarandena",
+                    "framework": "angular"
                 }
             ],
             "readme": "",
@@ -609,7 +615,8 @@
             "description": "A basic UI-only view to inspire styled login form ideas.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-simple-ios-1.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=e8gUAq&v=8"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=e8gUAq&v=128",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=3miads&v=1"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -617,6 +624,11 @@
                     "name": "Rob Lauer",
                     "npmuser": "rdlauer",
                     "framework": "core"
+                },
+                {
+                    "name": "Kumaran and Rob Lauer",
+                    "npmuser": "kumarandena",
+                    "framework": "angular"
                 }
             ],
             "readme": "",
@@ -865,7 +877,7 @@
             "description": "Add sleek-looking transition animations when navigating between pages. There are many predefined animations to choose from.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/page-transitions.gif"],
             "links": {
-                "angular": "",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=pLDtqH&v=2",
                 "vue": "",
                 "core": "https://play.nativescript.org/?template=play-js&id=wO3Ml5&v=4"
             },
@@ -875,6 +887,11 @@
                     "name": "Shiva Prasad",
                     "npmuser": "multishiv19",
                     "framework": "core"
+                },
+                {
+                    "name": "Kumaran and Shiva Prasad",
+                    "npmuser": "kumarandena",
+                    "framework": "angular"
                 }
             ],
             "readme": "",
@@ -1036,7 +1053,7 @@
             "description": "If you need the ability to automatically or manually compose an email from your app and let the user use their mail client of choice to send it, check out this sample.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-email-android-1.png"],
             "links": {
-                "angular": "",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=uADCXs&v=2",
                 "vue": "",
                 "core": "https://play.nativescript.org/?template=play-js&id=mYich7&v=2"
             },
@@ -1046,6 +1063,11 @@
                     "name": "Rob Lauer",
                     "npmuser": "rdlauer",
                     "framework": "core"
+                },
+                {
+                    "name": "Kumaran and Rob Lauer",
+                    "npmuser": "kumarandena",
+                    "framework": "angular"
                 }
             ],
             "readme": "",
@@ -1862,27 +1884,23 @@
         },
         {
             "name": "Ripple Effect",
-            "description": "A simple animation to create ripple effect without using any plugin using core animation techniques.",
-            "screenshots": [
-                "https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/ripple-effetc.gif"
-            ],
+            "description": "A simple animation to create a ripple effect using only core animation techniques.",
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/ripple-effect.gif"],
             "links": {
+                "angular": "",
+                "vue": "",
                 "core": "https://play.nativescript.org/?template=play-tsc&id=RCdjkD&v=3"
             },
-            "categories": [
-                "animations"
-            ],
+            "categories": ["animations"],
             "authors": [
                 {
-                    "name": "Alex Ziskind",
+                    "name": "Rakesh Girase and Alex Ziskind",
+                    "npmuser": "",
                     "framework": "core"
                 }
             ],
             "readme": "",
-            "keywords": [
-                "animation",
-                "ripple"
-            ],
+            "keywords": ["animation", "ripple"],
             "order": 0
         }
     ]
