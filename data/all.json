@@ -1511,7 +1511,7 @@
             "description": "A step-by-step interface for booking a flight.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/book-a-flight.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=11",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=n0QpjG&v=47",
                 "vue": "",
                 "core": ""
             },
