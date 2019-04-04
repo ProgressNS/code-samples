@@ -4218,7 +4218,7 @@
             "description": "A live cricket score and a simple description",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/cricket_app.gif"],
                  "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=R9GFpP&v=4",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=R9GFpP&v=5",
                 "vue": "",
                 "core": ""
             },
