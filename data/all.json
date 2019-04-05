@@ -1902,6 +1902,27 @@
             "readme": "",
             "keywords": ["animation", "ripple"],
             "order": 0
+        },
+        {
+            "name": "Cricket Score App",
+            "description": "A sample app that provides live cricket scores with some unique UI concepts.",
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/cricket-app.gif"],
+            "links": {
+                "angular": "https://play.nativescript.org/?template=play-ng&id=R9GFpP&v=5",
+                "vue": "",
+                "core": ""
+            },
+            "categories": ["layouts and pages"],
+            "authors": [
+                {
+                    "name": "Paulson Ps",
+                    "npmuser": "",
+                    "framework": "angular"
+                }
+            ],
+            "readme": "",
+            "keywords": ["scroll", "cricket", "sports"],
+            "order": 0
         }
     ]
 }
