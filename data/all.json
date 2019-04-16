@@ -1075,7 +1075,7 @@
             "order": 0
         },
         {
-            "name": "Getting a User’s Current Location",
+            "name": "Getting a User's Current Location",
             "description": "Need to get the geocoordinates or address of the user? NativeScript-Geolocation makes that a breeze.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/geolocation-ios.png"],
             "links": {
