@@ -1333,8 +1333,8 @@
             "description": "An app design for an engaging music player app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-player-ui.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=15",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=kiAVxk&v=9",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=43",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=kiAVxk&v=42",
                 "core": ""
             },
             "categories": ["layouts and pages", "media"],
@@ -1444,7 +1444,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/travel-booking.gif"],
             "links": {
                 "angular": "",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=tzxBlZ&v=28",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=tzxBlZ&v=92",
                 "core": ""
             },
             "categories": ["layouts and pages", "forms and data"],
@@ -1533,7 +1533,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/spacex.gif"],
             "links": {
                 "angular": "",
-                "vue": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=27",
+                "vue": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=116",
                 "core": ""
             },
             "categories": ["layouts and pages", "animations", "interaction"],
@@ -1694,8 +1694,8 @@
             "description": "This sample app contains an amazing design for to help boostrap the next great music streaming app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-streaming.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=ERHBrE&v=11",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=z14Fnj&v=3",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=ERHBrE&v=105",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=z14Fnj&v=112",
                 "core": ""
             },
             "categories": ["interaction", "layouts and pages"],
@@ -1746,17 +1746,12 @@
             "description": "Get a head start on building a new social networking with this sample app design.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-networking.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=kfKgN2&v=2",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=ZiXWFo&v=5",
-                "core": "https://play.nativescript.org/?template=play-js&id=O581mC&v=38"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=kfKgN2&v=217",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=ZiXWFo&v=36",
+                "core": ""
             },
             "categories": ["layouts and pages"],
             "authors": [
-                {
-                    "name": "George Abashidze",
-                    "npmuser": "",
-                    "framework": "core"
-                },
                 {
                     "name": "John Andrew Asaria and George Abashidze",
                     "npmuser": "",
@@ -1777,8 +1772,8 @@
             "description": "Browse a restaurant menu with this engaging app UI.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/restaurant-menu.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=DVxbTC&v=12",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=sPOHNo&v=70",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=DVxbTC&v=403",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=sPOHNo&v=228",
                 "core": ""
             },
             "categories": ["layouts and pages", "animations", "interaction", "navigation"],
