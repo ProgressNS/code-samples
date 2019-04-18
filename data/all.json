@@ -112,7 +112,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radchart-ios.gif"],
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=8zpRGL&v=4",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=en7KJC&v=44",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=en7KJC&v=84",
                 "core": "https://play.nativescript.org/?template=play-js&id=EhWMgK&v=4"
             },
             "categories": ["forms and data"],
@@ -143,7 +143,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-ios.gif"],
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC&v=4",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=10",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=22",
                 "core": "https://play.nativescript.org/?template=play-js&id=avb6XO&v=5"
             },
             "categories": ["forms and data"],
@@ -205,7 +205,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/circular-progress-ios.gif"],
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=20",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm&v=16",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm&v=45",
                 "core": "https://play.nativescript.org/?template=play-js&id=tiSGL2&v=2"
             },
             "categories": ["layouts and pages"],
@@ -847,7 +847,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radautocomplete.gif"],
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=G78alI&v=2",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=MDT4GO&v=19",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=MDT4GO&v=21",
                 "core": "https://play.nativescript.org/?template=play-tsc&id=rQ2vVD&v=4"
             },
             "categories": ["forms and data"],
