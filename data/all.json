@@ -1922,7 +1922,7 @@
         {
             "name": "Playing with Shadows",
             "description": "Simple app showcasing text-shadows plugin and drag effects.",
-            "screenshots": ['https://github.com/tralves/nativescript-shadowed-label/raw/master/images/playing-with-shadows.gif"],
+            "screenshots": ["https://github.com/tralves/nativescript-shadowed-label/raw/master/images/playing-with-shadows.gif"],
             "links": {
                 "angular": "",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=roCIm3",
