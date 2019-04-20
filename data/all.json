@@ -1918,6 +1918,27 @@
             "readme": "",
             "keywords": ["scroll", "cricket", "sports"],
             "order": 0
+        },
+        {
+            "name": "Playing with Shadows",
+            "description": "Simple app showcasing text-shadows plugin and drag effects.",
+            "screenshots": ['https://github.com/tralves/nativescript-shadowed-label/raw/master/images/playing-with-shadows.gif"],
+            "links": {
+                "angular": "",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=roCIm3",
+                "core": ""
+            },
+            "categories": ["Interaction", "Animations"],
+            "authors": [
+                {
+                    "name": "Tiago Alves",
+                    "npmuser": "tralves",
+                    "framework": "vue"
+                }
+            ],
+            "readme": "",
+            "keywords": ["shadow", "drag", "text-shadows"],
+            "order": 0
         }
     ]
 }
