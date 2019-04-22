@@ -1921,14 +1921,14 @@
         },
         {
             "name": "Playing with Shadows",
-            "description": "Simple app showcasing text-shadows plugin and drag effects.",
-            "screenshots": ["https://github.com/tralves/nativescript-shadowed-label/raw/master/images/playing-with-shadows.gif"],
+            "description": "Simple app showcasing the text-shadows plugin with drag effects.",
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/playing-with-shadows.gif"],
             "links": {
                 "angular": "",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=roCIm3",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=roCIm3&v=7",
                 "core": ""
             },
-            "categories": ["Interaction", "Animations"],
+            "categories": ["interaction", "animations"],
             "authors": [
                 {
                     "name": "Tiago Alves",
@@ -1938,7 +1938,7 @@
             ],
             "readme": "",
             "keywords": ["shadow", "drag", "text-shadows"],
-            "order": 0
+            "order": 50
         }
     ]
 }
