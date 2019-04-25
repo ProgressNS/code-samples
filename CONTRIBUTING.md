@@ -2,6 +2,8 @@
 
 Interested in contributing your own sample app? Awesome! 👍
 
+> We can also use help with migrating existing sample apps to other frameworks (i.e. from Angular to Vue/Core, or any combination in between!). If you're interested, [check out the issues page](https://github.com/NativeScript/code-samples/issues).
+
 Before you submit anything, here are some guidelines we'd like you to follow:
 
  - [Code of Conduct](#coc)
