@@ -466,7 +466,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-images-ios-1.png"],
             "links": {
                 "core": "https://play.nativescript.org/?template=play-tsc&id=phg6fV&v=4",
-                "angular": "https://play.nativescript.org/?template=play-ng&id=2meSv9"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=2meSv9&v=1"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -541,7 +541,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-master-detail-drawer.gif"],
             "links": {
                 "core": "https://play.nativescript.org/?template=play-tsc&id=Y4fVGt&v=16",
-                "angular": "https://play.nativescript.org/?template=play-ng&id=GYAGpS"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=GYAGpS&v=1"
             },
             "categories": ["forms and data"],
             "authors": [
@@ -615,7 +615,7 @@
             "description": "A basic UI-only view to inspire styled login form ideas.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-simple-ios-1.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=e8gUAq&v=128",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=e8gUAq&v=131",
                 "angular": "https://play.nativescript.org/?template=play-ng&id=3miads&v=1"
             },
             "categories": ["layouts and pages"],
