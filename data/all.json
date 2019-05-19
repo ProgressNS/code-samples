@@ -1939,6 +1939,27 @@
             "readme": "",
             "keywords": ["shadow", "drag", "text-shadows"],
             "order": 50
+        },
+		 {
+            "name": "Android Incoming Call Screen Animation ",
+            "description": "A quick UI clone of android call screen animation",
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/android-incoming-call-screen-.gif"],
+            "links": {
+                "angular": "",
+                "vue": "",
+                "core": "https://play.nativescript.org/?template=play-js&id=1MnfbG"
+            },
+            "categories": ["animations"],
+            "authors": [
+                {
+                    "name": "Oluwaseye Ogunkoya",
+                    "npmuser": "oluwaseye",
+                    "framework": "core"
+                }
+            ],
+            "readme": "",
+            "keywords": ["bounce", "phonecall", "animation"],
+            "order": 50
         }
     ]
 }
