@@ -1939,6 +1939,69 @@
             "readme": "",
             "keywords": ["shadow", "drag", "text-shadows"],
             "order": 50
+        },
+        {
+            "name": "RadListView with Pull-to-Refresh",
+            "description": "A simple news feed that uses RadListView from the pro NativeScript UI components along with pull-to-refresh functionality built-in.",
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rlv-pull-to-refresh.gif"],
+            "links": {
+                "angular": "",
+                "vue": "",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=sNo2fG"
+            },
+            "categories": ["layouts and pages"],
+            "authors": [
+                {
+                    "name": "Martin Yankov",
+                    "npmuser": "",
+                    "framework": "core"
+                }
+            ],
+            "readme": "",
+            "keywords": ["listview", "news", "pull to refresh"],
+            "order": 0
+        },
+        {
+            "name": "RadListView with Favorites",
+            "description": "A listview that allows you to mark specific items as favorites via a swipe action.",
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rlv-swipe-action.gif"],
+            "links": {
+                "angular": "",
+                "vue": "",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=uQmH4X"
+            },
+            "categories": ["layouts and pages"],
+            "authors": [
+                {
+                    "name": "Martin Yankov",
+                    "npmuser": "",
+                    "framework": "core"
+                }
+            ],
+            "readme": "",
+            "keywords": ["listview", "favorites", "swipe"],
+            "order": 0
+        },
+        {
+            "name": "App Menu Items with Repeater",
+            "description": "An alternative type of listview that uses a repeater to display a menu of items.",
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rpt-menu.gif"],
+            "links": {
+                "angular": "",
+                "vue": "",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=rx1XbX"
+            },
+            "categories": ["layouts and pages"],
+            "authors": [
+                {
+                    "name": "Martin Yankov",
+                    "npmuser": "",
+                    "framework": "core"
+                }
+            ],
+            "readme": "",
+            "keywords": ["listview", "repeater", "menu"],
+            "order": 0
         }
     ]
 }
