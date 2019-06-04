@@ -1694,8 +1694,8 @@
             "description": "This sample app contains an amazing design for to help boostrap the next great music streaming app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-streaming.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=ERHBrE&v=105",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=z14Fnj&v=112",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=rPhRoK&v=2",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=MaOeiD&v=2",
                 "core": ""
             },
             "categories": ["interaction", "layouts and pages"],
