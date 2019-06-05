@@ -421,7 +421,7 @@
             "description": "Actively filter a listview with text entered in a Search Bar.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-filter-image-ios-1.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=TcHeUQ&v=10"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=TcHeUQ&v=269"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -465,7 +465,7 @@
             "description": "Highly styled image-focused listview with text overlapping items.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-images-ios-1.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=phg6fV&v=4",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=phg6fV&v=417",
                 "angular": "https://play.nativescript.org/?template=play-ng&id=2meSv9&v=1"
             },
             "categories": ["layouts and pages"],
@@ -515,7 +515,7 @@
             "description": "An easy way to display a news feed with an option to filter stories as well.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-newsfeed.gif"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=drbfxY&v=6",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=drbfxY&v=97",
                 "angular": "https://play.nativescript.org/?template=play-ng&id=IwTaEy&v=2"
             },
             "categories": ["layouts and pages"],
