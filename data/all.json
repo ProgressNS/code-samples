@@ -1553,8 +1553,8 @@
             "description": "A personal finance sample app with a calendar component.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/personal-finance-cal.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=zYpU71&v=10",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=4JhSZz&v=49",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=zYpU71&v=113",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=4JhSZz&v=101",
                 "core": ""
             },
             "categories": ["layouts and pages"],
