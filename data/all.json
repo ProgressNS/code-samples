@@ -1444,7 +1444,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/travel-booking.gif"],
             "links": {
                 "angular": "",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=tzxBlZ&v=92",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=tzxBlZ&v=120",
                 "core": ""
             },
             "categories": ["layouts and pages", "forms and data"],
