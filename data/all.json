@@ -1333,8 +1333,8 @@
             "description": "An app design for an engaging music player app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-player-ui.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=43",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=kiAVxk&v=42",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=EaETCw&v=54",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=kiAVxk&v=48",
                 "core": ""
             },
             "categories": ["layouts and pages", "media"],
@@ -1694,8 +1694,8 @@
             "description": "This sample app contains an amazing design for to help boostrap the next great music streaming app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/music-streaming.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=rPhRoK&v=2",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=MaOeiD&v=2",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=rPhRoK&v=3",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=MaOeiD&v=3",
                 "core": ""
             },
             "categories": ["interaction", "layouts and pages"],
@@ -1761,6 +1761,11 @@
                     "name": "Salvador Flores and George Abashidze",
                     "npmuser": "",
                     "framework": "angular"
+                },
+                {
+                    "name": "Salvador Flores and George Abashidze",
+                    "npmuser": "",
+                    "framework": "core"
                 }
             ],
             "readme": "",
@@ -1772,8 +1777,8 @@
             "description": "Browse a restaurant menu with this engaging app UI.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/restaurant-menu.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=DVxbTC&v=403",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=sPOHNo&v=228",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=DVxbTC&v=582",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=sPOHNo&v=278",
                 "core": ""
             },
             "categories": ["layouts and pages", "animations", "interaction", "navigation"],
