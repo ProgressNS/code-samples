@@ -297,9 +297,9 @@
             "description": "A good looking login/registration experience is a must have for any app. Here is a simple yet elegant looking login form example.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-form-ios-2.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=3073",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=786",
-                "core": "https://play.nativescript.org/?template=play-js&id=h9CNcL&v=3"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=6155",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=HdDm9M&v=2260",
+                "core": "https://play.nativescript.org/?template=play-js&id=h9CNcL&v=3478"
             },
             "categories": ["layouts and pages"],
             "authors": [
