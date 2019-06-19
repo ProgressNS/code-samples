@@ -5,7 +5,7 @@
             "description": "This sample login functionality is backed by Kinvey. Follows some of the best practices including: field labels, show password, inline errors, etc. This implementation is also tablet friendly.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-kinvey.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=uQ7n0t&v=7"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=uQ7n0t&v=301"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -678,7 +678,7 @@
             "description": "Example construction site inspection app with friendly UX working offline using Kinvey.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/kinvey-offline-support.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=36AEWh&v=23"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=36AEWh&v=101"
             },
             "categories": ["layouts and pages"],
             "authors": [
