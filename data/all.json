@@ -1249,7 +1249,7 @@
             "description": "This sample shows how to build a fully functional offline task-tracking app (groceries) using a sqlite database.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/groceries-sqlite.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=AO3iYR&v=2",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=AO3iYR&v=322",
                 "vue": "",
                 "core": ""
             },
