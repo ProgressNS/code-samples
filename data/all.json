@@ -1532,8 +1532,8 @@
             "description": "Build an engaging UI with this SpaceX spacecraft info starter app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/spacex.gif"],
             "links": {
-                "angular": "",
-                "vue": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=116",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=116",
+                "vue": "",
                 "core": ""
             },
             "categories": ["layouts and pages", "animations", "interaction"],
@@ -1541,7 +1541,7 @@
                 {
                     "name": "Enkot",
                     "npmuser": "",
-                    "framework": "vue"
+                    "framework": "angular"
                 }
             ],
             "readme": "",
