@@ -441,7 +441,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multi-col-listview-ios-1.png"],
             "links": {
                 "core": "https://play.nativescript.org/?template=play-tsc&id=VNkHaw&v=4",
-                "angular": "https://play.nativescript.org/?template=play-ng&id=2OkUP6"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=2OkUP6&v=1"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -491,7 +491,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-card-ios-1.png"],
             "links": {
                 "core": "https://play.nativescript.org/?template=play-tsc&id=Zwli5I&v=3",
-                "angular": "https://play.nativescript.org/?template=play-ng&id=BEW9aV"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=BEW9aV&v=1"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -1952,7 +1952,7 @@
             "links": {
                 "angular": "",
                 "vue": "",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=sNo2fG"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=sNo2fG&v=1"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -1973,7 +1973,7 @@
             "links": {
                 "angular": "",
                 "vue": "",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=uQmH4X"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=uQmH4X&v=1"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -1994,7 +1994,7 @@
             "links": {
                 "angular": "",
                 "vue": "",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=rx1XbX"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=rx1XbX&v=1"
             },
             "categories": ["layouts and pages"],
             "authors": [
