@@ -540,7 +540,7 @@
             "description": "A master/detail UI that uses a SideDrawer as the master list with a styled view (with image background) as the child item.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-master-detail-drawer.gif"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=Y4fVGt&v=16",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=Y4fVGt&v=545",
                 "angular": "https://play.nativescript.org/?template=play-ng&id=GYAGpS&v=1"
             },
             "categories": ["forms and data"],
