@@ -590,7 +590,7 @@
             "description": "A basic styled drawer with an avatar image.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-avatar.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=xow7Aa&v=3",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=xow7Aa&v=1359",
                 "angular": "https://play.nativescript.org/?template=play-ng&id=Twb3zm&v=3"
             },
             "categories": ["interaction"],
