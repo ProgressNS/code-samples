@@ -565,7 +565,7 @@
             "description": "A basic styled drawer with a highlighted item and an image background in the header.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/drawer-highlight.png"],
             "links": {
-                "core": "https://play.nativescript.org/?template=play-tsc&id=aB4217&v=3",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=aB4217&v=160",
                 "angular": "https://play.nativescript.org/?template=play-ng&id=nNRsUE&v=2"
             },
             "categories": ["interaction"],
@@ -998,7 +998,7 @@
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=QgoOAr&v=3",
                 "vue": "",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=lUXwID&v=3"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=lUXwID&v=314"
             },
             "categories": ["interaction"],
             "authors": [
