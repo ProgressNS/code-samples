@@ -1746,7 +1746,7 @@
             "description": "Get a head start on building a new social networking with this sample app design.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/social-networking.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=kfKgN2&v=367",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=kfKgN2&v=374",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=ZiXWFo&v=62",
                 "core": "https://play.nativescript.org/?template=play-js&id=O581mC&v=72"
             },
