@@ -1228,7 +1228,7 @@
             "description": "This sample shows how easily we can build a tab bar with sliding animations",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottombar-animation.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=WvQnzu&v=19",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=WvQnzu&v=1241",
                 "vue": "",
                 "core": ""
             },
