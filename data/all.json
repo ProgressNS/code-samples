@@ -235,7 +235,7 @@
             "description": "Use cards in your app to build attractive UI. Keep it minimal and simple.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/card-ui-ios-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=3",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=684",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=zgFteS&v=41",
                 "core": "https://play.nativescript.org/?template=play-js&id=K4plIu&v=2"
             },
@@ -361,7 +361,7 @@
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=lCu2B5&v=2",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=12",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=3"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=74"
             },
             "categories": ["media"],
             "authors": [
