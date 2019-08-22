@@ -640,7 +640,7 @@
             "description": "You can easily create modal dialogs that contain custom UI.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/custom-modal.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=BDujuH&v=12"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=BDujuH&v=376"
             },
             "categories": ["layouts and pages"],
             "authors": [
