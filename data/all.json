@@ -419,7 +419,7 @@
         {
             "name": "Filterable ListView with Images",
             "description": "Actively filter a listview with text entered in a Search Bar.",
-            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-filter-image-ios-1.gif"],
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-filter-image-ios.gif"],
             "links": {
                 "core": "https://play.nativescript.org/?template=play-tsc&id=FaTrgV&v=16"
             },
