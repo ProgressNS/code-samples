@@ -1266,8 +1266,29 @@
                 }
             ],
             "readme": "",
-            "keywords": ["animation", "bottombar", "ios", "android"],
+            "keywords": ["animation", "bottombar", "tab"],
             "order": 97
+		},
+        {
+            "name": "Custom Cradle Tab Bar",
+            "description": "A navigation bar with a cradle-like effect that can be either dragged or clicked",
+            "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/custom-cradle-tab-bar.gif"],
+            "links": {
+                "angular": "https://play.nativescript.org/?template=play-ng&id=YfZPr1",
+                "vue": "",
+                "core": ""
+            },
+            "categories": ["layouts and pages", "animations"],
+            "authors": [
+                {
+                    "name": "William TjondroSuharto",
+                    "npmuser": "williamjuan027",
+                    "framework": "angular"
+                }
+            ],
+            "readme": "",
+            "keywords": ["animation", "bottombar", "tab"],
+            "order": 99
         },
         {
             "name": "Groceries app using SQLite",
