@@ -49,7 +49,7 @@
             "description": "You can store and retrieve data in your app using the application-settings module. This demo shows you the various application-settings APIs.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/localdata-ios-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=QkYzyJ&v=2",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=QkYzyJ&v=172",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=bsfxpM&v=29",
                 "core": "https://play.nativescript.org/?template=play-js&id=EwK7IM&v=4"
             },
@@ -80,9 +80,9 @@
             "description": "You can easily monitor the network status of a device using NativeScript's connectivity module.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/network-ios-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v&v=24",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh&v=12",
-                "core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=3"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v&v=31",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh&v=40",
+                "core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=27"
             },
             "categories": ["forms and data"],
             "authors": [
@@ -111,9 +111,9 @@
             "description": "Use NativeScript UI's RadChart component to display data creatively in your apps. There are various chart types to choose from. This demo shows a bar chart.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radchart-ios.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=8zpRGL&v=4",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=8zpRGL&v=839",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=en7KJC&v=84",
-                "core": "https://play.nativescript.org/?template=play-js&id=EhWMgK&v=4"
+                "core": "https://play.nativescript.org/?template=play-js&id=EhWMgK&v=229"
             },
             "categories": ["forms and data"],
             "authors": [
@@ -142,9 +142,9 @@
             "description": "Use NativeScript UI's RadGauge to show progress of a task or any circular UI/UX experience that involves gauges.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radgauge-ios.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC&v=4",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=22",
-                "core": "https://play.nativescript.org/?template=play-js&id=avb6XO&v=5"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=Jz1GbC&v=163",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=AGcXlv&v=35",
+                "core": "https://play.nativescript.org/?template=play-js&id=avb6XO&v=153"
             },
             "categories": ["forms and data"],
             "authors": [
@@ -173,9 +173,9 @@
             "description": "Modal pages are perfect when you want the user to select something without leaving the current page. Or even show a small form.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/modal-android-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=iC2pnQ&v=6",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=2xom49&v=15",
-                "core": "https://play.nativescript.org/?template=play-js&id=4Mbqoc&v=3"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=iC2pnQ&v=143",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=2xom49&v=225",
+                "core": "https://play.nativescript.org/?template=play-js&id=4Mbqoc&v=109"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -204,9 +204,9 @@
             "description": "Linear progress bars are boring! How about we use some circular ones?",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/circular-progress-ios.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=20",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm&v=45",
-                "core": "https://play.nativescript.org/?template=play-js&id=tiSGL2&v=2"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=ERyQe1&v=152",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=MDXLXm&v=75",
+                "core": "https://play.nativescript.org/?template=play-js&id=tiSGL2&v=104"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -235,9 +235,9 @@
             "description": "Use cards in your app to build attractive UI. Keep it minimal and simple.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/card-ui-ios-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=684",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=bMb4PO&v=771",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=zgFteS&v=41",
-                "core": "https://play.nativescript.org/?template=play-js&id=K4plIu&v=2"
+                "core": "https://play.nativescript.org/?template=play-js&id=K4plIu&v=210"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -266,9 +266,9 @@
             "description": "Often times you need the list UI in your app to have an image for each item. Here's an easy way to do that.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-avatar-android-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=4",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K&v=56",
-                "core": "https://play.nativescript.org/?template=play-js&id=9nQNyA&v=3"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=372",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K&v=333",
+                "core": "https://play.nativescript.org/?template=play-js&id=9nQNyA&v=264"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -328,9 +328,9 @@
             "description": "RadCalendar from NativeScript UI has all the features you need to show calendar, range date picking, showing events, and more.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radcalendar-ios-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=DKSI1b&v=10",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=wpy6CS&v=22",
-                "core": "https://play.nativescript.org/?template=play-js&id=Cfv3rB&v=3"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=DKSI1b&v=221",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=wpy6CS&v=75",
+                "core": "https://play.nativescript.org/?template=play-js&id=Cfv3rB&v=100"
             },
             "categories": ["forms and data"],
             "authors": [
@@ -359,9 +359,9 @@
             "description": "NativeScript-Video makes it easy, just drop a Video tag, with a src attribute and boom, you've got video!",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-ios-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=lCu2B5&v=2",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=12",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=74"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=lCu2B5&v=49",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=215",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=82"
             },
             "categories": ["media"],
             "authors": [
@@ -390,9 +390,9 @@
             "description": "Need to play an audio file (e.g. mp3) in your app? Look no further than this audio sample app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/audio-ios-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=WBxQsb&v=3",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=WBxQsb&v=23",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=83Hs3D&v=19",
-                "core": "https://play.nativescript.org/?template=play-js&id=eXsCJm&v=2"
+                "core": "https://play.nativescript.org/?template=play-js&id=eXsCJm&v=45"
             },
             "categories": ["media"],
             "authors": [
@@ -659,7 +659,7 @@
             "description": "You can easily create Master/Detail UI with nice animations and transitions.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/listview-header-animation.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=iDY4kF&v=11"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=iDY4kF&v=1282"
             },
             "categories": ["animations"],
             "authors": [
@@ -722,8 +722,8 @@
             "description": "A sample utilizing nativescript-imagepicker and nativescript-background-http plugins",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/image-picker-upload.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=pmXu7c&v=15",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=lIjN6u&v=10"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=pmXu7c&v=70",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=lIjN6u&v=121"
             },
             "categories": ["forms and data"],
             "authors": [
@@ -747,9 +747,9 @@
             "description": "Dialogs help you to give quick feedback to the user about something. Or prompt the user to enter something, or to choose between multiple options.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/dialogs-ios.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=dWQhV7&v=5",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=dWQhV7&v=532",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=fBWYsl&v=15",
-                "core": "https://play.nativescript.org/?template=play-js&id=cOCTYi&v=2"
+                "core": "https://play.nativescript.org/?template=play-js&id=cOCTYi&v=650"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -778,7 +778,7 @@
             "description": "Learn how to alter your user interface based on phone and tablet form factors.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/device-specific-ui.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=uJIT6r&v=3",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=uJIT6r&v=101",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=AevVWK&v=6",
                 "core": "https://play.nativescript.org/?template=play-js&id=62IRSQ&v=3"
             },
@@ -809,9 +809,9 @@
             "description": "For when you want a two-column layout on tablets, but a one-column layout on phones.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/split-view-tablet.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=zaE2Hf&v=5",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=zaE2Hf&v=160",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=rxN9wH&v=119",
-                "core": "https://play.nativescript.org/?template=play-js&id=HBRXbR&v=2"
+                "core": "https://play.nativescript.org/?template=play-js&id=HBRXbR&v=196"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -840,9 +840,9 @@
             "description": "Have a list of different types of items? You can easily define different templates based on conditions, and the ListView will choose the right one.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/multiple-listview-templates.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=5QGgUF&v=4",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=5QGgUF&v=61",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=L8tcfY&v=24",
-                "core": "https://play.nativescript.org/?template=play-js&id=yy73to&v=4"
+                "core": "https://play.nativescript.org/?template=play-js&id=yy73to&v=40"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -871,9 +871,9 @@
             "description": "Do you expect users to input things from a list? The RadAutoCompleteTextView is a UI element that makes this easy.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/radautocomplete.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=G78alI&v=2",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=G78alI&v=179",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=MDT4GO&v=21",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=rQ2vVD&v=35"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=rQ2vVD&v=37"
             },
             "categories": ["forms and data"],
             "authors": [
@@ -928,9 +928,9 @@
             "description": "Provide simple but effective label animations for when users focus on individual form elements.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/float-up-label.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=9GOYmZ&v=59",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=9GOYmZ&v=662",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=WlzgRU&v=32",
-                "core": "https://play.nativescript.org/?template=play-js&id=oSksgv&v=2"
+                "core": "https://play.nativescript.org/?template=play-js&id=oSksgv&v=55"
             },
             "categories": ["forms and data", "animations"],
             "authors": [
@@ -959,7 +959,7 @@
             "description": "A simple demonstration of how to bind to user interface components to common gestures in your NativeScript apps.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-gestures.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=Wh9rvG&v=7",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=Wh9rvG&v=49",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=C8QFJH&v=59",
                 "core": "https://play.nativescript.org/?template=play-tsc&id=s1GglM&v=2"
             },
@@ -990,9 +990,9 @@
             "description": "Provide an engaging parallax effect to your views with a simple animation.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/parallax.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=b9hyJh&v=2",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=NL0CUC&v=64",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=u5u9H5&v=4"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=b9hyJh&v=337",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=NL0CUC&v=197",
+                "core": "https://play.nativescript.org/?template=play-tsc&id=u5u9H5&v=90"
             },
             "categories": ["interaction"],
             "authors": [
@@ -1047,9 +1047,9 @@
             "description": "Need to take a picture and save it to the device? Look no further.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-camera-ios.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=VD8YSd&v=72",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=1j8XNf&v=24",
-                "core": "https://play.nativescript.org/?template=play-js&id=XWQoR7&v=53"
+                "angular": "https://play.nativescript.org/?template=play-ng&id=VD8YSd&v=228",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=1j8XNf&v=390",
+                "core": "https://play.nativescript.org/?template=play-js&id=XWQoR7&v=166"
             },
             "categories": ["media"],
             "authors": [
@@ -1078,7 +1078,7 @@
             "description": "If you need the ability to automatically or manually compose an email from your app and let the user use their mail client of choice to send it, check out this sample.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/basic-email-android-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=uADCXs&v=2",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=uADCXs&v=66",
                 "vue": "",
                 "core": "https://play.nativescript.org/?template=play-js&id=mYich7&v=2"
             },
@@ -1104,7 +1104,7 @@
             "description": "Need to get the geocoordinates or address of the user? NativeScript-Geolocation makes that a breeze.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/geolocation-ios.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a&v=2",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a&v=124",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=46",
                 "core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
             },
@@ -1157,7 +1157,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/absolute-clock.gif"],
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=MWXdk5&v=6",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=QMshGl&v=36",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=QMshGl&v=186",
                 "core": ""
             },
             "categories": ["layouts and pages", "animations"],
@@ -1253,7 +1253,7 @@
             "description": "This sample shows how easily we can build a tab bar with sliding animations",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/bottombar-animation.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=WvQnzu&v=1241",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=WvQnzu&v=1347",
                 "vue": "",
                 "core": ""
             },
@@ -1337,7 +1337,7 @@
             "description": "VOD (Video On Demand) app, with nice animations and a login screen.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/vod-application.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=UK71Zy&v=646",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=UK71Zy&v=934",
                 "vue": "",
                 "core": ""
             },
@@ -1447,7 +1447,7 @@
             "description": "Browse movies and even reserve your seats with this sample app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/movie-listings.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=2cXCDZ&v=5",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=2cXCDZ&v=326",
                 "vue": "",
                 "core": ""
             },
@@ -1578,7 +1578,7 @@
             "description": "Build an engaging UI with this SpaceX spacecraft info starter app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/spacex.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=116",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=oMFtUF&v=178",
                 "vue": "",
                 "core": ""
             },
@@ -1849,7 +1849,7 @@
             "description": "Play the quiz with list of categories & questions and even get last quiz score and last quiz date.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/ns-quiz.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=LhwHnA&v=2",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=LhwHnA&v=181",
                 "vue": "",
                 "core": ""
             },
@@ -1870,7 +1870,7 @@
             "description": "Experiment with color selections by mixing RGB values with nice animations.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/rgb-color-picker.gif"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=m9TO3j&v=2",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=m9TO3j&v=25",
                 "vue": "",
                 "core": ""
             },
@@ -1976,7 +1976,7 @@
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/playing-with-shadows.gif"],
             "links": {
                 "angular": "",
-                "vue": "https://play.nativescript.org/?template=play-vue&id=roCIm3&v=7",
+                "vue": "https://play.nativescript.org/?template=play-vue&id=roCIm3&v=149",
                 "core": ""
             },
             "categories": ["interaction", "animations"],
