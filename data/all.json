@@ -82,7 +82,8 @@
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=L9Xz6v&v=31",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=7nn3vh&v=40",
-                "core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=27"
+                "core": "https://play.nativescript.org/?template=play-js&id=2LGwu8&v=27",
+                "react": "https://play.nativescript.org/?template=play-react&id=ul6kdg&v=2"
             },
             "categories": ["forms and data"],
             "authors": [
@@ -100,6 +101,11 @@
                     "name": "Rob Lauer",
                     "npmuser": "rdlauer",
                     "framework": "core"
+                },
+                {
+                    "name": "Elena Hristova",
+                    "npmuser": "elena.hristova",
+                    "framework": "react"
                 }
             ],
             "readme": "",
@@ -268,7 +274,8 @@
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=372",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=WgCZ2K&v=333",
-                "core": "https://play.nativescript.org/?template=play-js&id=9nQNyA&v=264"
+                "core": "https://play.nativescript.org/?template=play-js&id=9nQNyA&v=264",
+                "react": "https://play.nativescript.org/?template=play-react&id=1DqTOB&v=3"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -286,6 +293,11 @@
                     "name": "Shiva Prasad",
                     "npmuser": "multishiv19",
                     "framework": "core"
+                },
+                {
+                    "name": "Elena Hristova",
+                    "npmuser": "elena.hristova",
+                    "framework": "react"
                 }
             ],
             "readme": "",
@@ -749,7 +761,8 @@
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=dWQhV7&v=532",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=fBWYsl&v=15",
-                "core": "https://play.nativescript.org/?template=play-js&id=cOCTYi&v=650"
+                "core": "https://play.nativescript.org/?template=play-js&id=cOCTYi&v=650",
+                "react": "https://play.nativescript.org/?template=play-react&id=eEH17M&v=2"
             },
             "categories": ["layouts and pages"],
             "authors": [
@@ -767,6 +780,11 @@
                     "name": "Shiva Prasad",
                     "npmuser": "multishiv19",
                     "framework": "core"
+                },
+                {
+                    "name": "Elena Hristova",
+                    "npmuser": "elena.hristova",
+                    "framework": "react"
                 }
             ],
             "readme": "",
@@ -961,7 +979,8 @@
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=Wh9rvG&v=49",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=C8QFJH&v=59",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=s1GglM&v=2"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=s1GglM&v=2",
+                "react": "https://play.nativescript.org/?template=play-react&id=4yCpyU&v=3"
             },
             "categories": ["interaction"],
             "authors": [
@@ -979,6 +998,11 @@
                     "name": "TJ VanToll",
                     "npmuser": "tjvantoll",
                     "framework": "core"
+                },
+                {
+                    "name": "Elena Hristova",
+                    "npmuser": "elena.hristova",
+                    "framework": "react"
                 }
             ],
             "readme": "",
@@ -1106,7 +1130,8 @@
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=5I6F7a&v=124",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=xYes1e&v=46",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=veTP4B&v=2",
+                "react": "https://play.nativescript.org/?template=play-react&id=0yPZQH&v=4"		
             },
             "categories": ["interaction"],
             "authors": [
@@ -1124,6 +1149,11 @@
                     "name": "Rob Lauer",
                     "npmuser": "rdlauer",
                     "framework": "core"
+                },
+                {
+                    "name": "Elena Hristova",
+                    "npmuser": "elena.hristova",
+                    "framework": "react"
                 }
             ],
             "readme": "",
@@ -1224,7 +1254,8 @@
             "links": {
                 "angular": "https://play.nativescript.org/?template=play-ng&id=LfbvME&v=15",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=7YrUzj&v=7",
-                "core": "https://play.nativescript.org/?template=play-tsc&id=ixN0xD&v=2"
+                "core": "https://play.nativescript.org/?template=play-tsc&id=ixN0xD&v=2",
+                "react": "https://play.nativescript.org/?template=play-react&id=KScXyb&v=2"
             },
             "categories": ["layouts and pages", "interaction"],
             "authors": [
@@ -1242,6 +1273,11 @@
                     "name": "TJ VanToll",
                     "npmuser": "tjvantoll",
                     "framework": "core"
+                },
+                {
+                    "name": "Elena Hristova",
+                    "npmuser": "elena.hristova",
+                    "framework": "react"
                 }
             ],
             "readme": "",
