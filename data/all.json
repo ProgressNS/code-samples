@@ -359,7 +359,7 @@
             "description": "NativeScript-Video makes it easy, just drop a Video tag, with a src attribute and boom, you've got video!",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/video-ios-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=lCu2B5&v=49",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=lCu2B5&v=50",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=r2qFXm&v=215",
                 "core": "https://play.nativescript.org/?template=play-tsc&id=TjneZT&v=82"
             },
@@ -390,7 +390,7 @@
             "description": "Need to play an audio file (e.g. mp3) in your app? Look no further than this audio sample app.",
             "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/audio-ios-1.png"],
             "links": {
-                "angular": "https://play.nativescript.org/?template=play-ng&id=WBxQsb&v=23",
+                "angular": "https://play.nativescript.org/?template=play-ng&id=WBxQsb&v=24",
                 "vue": "https://play.nativescript.org/?template=play-vue&id=83Hs3D&v=19",
                 "core": "https://play.nativescript.org/?template=play-js&id=eXsCJm&v=45"
             },
