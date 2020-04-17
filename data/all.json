@@ -1,5 +1,35 @@
 {
     "samples": [
+	{
+		"name": "NativeScript Apple Card - 3D Animation",
+		"description": "3d horizontal and vertical animation of an Apple Card using only styles. The application include some .scss styles, custom mixins, font icons, .png images to create an Apple Card using 2 GridLayouts.",
+		"screenshots": [
+			"https://raw.githubusercontent.com/salvadorcoronel/ns-3d-applecard/66a7b8f013c1950c8ca51414301958377f578eb9/docs/ns-apple-card-320.gif"
+		],
+		"links": {
+			"angular": "https://play.nativescript.org/?template=play-ng&id=l5mqoy&v=4",
+			"vue": "",
+			"core": ""
+		},
+		"categories": [
+			"animation 3d styles"
+		],
+		"authors": [
+			{
+				"name": "Salvador Coronel Flores",
+				"npmuser": "",
+				"framework": "angular"
+			}
+		],
+		"readme": "",
+		"keywords": [
+			"animation",
+			"3d",
+			"flip",
+			"rotate"
+		],
+		"order": 0
+	},
         {
             "name": "Login Form backed by Kinvey",
             "description": "This sample login functionality is backed by Kinvey. Follows some of the best practices including: field labels, show password, inline errors, etc. This implementation is also tablet friendly.",
