@@ -22,25 +22,6 @@
       "order": 75
     },
     {
-      "name": "Login Form backed by Kinvey",
-      "description": "This sample login functionality is backed by Kinvey. Follows some of the best practices including: field labels, show password, inline errors, etc. This implementation is also tablet friendly.",
-      "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/login-kinvey.gif"],
-      "links": {
-        "angular": "https://play.nativescript.org/?template=play-ng&id=uQ7n0t&v=301"
-      },
-      "categories": ["layouts and pages"],
-      "authors": [
-        {
-          "name": "Sajja Phani",
-          "npmuser": "sajjaphani",
-          "framework": "angular"
-        }
-      ],
-      "readme": "",
-      "keywords": ["login", "Kinvey", "form", "password"],
-      "order": 75
-    },
-    {
       "name": "Carousel Sample Implementation",
       "description": "A sample carousel implementation in NativeScript without relying on plugins, built with ui builder and animations.",
       "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/carousel-ns.gif"],
@@ -704,50 +685,6 @@
       ],
       "readme": "",
       "keywords": ["animation", "transition", "master detail", "listview"],
-      "order": 50
-    },
-    {
-      "name": "Enterprise Authentication using Kinvey MIC",
-      "description": "A demo on how to create {N} apps using enterprise identity and SSO systems to authenticate users. It leverages Kinvey's Mobile Identity Connect feature to support various identity providers including SAML, OAuth2, OpenID Connect, Active Directory and more.",
-      "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/enterprise-auth.gif"],
-      "links": {
-        "angular": "https://play.nativescript.org/?template=play-ng&id=wMzXuX&v=11",
-        "core": "https://play.nativescript.org/?template=play-tsc&id=QShWvw&v=6"
-      },
-      "categories": ["layouts and pages"],
-      "authors": [
-        {
-          "name": "Teodor Bozhikov",
-          "npmuser": "tbozhikov",
-          "framework": "angular"
-        },
-        {
-          "name": "Teodor Bozhikov",
-          "npmuser": "tbozhikov",
-          "framework": "core"
-        }
-      ],
-      "readme": "",
-      "keywords": ["login", "Kinvey", "form", "password", "authentication", "enterprise", "sso"],
-      "order": 75
-    },
-    {
-      "name": "Master/Detail using Kinvey, Offline, and Image Picker",
-      "description": "Example construction site inspection app with friendly UX working offline using Kinvey.",
-      "screenshots": ["https://raw.githubusercontent.com/NativeScript/code-samples/master/screens/kinvey-offline-support.gif"],
-      "links": {
-        "angular": "https://play.nativescript.org/?template=play-ng&id=36AEWh&v=101"
-      },
-      "categories": ["layouts and pages"],
-      "authors": [
-        {
-          "name": "Teodor Bozhikov",
-          "npmuser": "tbozhikov",
-          "framework": "angular"
-        }
-      ],
-      "readme": "",
-      "keywords": ["online", "offline", "connection", "connectivity", "network", "master detail", "listview", "kinvey", "image picker"],
       "order": 50
     },
     {
